@@ -54,7 +54,7 @@ would be available for all participating projects. Examples of these services in
 | Greg Watson | Oak Ridge National Laboratory |
 | Addi Thakur Malviya | Oak Ridge National Laboratory |
 | Elaine Raybourn | Sandia National Laboratories |
-| Daniel Katz | University of Illinois Urbana Champaign |
+| Daniel S. Katz | University of Illinois Urbana Champaign |
 | Bill Hoffman | Kitware, Inc. |
 | John Kellerman | Eclipse.org Foundation, Inc. |
 | Clark Roundy | Eclipse.org Foundation, Inc. |
