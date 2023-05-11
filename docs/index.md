@@ -28,8 +28,8 @@ something that is greater than the sum of the individual parts.
 
 # Mission
 
-Our mission is to establish a not-for-profit organization that can act as 
-an open and transparent facilitator allowing collections of teams, groups, 
+Our mission is to establish a not-for-profit organization that will act as 
+an open and transparent facilitator that allows collections of teams, groups, 
 and organizations to advance scientific software through a shared ecosystem. 
 The type of foundation model we are envisioning has proved highly successful 
 for open-source software, where foundations espouse neutrality, open 
