@@ -14,7 +14,7 @@ urgently required, and needed to secure the Department of Energy’s
 Office of Science (DOE SC) long-term vision of software sustainability.
 
 Any successful strategy for scientific software sustainability will need to
-encompass the whole community, and the OSSF centers around the creation 
+encompass the whole community, and the Open Scientific Software Foundation (OSSF) centers around the creation 
 of a unique partnership between these stakeholders in the form of a 
 self-sustaining not-for-profit open-source organization that will facilitate 
 the long-term stewardship of scientific software. 
