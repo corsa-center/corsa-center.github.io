@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
 
@@ -60,3 +57,40 @@ would be available for all participating projects. Examples of these services in
 | Clark Roundy | Eclipse.org Foundation, Inc. |
 | Dana Robinson | The HDF Group |
 
+# Get Involved
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:600px;}
+input:invalid:required { border: 2px dashed red; }
+input:valid { border: 2px solid black; }
+</style>
+<div id="mc_embed_signup">
+    <form action="https://gaggle.email/join/software4science@gaggle.email" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+        <div id="mc_embed_signup_scroll">
+        <h2></h2>
+        <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-NAME">Name  <span class="asterisk">*</span>
+</label>
+	<input type="text" value="" name="name" class="required" id="mce-NAME" required>
+	<span id="mce-LNAME-HELPERTEXT" class="helper_text"></span>
+</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="email" class="required email" id="mce-EMAIL" required>
+	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
+</div>
+	<div id="mce-responses" class="clear foot">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div class="optionalParent">
+            <div class="clear foot">
+                <input type="submit" value="Join Group" class="button">
+            </div>
+        </div>
+    </div>
+</form>
+</div>
