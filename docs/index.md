@@ -38,13 +38,13 @@ ecosystem continues to proliferate.
 # Organization
 
 An Open Scientific Software Foundation would provide a range of services that
-would be available for all participating projects. Examples of these services include:
-- infrastructure (such as CI/CD)
-- FAIR data and DOI minting
+would be available for all participating projects. Key services that will be provided
+include:
+- community building; user meetings
+- sustainability scorecards
 - software engineering training and eduction
-- standards and guidelines
-- badging and incentives
-- legal and IP advice
+- software CI and testing
+- sustainability consulting
 
 # Leadership Team
 
