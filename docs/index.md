@@ -26,6 +26,34 @@ To promote sustainable practices in the research software community and support 
 
 ![SRSI Model](/assets/img/SRSI_Model.png)
 
+<tabl>
+	<tr>
+		<th>SRSI</th>
+		<th>Community Services Arm</th>
+		<th>Sustainability Funding Arm</th>
+	</tr>
+	<tr>
+		<td><b>Purpose</b></td>
+		<td>Offering services to the research software ecosystem. For example, common services applicable to  various research software projects and communities for projects from ECP-ST</td>
+		<td>Grant-making body within the SRSI Model, funding research software sustainability initiatives, for example. Sustainability efforts for projects from ECP-ST</td>
+	</tr>
+	<tr>
+		<td><b>Services Offered</b></td>
+		<td><ul>
+			<li>Organizing Communities and User Meetings</li>
+			<li>Software Sustainability Scorecards</li>
+			<li>Education and Training Services</li>
+			<li>Software CI and Testing</li>
+			<li>Sustainability Consulting Services</li>
+		</ul></td>
+		<td><ul>
+			<li>Funding Sustainability Grants for research software projects</li>
+			<li>Lifecycle Management Support for Funding entities</li>
+			<li>Collaborative Funding Partnerships for funding entities</li>
+		</ul></td>
+	</tr>
+</tabl>
+
 # Leadership Team
 
 | Greg Watson | Oak Ridge National Laboratory |
