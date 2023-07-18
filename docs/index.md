@@ -24,7 +24,7 @@ To promote sustainable practices in the research software community and support 
 - Diverse funding opportunities
 - Collaboration and knowledge sharing within the research software community
 
-![SRSI Model](https://github.com/software-for-science/software-for-science.github.io/assets/6130694/15373bc7-0ec6-445b-8330-21650559fe24)
+![SRSI Model](https://github.com/software-for-science/software-for-science.github.io/assets/img/SRSI_Model.png)
 
 # Leadership Team
 
