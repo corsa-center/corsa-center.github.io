@@ -24,6 +24,8 @@ To promote sustainable practices in the research software community and support 
 - Diverse funding opportunities
 - Collaboration and knowledge sharing within the research software community
 
+# Structure
+
 ![SRSI Model](/assets/img/SRSI_Model.png)
 
 <table border="1" style="font-size:small">
