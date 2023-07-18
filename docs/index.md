@@ -26,7 +26,7 @@ To promote sustainable practices in the research software community and support 
 
 ![SRSI Model](/assets/img/SRSI_Model.png)
 
-<table>
+<table border="1" style="font-size:small">
 	<tr>
 		<th>SRSI</th>
 		<th>Community Services Arm</th>
@@ -66,6 +66,16 @@ To promote sustainable practices in the research software community and support 
 			<li><u>Fees:</u> Fees charged to funding agencies for managing funds or small overhead fees charged to projects as set forth by the fund.</li>
 		</ul></td>
 	</tr>
+	<tr>
+		<td><b>Implementation approach</b></td>
+		<td colspan="2"><ul>
+			<li><u>New Organization:</u> Establishing a new organization dedicated to promoting and supporting research software sustainability, involving startup activities, legal entity establishment, and community building.</li>
+			<li><u>Leverage Existing Foundation:</u> Joining forces with an open-source software foundation to utilize their established legal and organizational structure, potentially avoiding the complexities of creating a new organization.</li>
+			<li><u>Hosted By Existing Foundation:</u> Creating a sub-foundation within an existing organization, leveraging their resources to establish the SRSI Model, but with the consideration of potential funding diversions and compatibility with the parent foundation's policies and objectives.</li>
+		</ul>
+		</td>
+	</tr>
+
 </table>
 
 # Leadership Team
