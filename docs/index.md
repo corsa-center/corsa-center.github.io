@@ -54,8 +54,17 @@ To promote sustainable practices in the research software community and support 
 	</tr>
 	<tr>
 		<td><b>Organization funding mechanisms</b></td>
-		<td></td>
-		<td></td>
+		<td><ul>
+			<li><u>Membership Fees:</u> Tiered membership-based model to support operational costs, services, and programs.</li>
+			<li><u>Grants and Partnerships:</u> Collaboration with funding organizations for financial support.</li>
+			<li><u>Donations:</u> Contributions from individuals, corporations, and philanthropic foundations.</li>
+			<li><u>Event Revenue:</u> Conferences, workshops, and training programs generating revenue.</li>
+		</ul></td>
+		<td><ul>
+			<li><u>Grants and Partnerships:</u> Collaboration with funding organizations for financial support.</li>
+			<li><u>Donations:</u> Contributions from individuals, corporations, and philanthropic foundations.</li>
+			<li><u>Fees:</u> Fees charged to funding agencies for managing funds or small overhead fees charged to projects as set forth by the fund.</li>
+		</ul></td>
 	</tr>
 </table>
 
