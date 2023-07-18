@@ -2,49 +2,29 @@
 layout: default
 ---
 
-# Overview
-
-There is broad community recognition from stakeholders in government, industry, 
-and academia, involved in the development of scientific software that a 
-strategy for securing the sustainability of scientific software is
-urgently required, and needed to secure the Department of Energy’s 
-Office of Science (DOE SC) long-term vision of software sustainability.
-
-Any successful strategy for scientific software sustainability will need to
-encompass the whole community, and the Open Scientific Software Foundation (OSSF) centers around the creation 
-of a unique partnership between these stakeholders in the form of a 
-self-sustaining not-for-profit open-source organization that will facilitate 
-the long-term stewardship of scientific software. 
-
-Key to this approach is the fundamental importance of ensuring that the 
-environment that supports the software is sustainable. This means creating 
-a community that is invested, works toward common goals, shares important 
-ideas, and provides common services and infrastructure that benefit the 
-whole community. A community working this way can result in
-something that is greater than the sum of the individual parts.
-
 # Mission
 
-Our mission is to establish a not-for-profit organization that will act as 
-an open and transparent facilitator that allows collections of teams, groups, 
-and organizations to advance scientific software through a shared ecosystem. 
-The type of foundation model we are envisioning has proved highly successful 
-for open-source software, where foundations espouse neutrality, open 
-participation, meritocracy, collaboration, and are self-maintaining. 
-They have clearly demonstrated that sustainable funding models are not only 
-achievable, but are fundamental to ensuring that the open source software 
-ecosystem continues to proliferate.
+To promote sustainable practices in the research software community and support the development, maintenance, and long-term viability of research software.
 
-# Organization
+# Key Components
+- **Sustainable Research Software Institute (SRSI):** The primary body of the model, offering services to the research software ecosystem.
+- **SRSI Foundation:** The grant-making body within the SRSI Model, funding research software sustainability initiatives.
 
-An Open Scientific Software Foundation would provide a range of services that
-would be available for all participating projects. Key services that will be provided
-include:
-- community building; user meetings
-- sustainability scorecards
-- software engineering training and eduction
-- software CI and testing
-- sustainability consulting
+# Benefits for Projects
+- Comprehensive support for sustainable research software development
+- Improved software sustainability and maintainability
+- Enhanced skills and knowledge through education and training
+- Guidance and consultation on sustainability practices
+- Access to funding opportunities
+
+# Benefits for Funding Entities
+- Alignment with sustainable development goals
+- Increased impact of funding through collaboration
+- Streamlined project selection based on sustainability criteria
+- Diverse funding opportunities
+- Collaboration and knowledge sharing within the research software community
+
+![SRSI Model](https://github.com/software-for-science/software-for-science.github.io/assets/6130694/15373bc7-0ec6-445b-8330-21650559fe24)
 
 # Leadership Team
 
