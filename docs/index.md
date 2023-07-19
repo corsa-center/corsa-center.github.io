@@ -28,7 +28,7 @@ To promote sustainable practices in the research software community and support 
 
 ![SRSI Model](/assets/img/SRSI_Model.png)
 
-<table border="1" style="font-size:x-small">
+<table style="font-size:x-small">
 	<tr>
 		<th></th>
 		<th>Community Services Arm</th>
