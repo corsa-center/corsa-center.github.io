@@ -82,11 +82,7 @@ To promote sustainable practices in the research software community and support 
 
 # White Paper
 
-For more details see our [white paper](https://docs.google.com/document/d/1boqBnOKXEZ_HE8BZSQP52BvPPi-os_h4GjKHbK7DuEA/edit).
-
-# Leadership Team
-
-| Greg Watson | Oak Ridge National Laboratory |
+For more details see our [white paper](https://drive.google.com/file/d/1uZ0BurtQ8ddrYNB2QYL3jhkP9VOPspbL/view?usp=sharing) |
 | Addi Thakur Malviya | Oak Ridge National Laboratory |
 | Elaine Raybourn | Sandia National Laboratories |
 | Daniel S. Katz | University of Illinois Urbana Champaign |
