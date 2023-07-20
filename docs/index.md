@@ -80,6 +80,10 @@ To promote sustainable practices in the research software community and support 
 
 </table>
 
+# White Paper
+
+For more details see our [white paper](https://docs.google.com/document/d/1boqBnOKXEZ_HE8BZSQP52BvPPi-os_h4GjKHbK7DuEA/edit).
+
 # Leadership Team
 
 | Greg Watson | Oak Ridge National Laboratory |
