@@ -71,7 +71,6 @@ To promote sustainable practices in the research software community and support 
 	<tr>
 		<td><b>Implementation approach</b></td>
 		<td colspan="2"><ul>
-sustainability, involving startup activities, legal entity establishment, and community building.</li>
 			<li><u>Leverage Existing Foundation:</u> Joining forces with an open-source software foundation to utilize their established legal and organizational structure, potentially avoiding the complexities of creating a new organization.</li>
 			<li><u>Hosted By Existing Foundation:</u> Creating a sub-foundation within an existing organization, leveraging their resources to establish the SRSI Model, but with the consideration of potential funding diversions and compatibility with the parent foundation's policies and objectives.</li>
 		</ul>
