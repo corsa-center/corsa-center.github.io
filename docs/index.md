@@ -41,14 +41,14 @@ To promote sustainable practices in the research software community and support 
 	</tr>
 	<tr>
 		<td><b>Services Offered</b></td>
-		<td><ul style="margin:0;padding:0">
+		<td><ul style="list-style-position:inside;padding-left:0;">
 			<li>Organizing Communities and User Meetings</li>
 			<li>Software Sustainability Scorecards</li>
 			<li>Education and Training Services</li>
 			<li>Software CI and Testing</li>
 			<li>Sustainability Consulting Services</li>
 		</ul></td>
-		<td><ul style="margin:0;padding:0">
+		<td><ul style="padding:0">
 			<li>Funding Sustainability Grants for research software projects</li>
 			<li>Lifecycle Management Support for Funding entities</li>
 			<li>Collaborative Funding Partnerships for funding entities</li>
@@ -56,7 +56,7 @@ To promote sustainable practices in the research software community and support 
 	</tr>
 	<tr>
 		<td><b>Organization funding mechanisms</b></td>
-		<td><ul style="margin:0;padding:0">
+		<td><ul style="margin:0">
 			<li><u>Membership Fees:</u> Tiered membership-based model to support operational costs, services, and programs.</li>
 			<li><u>Grants and Partnerships:</u> Collaboration with funding organizations for financial support.</li>
 			<li><u>Donations:</u> Contributions from individuals, corporations, and philanthropic foundations.</li>
