@@ -71,7 +71,7 @@ To promote sustainable practices in the research software community and support 
 	<tr>
 		<td><b>Implementation approach</b></td>
 		<td colspan="2"><ul>
-			<li><u>New Organization:</u> Establishing a new organization dedicated to promoting and supporting research software sustainability, involving startup activities, legal entity establishment, and community building.</li>
+sustainability, involving startup activities, legal entity establishment, and community building.</li>
 			<li><u>Leverage Existing Foundation:</u> Joining forces with an open-source software foundation to utilize their established legal and organizational structure, potentially avoiding the complexities of creating a new organization.</li>
 			<li><u>Hosted By Existing Foundation:</u> Creating a sub-foundation within an existing organization, leveraging their resources to establish the SRSI Model, but with the consideration of potential funding diversions and compatibility with the parent foundation's policies and objectives.</li>
 		</ul>
@@ -82,7 +82,7 @@ To promote sustainable practices in the research software community and support 
 
 # White Paper
 
-For more details see our [white paper](https://drive.google.com/file/d/1uZ0BurtQ8ddrYNB2QYL3jhkP9VOPspbL/view?usp=sharing)
+For more details see our [white paper](https://arxiv.org/abs/2308.14953)
 
 # Leadership Team
 
