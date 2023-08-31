@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sustainable Research Software Institute (SRSI)
-logo: /assets/img/logo.png
+logo: /assets/img/srsi_logo_blue_88x87.png
 description: >- # this means to ignore newlines until "baseurl:"
   SRSI is a not-for-profit 503(c)(3) organization dedicated to software sustainability for scientific software projects. 
   Our mission is to provide a neutral and independent platform where projects can collaborate effectively, 
