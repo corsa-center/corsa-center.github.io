@@ -1,3 +1,3 @@
-# software4science.github.io
+# corsa.github.io
 
-This repository contains the content for the software-for-science.github.io site.
+This repository contains the content for the corsa.github.io site.
