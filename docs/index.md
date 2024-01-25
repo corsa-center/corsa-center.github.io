@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+# Vision
+
+The Center for Open-Source Research Software Stewardship and Advancement (CORSA) vision is to become a community of practice that enables pathways for open-source scientific software projects to avail themselves of resources for long-term growth, stewardship, advancement, and innovation.
 
 # Mission
 
@@ -28,7 +31,7 @@ To promote sustainable practices in the research software community and support 
 
 | Greg Watson | Oak Ridge National Laboratory |
 | Addi Thakur Malviya | Oak Ridge National Laboratory |
-| Elaine Raybourn | Sandia National Laboratories |
+| Elaine M. Raybourn | Sandia National Laboratories |
 | Daniel S. Katz | University of Illinois Urbana Champaign |
 | Bill Hoffman | Kitware, Inc. |
 | Dana Robinson | The HDF Group |
