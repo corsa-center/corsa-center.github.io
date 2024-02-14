@@ -64,7 +64,8 @@ input:valid { border: 2px solid black; }
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
         <div class="optionalParent">
             <div class="clear foot">
-                <input type="submit" value="Join Group" class="button">
+                <!--input type="submit" value="Join Group" class="button"-->
+		<input type="button" value="Join Group" class="button">
             </div>
         </div>
     </div>
