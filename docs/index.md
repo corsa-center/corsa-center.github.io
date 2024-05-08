@@ -42,7 +42,7 @@ To promote sustainable practices in the research software community and support 
 - PASC24 Minisymposium: Improving the Sustainability of Research and Scientific Software, Zurich, Switzerland, June 3, 2024
 - PASC24 Minisymposium: Open-source Scientific Software Ecosystem Stewardship: Pathways to Foundations, Zurich, Switzerland, June 4, 2024
 - Foundations Forum Kick-off, Community BOF Days, Virtual, June 11, 2024
-- IEEE eScience Workshop: Sustainable Project Pathways for HPC Software, Osaka Japan, September 2024 
+- [IEEE eScience Workshop: Sustainable Project Pathways for HPC Software, Osaka Japan, September 2024](workshops/eScience2024.md)
 
 # Resources
 
