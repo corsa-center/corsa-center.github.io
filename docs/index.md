@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# Vision
+
+The Center for Open-Source Research Software Stewardship and Advancement (CORSA) serves as a community of practice that enables pathways for open-source scientific software projects to avail themselves of resources for long-term growth, stewardship, advancement, and innovation.
+
 # Mission
 
 To promote sustainable practices in the research software community and support the development, maintenance, and long-term viability of research software.
@@ -32,6 +36,14 @@ To promote sustainable practices in the research software community and support 
 | Daniel S. Katz | University of Illinois Urbana Champaign |
 | Bill Hoffman | Kitware, Inc. |
 | Dana Robinson | The HDF Group |
+
+# Upcoming Activities
+
+- PASC24 Minisymposium: Open-source Scientific Software Ecosystem Stewardship: Pathways to Foundations, Zurich, Switzerland, June 4, 2024 
+- Foundations Forum Kick-off, Community BOF Days, Virtual, June 11, 2024
+- IEEE eScience Workshop: Sustainable Project Pathways for HPC Software, Osaka Japan, September 2024
+
+# Resources
 
 # Get Involved
 <!-- Begin Mailchimp Signup Form -->
