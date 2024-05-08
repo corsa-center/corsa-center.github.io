@@ -28,7 +28,7 @@ To promote sustainable practices in the research software community and support 
 
 | Greg Watson | Oak Ridge National Laboratory |
 | Addi Thakur Malviya | Oak Ridge National Laboratory |
-| Elaine Raybourn | Sandia National Laboratories |
+| Elaine M. Raybourn | Sandia National Laboratories |
 | Daniel S. Katz | University of Illinois Urbana Champaign |
 | Bill Hoffman | Kitware, Inc. |
 | Dana Robinson | The HDF Group |
