@@ -12,6 +12,8 @@ To promote sustainable practices in the research software community and support 
 
 # Key Components
 - **Pathways to Foundations:** Assiting the research software ecosystem to avail the resources and community structure of open source software foundations.
+  - [foundations/numfocus.html](NumFOCUS - How to Apply and Join)
+  - Information on other foundations coming soon
 - **Sustainability Scorecards:** A framework for assisting resource software projects to understand and improve their sustainability.
 
 # Benefits for Projects
@@ -46,7 +48,9 @@ To promote sustainable practices in the research software community and support 
 
 # Resources
 
-- 
+- [foundations/numfocus.html](NumFOCUS - How to Apply and Join)
+- Information on other foundations coming soon
+
 
 # Get Involved
 <!-- Begin Mailchimp Signup Form -->
