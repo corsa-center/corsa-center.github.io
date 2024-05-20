@@ -16,7 +16,6 @@ Some additional benefits from joining a foundation are discussed in Section 5 of
 
 
 # 2. Relationships with NumFOCUS and basic requirements
-<!--Comments:Addi: Fiscally sponsored projects are also eligible to use NumFOCUS resources and infrastructure to help raise money for the project and to apply for funding through NumFOCUS’s internal grants program. Addi: What is included in the resources and infrastructures here, legal or marketing team?  -->
 
 NumFOCUS has two options for projects that want to join it:
 
