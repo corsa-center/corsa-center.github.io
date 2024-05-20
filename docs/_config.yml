@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   projects. Our mission is to provide a neutral and independent platform where projects can collaborate effectively, 
   fostering excellence and innovation within the scientific and research software communities.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://corsa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://corsa.center" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
