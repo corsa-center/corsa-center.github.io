@@ -37,7 +37,7 @@ Fiscally sponsored projects additionally are required to have
 
 In the rest of this document, we discuss both fiscally sponsored projects that we assume meet the basic requirements above, as well as affiliated projects.
 
-In addition, there are two types of fiscal sponsorship, each of which might be appropriate for some software projects. \
+In addition, there are two types of fiscal sponsorship, each of which might be appropriate for some software projects.
 
 1. Comprehensive Model
 * Fiscally sponsored projects under the Comprehensive Model formally become part of NumFOCUS — in other words, NumFOCUS maintains all legal and fiduciary responsibility for the project. Any work product of the Fiscally Sponsored Project is available to the public or to the charitable sector, and NumFOCUS assures funders that the purposes and any restrictions of all grants and/or contributions will be met. The Comprehensive Model of fiscal sponsorship helps protect individual contributors from legal liability and ensures project assets are owned by the project and not individual contributors.
