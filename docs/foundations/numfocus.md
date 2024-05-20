@@ -14,6 +14,7 @@ Some additional benefits from joining a foundation are discussed in Section 5 of
 
 
 # 2. Relationships with NumFOCUS and basic requirements
+<!--Comments:Addi: Fiscally sponsored projects are also eligible to use NumFOCUS resources and infrastructure to help raise money for the project and to apply for funding through NumFOCUS’s internal grants program. Addi: What is included in the resources and infrastructures here, legal or marketing team?  -->
 
 NumFOCUS has two options for projects that want to join it:
 
@@ -22,6 +23,7 @@ NumFOCUS has two options for projects that want to join it:
 * Qualification for fiscal sponsorship requires meeting a higher bar than affiliation to ensure that NumFOCUS can legally represent the project.
 2. Affiliated Projects (project funding can not go through NumFOCUS, it must go through another mechanism)
 * Affiliated projects benefit from their association with NumFOCUS through community building, funding, and promotion. Affiliated projects remain separate legal entities; NumFOCUS does not assume any legal or fiduciary responsibility.  Affiliated projects benefit from access to NumFOCUS project community collaboration calls and funding through NumFOCUS’s Small Development Grants Program. These grant proposals are reviewed during three annual grant cycles.
+
 
 All projects are required to
 
