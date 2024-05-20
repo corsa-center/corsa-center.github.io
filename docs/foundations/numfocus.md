@@ -2,7 +2,7 @@
 
 14 May 2024
 
-Daniel S. Katz, Leah Silen, Elaine M. Raybourn, Greg Watson, and the CORSA Team
+Daniel S. Katz, Leah Silen, Elaine M. Raybourn, Greg Watson, Addi Thakur Malviya, and the CORSA Team
 
 # 1. Introduction
 
@@ -50,6 +50,8 @@ We generally assume that projects will want to join under the comprehensive mode
 # 3. Application requirements
 
 To apply for NumFOCUS fiscal or affiliate sponsorship (see [https://numfocus.org/projects-overview](https://numfocus.org/projects-overview)), the following questions must be answered. Questions that start with * are required to be answered. Since NumFOCUS's decision process is not transparent, we cannot say that all questions need positive answers, but that the balance of the answers is part of the decision process, and that these are generally good practices for most software projects (_as indicated in italics_ after each question). NumFOCUS currently requires that this information be entered into a form; it will likely be easier for a project to collect (and discuss) it elsewhere, then when it is complete, enter it into [the form](https://numfocus.org/projects-overview#apply).
+
+Note that questions below in **bold** will be asked for both projects seeking fiscal or affiliate sponsorship, while questions that are not in bold will only be ask to project seeking fiscal sponsorship.
 
 
 1. ***Does the project have a contributor Code of Conduct?**
