@@ -10,6 +10,8 @@ This document, written as part of the work of the [Center for Open-Source Resear
 
 NumFOCUS is a 501(c)(3) public charity providing services and support to sustain project communities within the open source scientific ecosystem. Through its mission to provide foundational support, to empower, and to sustain the open source scientific computing ecosystem, NumFOCUS provides an independent, professional, and stable home for research software communities. NumFOCUS’s proven operational systems are adept at seeking, managing, and allocating funding from diverse sources, all while prioritizing project autonomy.
 
+The NumFOCUS website's [projects page](https://numfocus.org/projects-overview) states, under Community, that "Project leaders benefit from participation in the NumFOCUS network, which includes leaders from a variety of scientifically oriented open source computing communities. NumFOCUS leverages our broad, international network to help build connections that support our projects. In addition to making strategic introductions, NumFOCUS creates opportunities for project leaders to connect with one another as a group, both in person and through digital forums." And under Promotion, it states that "NumFOCUS projects benefit from elevated visibility as a result of their association with the organization. We work to highlight all of our projects through various communications and marketing activities. We also find opportunities to showcase our projects with potential and current corporate sponsors."
+
 Some additional benefits from joining a foundation are discussed in Section 5 of [Watson, et al., 2023](https://doi.org/10.48550/arXiv.2308.14953).
 
 
