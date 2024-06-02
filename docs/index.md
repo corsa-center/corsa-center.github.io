@@ -59,40 +59,50 @@ To promote sustainable practices in the research software community and support 
   - past
 
 # Get Involved
-<!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:600px;}
-input:invalid:required { border: 2px dashed red; }
-input:valid { border: 2px solid black; }
-</style>
-<div id="mc_embed_signup">
-    <form action="https://gaggle.email/join/software4science@gaggle.email" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
-        <div id="mc_embed_signup_scroll">
-        <h2></h2>
-        <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-	<label for="mce-NAME">Name  <span class="asterisk">*</span>
-</label>
-	<input type="text" value="" name="name" class="required" id="mce-NAME" required>
-	<span id="mce-LNAME-HELPERTEXT" class="helper_text"></span>
-</div>
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-	<input type="email" value="" name="email" class="required email" id="mce-EMAIL" required>
-	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
-</div>
-	<div id="mce-responses" class="clear foot">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-        <div class="optionalParent">
-            <div class="clear foot">
-                <input type="submit" value="Join Group" class="button">
-		<!--input type="button" value="Join Group" class="button"-->
-            </div>
-        </div>
-    </div>
-</form>
+<div class="classictemplate template" style="display: block;">
+	<style type="text/css">
+		#groupsio_embed_signup input {border:1px solid #999; -webkit-appearance:none;}
+		#groupsio_embed_signup label {display:block; font-size:16px; padding-bottom:10px; font-weight:bold;}
+		#groupsio_embed_signup .email {display:block; padding:8px 0; margin:0 4% 10px 0; text-indent:5px; width:58%; min-width:130px;}
+		#groupsio_embed_signup {
+		background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;
+		}
+		#groupsio_embed_signup .button {
+
+		width:25%; margin:0 0 10px 0; min-width:90px;
+		background-image: linear-gradient(to bottom,#337ab7 0,#265a88 100%);
+		background-repeat: repeat-x;
+		border-color: #245580;
+		text-shadow: 0 -1px 0 rgba(0,0,0,.2);
+		box-shadow: inset 0 1px 0 rgba(255,255,255,.15),0 1px 1px rgba(0,0,0,.075);
+		padding: 5px 10px;
+		font-size: 12px;
+		line-height: 1.5;
+		border-radius: 3px;
+		color: #fff;
+		background-color: #337ab7;
+		display: inline-block;
+		margin-bottom: 0;
+		font-weight: 400;
+		text-align: center;
+		white-space: nowrap;
+		vertical-align: middle;
+		}
+	</style>
+	<div id="groupsio_embed_signup">
+		<form action="https://groups.io/g/corsa/signup?u=4542720638022150858" method="post" id="groupsio-embedded-subscribe-form" name="groupsio-embedded-subscribe-form" target="_blank">
+			<div id="groupsio_embed_signup_scroll">
+				<label for="email" id="templateformtitle">
+					Subscribe to our group
+				</label>
+				<input type="email" value="" name="email" class="email" id="email" placeholder="Email Address" required="">
+				<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+				<div style="position: absolute; left: -5000px;" aria-hidden="true">
+					<input type="text" name="b_4542720638022150858" tabindex="-1" value="">
+				</div>
+				<div id="templatearchives"></div>
+				<input type="submit" value="Subscribe" name="subscribe" id="groupsio-embedded-subscribe" class="button">
+			</div>
+		</form>
+	</div>
 </div>
