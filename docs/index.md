@@ -11,7 +11,7 @@ The Center for Open-Source Research Software Stewardship and Advancement (CORSA)
 To promote sustainable practices in the research software community and support the development, maintenance, and long-term viability of research software.
 
 # Key Components
-- **Pathways to Foundations:** Assiting the research software ecosystem to avail the resources and community structure of open source software foundations.
+- **Pathways to Foundations:** Assisting the research software ecosystem to avail the resources and community structure of open source software foundations.
   - [NumFOCUS - How to Apply and Join](foundations/numfocus.html)
   - Information on other foundations coming soon
 - **Sustainability Scorecards:** A framework for assisting resource software projects to understand and improve their sustainability.
