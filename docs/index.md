@@ -10,6 +10,10 @@ The Center for Open-Source Research Software Stewardship and Advancement (CORSA)
 
 To promote sustainable practices in the research software community and support the development, maintenance, and long-term viability of research software.
 
+# Community
+
+Our community comprises any open source scientific and reserarch software projects interested in sustainablity. We are founding members of the [Consortium for the Advancement of Scientific Software (CASS)](https://cass.community).
+
 # Key Components
 - **Pathways to Foundations:** Assisting the research software ecosystem to avail the resources and community structure of open source software foundations.
   - [NumFOCUS - How to Apply and Join](foundations/numfocus.html)
@@ -50,7 +54,7 @@ To promote sustainable practices in the research software community and support 
 - Foundations
   - [NumFOCUS - How to Apply and Join](foundations/numfocus.html)
   - Information on other foundations coming soon
-- Events
+- Past Events
   - Foundations Forum Kick-off, Community BOF Days, Virtual, June 11, 2024
   - [PASC24 Minisymposium: Improving the Sustainability of Research and Scientific Software, Zurich, Switzerland, June 3, 2024](https://pasc24.pasc-conference.org/?post_type=page&p=29753&sess=sess135)
   - [PASC24 Minisymposium: Open-source Scientific Software Ecosystem Stewardship: Pathways to Foundations, Zurich, Switzerland, June 4, 2024](https://pasc24.pasc-conference.org/?post_type=page&p=29753&sess=sess168)
