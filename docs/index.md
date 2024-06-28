@@ -55,10 +55,9 @@ Our community comprises any open source scientific and reserarch software projec
   - [NumFOCUS - How to Apply and Join](foundations/numfocus.html)
   - Information on other foundations coming soon
 - Past Events
-  - [Foundations Forum Kick-off, Community BOF Days, Virtual, June 11, 2024](https://cass.community/bofs/2024/foundations)
-  - [PASC24 Minisymposium: Improving the Sustainability of Research and Scientific Software, Zurich, Switzerland, June 3, 2024](https://pasc24.pasc-conference.org/?post_type=page&p=29753&sess=sess135)
-  - [PASC24 Minisymposium: Open-source Scientific Software Ecosystem Stewardship: Pathways to Foundations, Zurich, Switzerland, June 4, 2024](https://pasc24.pasc-conference.org/?post_type=page&p=29753&sess=sess168)
-  - [NLIT'24 Summit: Effective Metrics for Measuring and Enhancing Sustainability in Scientific Software](https://www.fbcinc.com/e/NLIT/default.aspx)
+  - [Foundations Forum Kick-off, Community BOF Days, Virtual, June 11, 2024](https://cass.community/bofs/2024/foundations) [(slides)](/docs/presentations/Foundations%20Forum%20-%20CASS%20BOF%20Days%2020240611.pdf)
+  - [PASC24 Minisymposiums](/docs/workshops/pasc24.html)
+  - [NLIT'24 Summit: Effective Metrics for Measuring and Enhancing Sustainability in Scientific Software](https://www.fbcinc.com/e/NLIT/default.aspx) [(slides)](/docs/presentations/NLIT%20CORSA%20Workshop.pdf)
     
 # Get Involved
 <div class="classictemplate template" style="display: block;">
