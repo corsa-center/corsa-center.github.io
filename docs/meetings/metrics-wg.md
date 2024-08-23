@@ -10,14 +10,13 @@ The meetings are held bi-weekly and are open to anyone to attend.
 Time: Every 2 weeks on Wednesday at 1pm PT, 3pm CT, 4pm ET
 
 Connection information:
-- https://www.zoomgov.com/j/1600247069?pwd=SaYlg81RaDIbnvnoLxsaosEIoBnBD5.1
+- [Zoom Link](https://www.zoomgov.com/j/1600247069?pwd=SaYlg81RaDIbnvnoLxsaosEIoBnBD5.1)
 - Meeting ID: 160 024 7069 Passcode: 599556
 - One tap mobile
   - +16692545252,,1600247069#,,,,*599556# US (San Jose)
   - +16469641167,,1600247069#,,,,*599556# US (US Spanish Line)
 
-Please download and import the following iCalendar (.ics) files to your calendar system.
-https://www.zoomgov.com/meeting/vJItd-usqTssE4QOHyabMEUGFvqxS9Jc7kc/ics?icsToken=98tyKuiurjsoHtOVthDBeI89EsH4berVkWJr_pJytAbkAQ12VyTQIPNaAetVE4_b
+Please download and import the following [iCalendar (.ics) files](https://www.zoomgov.com/meeting/vJItd-usqTssE4QOHyabMEUGFvqxS9Jc7kc/ics?icsToken=98tyKuiurjsoHtOVthDBeI89EsH4berVkWJr_pJytAbkAQ12VyTQIPNaAetVE4_b) to your calendar system.
 
 ## Meeting Information
 
