@@ -18,6 +18,14 @@ Our community comprises any open source scientific and reserarch software projec
 - **Pathways to Foundations:** Assisting the research software ecosystem to avail the resources and community structure of open source software foundations.
   - [NumFOCUS - How to Apply and Join](foundations/numfocus.html)
   - Information on other foundations coming soon
+  - Foundations Forum
+    - First meeting at noon CT on Wednesday Aug 28. Connection details shared via our mailing list and slack.
+    - We'll generally try to have in these meetings: a) a short talk (e.g., update from a foundation, experience from an SSO with a foundation), b) discussion on a predetermined topic, and c) general announcements and discussion (related to open source foundations)
+    - Anyone can suggest agenda items, or topics, etc. - so please let me know if you have ideas. This first meeting could include brainstorming about future organization, or I could talk about Parsl's desire to and process of joining NumFOCUS. 
+    - Meetings will be open to anyone who wants to join - so please feel free to share this
+    - Meetings will be recorded and posted on youtube, with links to them from a part of the CORSA website.
+    - Meetings will be announced via the CORSA email list and the CASS #general and #wg-foundations slack channels
+
 - **Sustainability Scorecards:** A framework for assisting resource software projects to understand and improve their sustainability.
 
 # Benefits for Projects
