@@ -39,6 +39,54 @@ Hisashi Yashiro (National Institute for Environmental Studies (NIES), Japan)
 **Elaine M. Raybourn, Sandia National Laboratories, USA**
 
 **Elaine M. Raybourn** is a social scientist in Applied Cognitive Science at Sandia National Laboratories. While at Sandia National Laboratories she has worked with the UK as a guest researcher at British Telecom; Germany (Fraunhofer FIT), and France (INRIA) as a Fellow of the European Research Consortium in Informatics and Mathematics (ERCIM). She was the Sandia National Laboratories Institutional PI for Interoperable Design of Extreme-scale Application Software (IDEAS-ECP) from 2018-2023, and currently supports the U.S. Department of Energy Office of Science next generation software stewardship as a member of CORSA. She is a certified Agile Scrum Master and Product Owner; and holds a Graduate Certificate in Modeling and Simulation of Behavioral Cybersecurity from the University of Central Florida. She was the Super Computing (SC21) Scientific Visualization & Data Analytics Showcase Chair. Her research focuses on complex socio-technical systems of scientific software teams of teams, collaborative immersive virtual environments, HPC AI/ML ethics, and the diffusion of innovations to incentivize program modernization and cultural change. 
+
+# Workshop Agenda
+September 17, 2024 | Room 604 | 1400-1700
+
+1400-1405 
+**Workshop Introduction** 
+
+**Elaine M. Raybourn, Sandia National Laboratories**
+
+1405-1430
+**Sustainable HPC Software: From Auto-tuning Technology for Performance Portability**
+
+**Takahiro Katagiri, Information Technology Center, Nagoya University, Japan**
+
+Abstract:
+High portability alone is insufficient for the sustained use of high-performance numerical calculation programs. To ensure long-term reuse, these programs must maintain high performance across diverse computing environments, a characteristic known as performance portability. As modern hardware, including supercomputers, grows increasingly complex—with a variety of components ranging from multi-core CPUs to GPUs—it becomes challenging for software optimized for specific hardware to perform efficiently on different systems. Achieving performance portability, therefore, is often difficult. To address this, we have been studying auto-tuning (AT) techniques to ensure consistent performance across various hardware platforms.
+This presentation covers two main topics. First, we will showcase advanced applications of AT in the development of sustainable high-performance computing (HPC) software, including quantum-related annealing and quantum simulators on GPUs. Second, we will discuss the optimization of software testing for numerical applications, using LAPACK—a widely-used numerical software package—as a case study.
+
+1430-1500
+**Towards Sustainable Promotion of Scientific Discovery by Integration of Simulation/Data/Learning (S+D+L) on Exascale Supercomputers**
+
+**Kengo Nakajima (The University of Tokyo/RIKEN R-CCS, Japan)**
+
+Abstract:
+Recently, supercomputing has been changing dramatically. In addition to traditional simulations for computational science and engineering (CSE), the proportion of new are areas of use such as Data Analytics and AI/Machine Learning is increasing. Integration/convergence of Simulation/Data/Learning (S+D+L) is important towards Society 5.0 proposed by Japanese Government, which is a safe, secure and human-centered society by integration of cyber space and physical space. In 2015, we started the BDEC project (Big Data & Extreme Computing) for development of supercomputers and software for integration of (S+D+L). In May 2021, we started operation of the Wisteria/BDEC-01. It is the first BDEC system, which consists of computing nodes for computational science and engineering with A64FX (Odyssey), and those for Data Analytics/AI with NVIDIA A100 GPU's (Aquarius). We also develop a software platform "h3-Open-BDEC" for integration of (S+D+L) on the Wisteria/BDEC-01, which is designed for extracting the maximum performance of the supercomputers with minimum energy consumption focusing on (1) Innovative method for numerical analysis with high-performance/high-reliability/power-saving based on the new principle of computing by adaptive precision, accuracy verification and automatic tuning, (2) Data driven approach by integration of ML & CSE, and (3) System software/utilities on heterogenous systems, such as the Wisteria/BDEC-01. Integration of (S+D+L) by h3-Open-BDEC enables significant reduction of computations and power consumption, compared to those by conventional simulations, and sustainable promotion of scientific discovery by supercomputers in the Exascale Era. “h3-Open-BDEC” project has been supported by Japanese Government from FY.2019 to FY.2023, and it had made significant contributions to development of innovative methods for computational science by integration of (S+D+L). This talk will overview Wisteria/BDEC-01 and h3-Open-BDEC, and introduce case studies in fluid dynamics, and earth science in which energy consumption was significantly reduced through integration of (S+D+L).
+
+1500 **Discussion**
+
+1530-1600 **Break**
+
+1600-1630
+**Toward Green Practices and Metrics for Software Development in HPC**
+
+**Shuji Morisaki, Nagoya University, Japan**
+
+Abstract: 
+This talk will discuss energy savings in the context of application software development in HPC. First, this talk will introduce green practices and energy metrics in programming and testing activities, which have been studied for general-purpose software and mobile apps. We will then explore how these practices and metrics can be effectively applied to HPC applications. Additionally, we will examine metrics that can serve as proxies for direct energy measurements.
+
+1630-1645
+**Sustainable Project Pathways for HPC Software**
+
+**Elaine M. Raybourn, Sandia National Laboratories, USA**
+
+Abstract
+In this talk we explore existing metrics that have been defined by groups such as CHAOSS and OpenSSF for assessment and improvement, as well as how projects can engage in self-sustainment through pathways to various foundations and funding organizations. 
+
+1645-1700
+**Workshop Discussion and Close**
  
 # Organizers
 Elaine M. Raybourn, Sandia National Laboratories
