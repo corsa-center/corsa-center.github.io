@@ -26,7 +26,7 @@ Our community comprises any open source scientific and reserarch software projec
     - Meetings will be recorded and posted on youtube, with links to them from a part of the CORSA website.
     - Meetings will be announced via the CORSA email list and the CASS #general and #wg-foundations slack channels
 
-- **Sustainability Scorecards:** A framework for assisting resource software projects to understand and improve their sustainability.
+- **Software Sustainability Metrics:** Curating and developing metrics that enable software projects to better understand and improve their sustainability. As part of this we are planning to develop a software sustainability metrics framework and a set of tools that will enable projects to collect and analyze metrics specific to their software.
 
 # Benefits for Projects
 - Comprehensive support for sustainable research software development
@@ -62,6 +62,8 @@ Our community comprises any open source scientific and reserarch software projec
 - Foundations
   - [NumFOCUS - How to Apply and Join](foundations/numfocus.html)
   - Information on other foundations coming soon
+- Working Groups
+  - [CASS Metrics Working Group](meetings/metrics-wg.html)
 - Past Events
   - [Foundations Forum Kick-off, Community BOF Days, Virtual, June 11, 2024](https://cass.community/bofs/2024/foundations) [(slides)](presentations/Foundations%20Forum%20-%20CASS%20BOF%20Days%2020240611.pdf)
   - [PASC24 Minisymposiums](workshops/pasc24.html)
