@@ -21,4 +21,4 @@ Please download and import the following [iCalendar (.ics) files](https://www.zo
 ## Meeting Information
 
 - Sept 4, 2024: [Meeting Link](https://www.zoomgov.com/j/1600247069?pwd=SaYlg81RaDIbnvnoLxsaosEIoBnBD5.1), [Notes](https://docs.google.com/document/d/134EuEGbi-FOzUtzeN2N-rf6HJFtOZeqcDNRkLJHTUro/edit?usp=sharing), [Recording](https://www.zoomgov.com/rec/share/TivdmoXDzr4k6i5Lb942NaNAQu3mjSYzObm-XVTWv2WFxGidnO8A41Y5I6kz5Nt9.1iqilNWnVx3yp56d?startTime=1725480556000)
-- Sept 18, 2024: [Meeting Link](https://www.zoomgov.com/j/1600247069?pwd=SaYlg81RaDIbnvnoLxsaosEIoBnBD5.1), Notes, Recording
+- Sept 18, 2024: [Meeting Link](https://www.zoomgov.com/j/1600247069?pwd=SaYlg81RaDIbnvnoLxsaosEIoBnBD5.1), [Notes](https://docs.google.com/document/d/17iemP9bkHGCavyIRWubRM6vFfjQ5Z66eTzZZGde9BAI/edit#heading=h.2h1rsco6wbvv), [Recording](https://www.zoomgov.com/rec/share/j0JUXYPwpsjKf3bRmWdLUHGFkovP-P_RWE5_-EKaEFL3XeM94lvgrywVd-H1bUOe.bCSRKi-lIGfsl4Yg)
