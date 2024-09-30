@@ -55,9 +55,9 @@ Our community comprises any open source scientific and reserarch software projec
 | Bill Hoffman | Kitware, Inc. |
 | Dana Robinson | The HDF Group |
 
-# Activities
+# Upcoming Activities
 
-- [IEEE eScience Workshop: Sustainable Project Pathways for HPC Software, Osaka, Japan, September 2024](workshops/eScience2024.md)
+TBA
 
 # Resources
 
@@ -73,7 +73,7 @@ Our community comprises any open source scientific and reserarch software projec
   - [Foundations Forum Kick-off, Community BOF Days, Virtual, June 11, 2024](https://cass.community/bofs/2024/foundations) [(slides)](presentations/Foundations%20Forum%20-%20CASS%20BOF%20Days%2020240611.pdf)
   - [PASC24 Minisymposiums](workshops/pasc24.html)
   - [NLIT'24 Summit: Effective Metrics for Measuring and Enhancing Sustainability in Scientific Software](https://www.fbcinc.com/e/NLIT/default.aspx) [(slides)](presentations/NLIT%20CORSA%20Workshop.pdf)
-    
+  - [IEEE eScience Workshop: Sustainable Project Pathways for HPC Software, Osaka, Japan, September 2024](workshops/eScience2024.md)    
 # Get Involved
 <div class="classictemplate template" style="display: block;">
 	<style type="text/css">
