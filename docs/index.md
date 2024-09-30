@@ -55,7 +55,7 @@ Our community comprises any open source scientific and reserarch software projec
 | Bill Hoffman | Kitware, Inc. |
 | Dana Robinson | The HDF Group |
 
-# Upcoming Activities
+# Activities
 
 - [IEEE eScience Workshop: Sustainable Project Pathways for HPC Software, Osaka, Japan, September 2024](workshops/eScience2024.md)
 
