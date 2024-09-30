@@ -62,9 +62,9 @@ TBA
 # Past Activities
 
 - [NLIT'24 Summit: Effective Metrics for Measuring and Enhancing Sustainability in Scientific Software](https://www.fbcinc.com/e/NLIT/default.aspx) [(slides)](presentations/NLIT%20CORSA%20Workshop.pdf) April 2024
-- [Foundations Forum Kick-off, Community BOF Days, Virtual, June 11, 2024](https://cass.community/bofs/2024/foundations) [(slides)](presentations/Foundations%20Forum%20-%20CASS%20BOF%20Days%2020240611.pdf)
+- [Foundations Forum Kick-off, Community BOF Days](https://cass.community/bofs/2024/foundations) June 11, 2024 [(slides)](presentations/Foundations%20Forum%20-%20CASS%20BOF%20Days%2020240611.pdf)
 - [PASC24 Minisymposiums](workshops/pasc24.html) June 2024
-- [IEEE eScience Workshop: Sustainable Project Pathways for HPC Software, Osaka, Japan, September 2024](workshops/eScience2024.md)    
+- [IEEE eScience Workshop: Sustainable Project Pathways for HPC Software](workshops/eScience2024.md) September 2024
 
 # Resources
 
