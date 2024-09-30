@@ -17,7 +17,8 @@ Our community comprises any open source scientific and reserarch software projec
 # Key Components
 - **Pathways to Foundations:** Assisting the research software ecosystem to avail the resources and community structure of open source software foundations.
   - [NumFOCUS - How to Apply and Join](foundations/numfocus.html)
-  - Information on other foundations coming soon
+  - Information on High Performence Software Foundation (HPSF) coming around Oct 7
+  - Information on other foundations (e.g., Apache Software Foundation) coming next
   - Foundations Forum
     - First meeting at noon CT on Wednesday Aug 28. Connection details shared via our mailing list and slack.
     - We'll generally try to have in these meetings: a) a short talk (e.g., update from a foundation, experience from an SSO with a foundation), b) discussion on a predetermined topic, and c) general announcements and discussion (related to open source foundations)
@@ -61,7 +62,8 @@ Our community comprises any open source scientific and reserarch software projec
   - [Open-source Project Guides](https://github.com/corsa-center/oss-documents/blob/main/README.md)
 - Foundations
   - [NumFOCUS - How to Apply and Join](foundations/numfocus.html)
-  - Information on other foundations coming soon
+  - Information on High Performence Software Foundation (HPSF) coming around Oct 7
+  - Information on other foundations (e.g., Apache Software Foundation) coming next
 - Working Groups
   - [CASS Metrics Working Group](meetings/metrics-wg.html)
 - Past Events
