@@ -43,6 +43,9 @@ Our community comprises any open source scientific and reserarch software projec
 - Diverse funding opportunities
 - Collaboration and knowledge sharing within the research software community
 
+# Open Source Software Funding Opportunities 
+- The [Research Software Alliance (ReSA)](https://www.researchsoft.org) maintains a [list of funding opportunities for research software projects](https://www.researchsoft.org/funding-opportunities/).
+
 # Leadership Team
 
 | Greg Watson | Oak Ridge National Laboratory |
