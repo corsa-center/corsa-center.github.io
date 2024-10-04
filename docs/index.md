@@ -45,7 +45,7 @@ Our community comprises any open source scientific and research software project
 - Collaboration and knowledge sharing within the research software community
 
 # Open Source Software Funding Opportunities 
-- The [NIH](https://www.nih.gov/) has current open funding opportunities for [Building Sustainable Software Tools for Open Science](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-010.html) and [NIH Research Software Engineer (RSE) Award](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-011.html)
+- The [NIH](https://www.nih.gov/) has current open funding opportunities for [Building Sustainable Software Tools for Open Science](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-010.html) and [NIH Research Software Engineer (RSE) Award](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-011.html) These are two-year awards with a maximum funding of $300K per award. The RSE award application must also include a letter of support from an NIH-funded project PI.
 - The [NSF](https://www.nsf.gov/) has current open funding opportunities for the [National Artificial Intelligence Research Resource (NAIRR) Pilot](https://www.nsf.gov/pubs/2024/nsf24109/nsf24109.pdf?WT.mc_ev=click&WT.mc_id=&utm_medium=email&utm_source=govdelivery)
 - The [Research Software Alliance (ReSA)](https://www.researchsoft.org) maintains a [list of funding opportunities for research software projects](https://www.researchsoft.org/funding-opportunities/).
 
