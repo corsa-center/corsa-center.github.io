@@ -21,14 +21,14 @@ Our community comprises any open source scientific and research software project
   - More information on High Performance Software Foundation (HPSF) coming around Oct 7
   - Information on other foundations (e.g., Apache Software Foundation) coming next
   - Foundations Forum
-    - First meeting at noon CT on Wednesday Aug 28. Connection details shared via our mailing list and slack.
-    - We'll generally try to have in these meetings: a) a short talk (e.g., update from a foundation, experience from an SSO with a foundation), b) discussion on a predetermined topic, and c) general announcements and discussion (related to open source foundations)
-    - Anyone can suggest agenda items, or topics, etc. - so please let me know if you have ideas. This first meeting could include brainstorming about future organization, or I could talk about Parsl's desire to and process of joining NumFOCUS. 
-    - Meetings will be open to anyone who wants to join - so please feel free to share this
-    - Meetings will be recorded and posted on youtube, with links to them from a part of the CORSA website.
-    - Meetings will be announced via the CORSA email list and the CASS #general and #wg-foundations slack channels
+    - First meeting was held at noon CT on Wednesday Aug 28. Connection details shared via our mailing list and slack.
+    - Meetings may consist of: a) a short talk (e.g., update from a foundation, experience from an SSO with a foundation), b) discussion on a predetermined topic, and c) general announcements and discussion (related to open source foundations)
+    - Anyone can suggest agenda items, or topics, etc. - please let us know if you have ideas.
+    - Meetings will be open to anyone who wants to join - feel free to share this.
+    - Meetings with presentations from foundations will be recorded and posted on youtube, with links to them from a part of the CORSA website.
+    - Meetings will be announced via the CORSA email list and the [CASS](https://cass.community) #general and #wg-foundations slack channels.
 
-- **Software Sustainability Metrics:** Curating and developing metrics that enable software projects to better understand and improve their sustainability. As part of this we are planning to develop a software sustainability metrics framework and a set of tools that will enable projects to collect and analyze metrics specific to their software.
+- **Software Sustainability Metrics:** Curating metrics that enable software projects to better understand and improve their sustainability. As part of this we identify software sustainability metrics frameworks and a set of tools that can enable projects to collect and analyze metrics specific to their software.
 
 # Benefits for Projects
 - Comprehensive support for sustainable research software development
