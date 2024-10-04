@@ -12,12 +12,13 @@ To promote sustainable practices in the research software community and support 
 
 # Community
 
-Our community comprises any open source scientific and reserarch software projects interested in sustainablity. We are founding members of the [Consortium for the Advancement of Scientific Software (CASS)](https://cass.community).
+Our community comprises any open source scientific and research software projects interested in sustainablity and pathways to foundations. We are founding members of the [Consortium for the Advancement of Scientific Software (CASS)](https://cass.community).
 
 # Key Components
 - **Pathways to Foundations:** Assisting the research software ecosystem to avail the resources and community structure of open source software foundations.
   - [NumFOCUS - How to Apply and Join](foundations/numfocus.html)
-  - Information on High Performence Software Foundation (HPSF) coming around Oct 7
+  - [High Performance Software Foundation (HPSF)](https://hpsf.io/)
+  - More information on High Performance Software Foundation (HPSF) coming around Oct 7
   - Information on other foundations (e.g., Apache Software Foundation) coming next
   - Foundations Forum
     - First meeting at noon CT on Wednesday Aug 28. Connection details shared via our mailing list and slack.
@@ -44,7 +45,10 @@ Our community comprises any open source scientific and reserarch software projec
 - Collaboration and knowledge sharing within the research software community
 
 # Open Source Software Funding Opportunities 
+- The [NIH](https://www.nih.gov/)) has current open funding opportunities for [Building Sustainable Software Tools for Open Science](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-010.html) and [NIH Research Software Engineer (RSE) Award](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-011.html)
+- The [NSF](https://www.nsf.gov/) has current open funding opportunities for the [National Artificial Intelligence Research Resource (NAIRR) Pilot](https://www.nsf.gov/pubs/2024/nsf24109/nsf24109.pdf?WT.mc_ev=click&WT.mc_id=&utm_medium=email&utm_source=govdelivery)
 - The [Research Software Alliance (ReSA)](https://www.researchsoft.org) maintains a [list of funding opportunities for research software projects](https://www.researchsoft.org/funding-opportunities/).
+
 
 # Leadership Team
 
@@ -57,7 +61,7 @@ Our community comprises any open source scientific and reserarch software projec
 
 # Upcoming Activities
 
-TBA
+Pathway to Foundations 1:1 discussions at [US-RSE'24](https://us-rse.org/usrse24/). Contact [CORSA](https://corsa.center/) by emailing PI [Greg Watson](mailto:watsongr@ornl.gov) to set up a discussion.
 
 # Past Activities
 
