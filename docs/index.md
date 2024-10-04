@@ -45,7 +45,7 @@ Our community comprises any open source scientific and research software project
 - Collaboration and knowledge sharing within the research software community
 
 # Open Source Software Funding Opportunities 
-- The [NIH](https://www.nih.gov/)) has current open funding opportunities for [Building Sustainable Software Tools for Open Science](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-010.html) and [NIH Research Software Engineer (RSE) Award](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-011.html)
+- The [NIH](https://www.nih.gov/) has current open funding opportunities for [Building Sustainable Software Tools for Open Science](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-010.html) and [NIH Research Software Engineer (RSE) Award](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-011.html)
 - The [NSF](https://www.nsf.gov/) has current open funding opportunities for the [National Artificial Intelligence Research Resource (NAIRR) Pilot](https://www.nsf.gov/pubs/2024/nsf24109/nsf24109.pdf?WT.mc_ev=click&WT.mc_id=&utm_medium=email&utm_source=govdelivery)
 - The [Research Software Alliance (ReSA)](https://www.researchsoft.org) maintains a [list of funding opportunities for research software projects](https://www.researchsoft.org/funding-opportunities/).
 
@@ -76,6 +76,7 @@ Pathway to Foundations 1:1 discussions at [US-RSE'24](https://us-rse.org/usrse24
   - [Open-source Project Guides](https://github.com/corsa-center/oss-documents/blob/main/README.md)
 - Foundations
   - [NumFOCUS - How to Apply and Join](foundations/numfocus.html)
+  - [High Performance Software Foundation (HPSF)](https://hpsf.io/)
   - Information on High Performence Software Foundation (HPSF) coming around Oct 7
   - Information on other foundations (e.g., Apache Software Foundation) coming next
 - Working Groups
