@@ -18,23 +18,22 @@ The Linux Foundation announced the intention to form the HPSF on November 13, 20
 a founding charter and an initial directed fund. HPSF launched at ISC-HPC 2024.
 
 The goals of HPSF are
-1. Serve as a neutral home for key projects in the high performance software ecosystem;
-2. Promote use of HPSF projects in many open source communities and organizations;
-3. Provide a transparent governance model that allows stakeholders from government, industry, and academia to steward the ecosystem together;
-4. Provide a clear path to incubate and onboard promising new projects;
-5. Ensure that HPC software is accessible and reliable by providing CI and turnkey builds;
-6. Ensure that HPC software is secure and ready for cloud through collaborations with CNCF and OpenSSF; and
-7. Sponsor events and training to grow a diverse, skilled workforce for software in the HPSF ecosystem.
+1. Serve as a neutral home for key projects in the high performance software ecosystem
+2. Promote use of HPSF projects in many open source communities and organizations
+3. Provide a transparent governance model that allows stakeholders from government, industry, and academia to steward the ecosystem together
+4. Provide a clear path to incubate and onboard promising new projects
+5. Ensure that HPC software is accessible and reliable by providing CI and turnkey builds
+6. Ensure that HPC software is secure and ready for cloud through collaborations with CNCF and OpenSSF
+7. Sponsor events and training to grow a diverse, skilled workforce for software in the HPSF ecosystem
 
 Project benefits from joining HPSF are that it will: 
 - Facilitate project meetings
 - Facilitate developing training materials
 - Provide CI & engagement with facilities (e.g., HPC centers, etc.)
-- Provide budget for project support. The specific budget will partially be based on levels, and partially be based on the project's needs. The HPSF
-- technical advisory committee (TAC) will provide recommendations, while the HPSF governing board (GB) will make decisions. (See [Section 4]() below for
-- more details of HPSF's organization.)
+- Provide budget for project support. The specific budget will partially be based on levels, and partially be based on the project's needs.
+- The HPSF technical advisory committee (TAC) will provide recommendations, while the HPSF governing board (GB) will make decisions. (See [Section 4]() below for more details of HPSF's organization.)
 
-Some additional benefits from joining a foundation are discussed in Section 5 of [Watson, et al., 2023](https://doi.org/10.48550/arXiv.2308.14953).
+Some additional benefits from joining a foundation are discussed in Section 5 of [Watson, et al., 2023](https://doi.org/10.48550/arXiv.2308.14953) and in a [CORSA webpage](https://corsa.center/foundations/benefits.html).
 
 # 2. Relationships with HPSF, the Linux Foundation, and basic requirements
 To join HPSF, a project needs to meet the criteria to be a [Linux Foundation project](https://www.linuxfoundation.org/projects). Becoming a Linux Foundation project happens concurrently with 
