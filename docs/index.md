@@ -19,6 +19,7 @@ Our community comprises any open source scientific and research software project
   - [NumFOCUS - How to Apply and Join](foundations/numfocus.html)
   - [High Performance Software Foundation (HPSF) - How to Apply and Join](foundations/hpsf.html)
   - [Foundations Forum](meetings/foundations-wg.html)
+  - [Benefits of joining a foundation](foundations/benefits.html)
   - Information on other foundations (e.g., Apache Software Foundation) coming next.
 
 - **Software Sustainability Metrics:** Curating metrics that enable software projects to better understand and improve their sustainability. As part of this we identify software sustainability metrics frameworks and a set of tools that can enable projects to collect and analyze metrics specific to their software.
