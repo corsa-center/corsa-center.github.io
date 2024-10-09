@@ -17,8 +17,7 @@ Our community comprises any open source scientific and research software project
 # Key Components
 - **Pathways to Foundations:** Assisting the research software ecosystem to avail the resources and community structure of open source software foundations.
   - [NumFOCUS - How to Apply and Join](foundations/numfocus.html)
-  - [High Performance Software Foundation (HPSF)](https://hpsf.io/)
-  - More information on High Performance Software Foundation (HPSF) coming around Oct 7
+  - [High Performance Software Foundation (HPSF) - How to Apply and Join](foundations/hpsf.html)
   - Information on other foundations (e.g., Apache Software Foundation) coming next
   - Foundations Forum
     - First meeting was held at noon CT on Wednesday Aug 28. Connection details shared via our mailing list and slack.
