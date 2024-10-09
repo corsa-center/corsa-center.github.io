@@ -88,7 +88,7 @@ Once an application is made, [projects are required to present their proposal at
 
 HPSF is run by a governing board (GB), which is advised by a technical advisory committee (TAC). 
 
-![HPSF Structure](https://github.com/hpsfoundation/hpsf.io/blob/ddf80005866dcbb9a367a27dec3da1c92f00b578/static/images/hpsf-structure.png)
+<img src="https://github.com/hpsfoundation/hpsf.io/blob/ddf80005866dcbb9a367a27dec3da1c92f00b578/static/images/hpsf-structure.png"/>
 
 The TAC manages working groups tackling a variety of HPC topics, and follows a governance model based on the Cloud Native Computing Foundation (CNCF).
 
