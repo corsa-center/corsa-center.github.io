@@ -69,6 +69,7 @@ Pathway to Foundations 1:1 discussions at [US-RSE'24](https://us-rse.org/usrse24
 - Best Practices
   - [Open-source Project Guides](https://github.com/corsa-center/oss-documents/blob/main/README.md)
 - Foundations
+  - [Benefits of joining a foundation](foundations/benefits.html)
   - [NumFOCUS - How to Apply and Join](foundations/numfocus.html)
   - [High Performance Software Foundation (HPSF) - How to Apply and Join](foundations/hpsf.html)
   - Information on other foundations (e.g., Apache Software Foundation) coming next
