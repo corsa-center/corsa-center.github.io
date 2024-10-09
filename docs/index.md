@@ -75,8 +75,7 @@ Pathway to Foundations 1:1 discussions at [US-RSE'24](https://us-rse.org/usrse24
   - [Open-source Project Guides](https://github.com/corsa-center/oss-documents/blob/main/README.md)
 - Foundations
   - [NumFOCUS - How to Apply and Join](foundations/numfocus.html)
-  - [High Performance Software Foundation (HPSF)](https://hpsf.io/)
-  - Information on High Performence Software Foundation (HPSF) coming around Oct 7
+  - [High Performance Software Foundation (HPSF) - How to Apply and Join](foundations/hpsf.html)
   - Information on other foundations (e.g., Apache Software Foundation) coming next
 - Working Groups
   - [CASS Metrics Working Group](meetings/metrics-wg.html)
