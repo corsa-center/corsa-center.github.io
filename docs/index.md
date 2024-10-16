@@ -40,7 +40,11 @@ Our community comprises any open source scientific and research software project
 
 # Open Source Software Funding Opportunities 
 - The [NIH](https://www.nih.gov/) has current open funding opportunities for [Building Sustainable Software Tools for Open Science](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-010.html) and [NIH Research Software Engineer (RSE) Award](https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-011.html) These are two-year awards with a maximum funding of $300K per award. The RSE award application must also include a letter of support from an NIH-funded project PI.
-- The [NSF](https://www.nsf.gov/) has current open funding opportunities for the [National Artificial Intelligence Research Resource (NAIRR) Pilot](https://www.nsf.gov/pubs/2024/nsf24109/nsf24109.pdf?WT.mc_ev=click&WT.mc_id=&utm_medium=email&utm_source=govdelivery)
+- The [NSF](https://www.nsf.gov/) has current open funding opportunities for the [National Artificial Intelligence Research Resource (NAIRR) Pilot](https://www.nsf.gov/pubs/2024/nsf24109/nsf24109.pdf)
+- The [NSF](https://www.nsf.gov/) has current open funding opportunities for [Cyberinfrastructure for Sustained Scientific Innovation (CSSI)](https://new.nsf.gov/funding/opportunities/cssi-cyberinfrastructure-sustained-scientific-innovation), with proposals due December 2, 2024. Proposals for projects that include research software can be made in three categories
+  - Elements: These awards target small groups that will create and deploy robust services for which there is a demonstrated need, and that will advance one or more significant areas of science and engineering.
+  - Framework Implementations: These awards target larger, interdisciplinary teams organized around the development and application of services aimed at solving common research problems faced by NSF researchers in one or more areas of science and engineering, and resulting in a sustainable community framework providing CI services to a diverse community or communities.
+  - Transition to Sustainability: These awards target groups who would like to execute a well-defined sustainability plan for existing CI with demonstrated impact in one or more areas of science and engineering supported by NSF. The sustainability plan should enable new avenues of support for the long-term sustained impact of the CI.
 - The [Research Software Alliance (ReSA)](https://www.researchsoft.org) maintains a [list of funding opportunities for research software projects](https://www.researchsoft.org/funding-opportunities/).
 
 
