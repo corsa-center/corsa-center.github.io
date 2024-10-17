@@ -1,0 +1,268 @@
+<style type="text/tailwindcss">
+    @layer base {
+        :root {
+            /* User-defined hex values */
+            --primary: #0394C9;
+            --secondary: #373F51;
+            --accent: #49AB86;
+        }
+
+        /* Typography Styles */
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            @apply font-bold text-secondary;
+        }
+
+        h1 {
+            @apply text-4xl;
+        }
+
+        h2 {
+            @apply text-3xl;
+        }
+
+        h3 {
+            @apply text-2xl;
+        }
+
+        h4 {
+            @apply text-xl;
+        }
+
+        h5 {
+            @apply text-lg;
+        }
+
+        h6 {
+            @apply text-base;
+        }
+
+        p {
+            @apply mb-4;
+        }
+
+        a {
+            @apply text-accent;
+        }
+
+        a:hover {
+            @apply underline;
+        }
+
+        ul, ol {
+            @apply list-outside pl-8;
+        }
+
+        ul {
+            @apply list-disc; 
+        }
+
+        ol {
+            @apply list-decimal;
+        }
+    }
+
+    @layer components {
+
+        /*
+        Define button styles:
+            1. Sizes
+            2. Colors
+            3. Types
+        */
+
+        .btn {
+            @apply duration-200 ease-in-out inline-flex items-center justify-center px-3 py-[6px] rounded-md text-base tracking-wider transition-all gap-2 h-9;
+        }
+
+        .btn:hover {
+            @apply no-underline;
+        }
+
+        .btn i {
+            @apply leading-[0];
+        }
+
+        /* 1. Sizes */
+
+        .btn.btn-lg {
+            @apply px-4 text-lg h-11;
+        }
+
+        .btn.btn-sm {
+            @apply px-[10px] text-sm h-[30px] gap-1;
+        }
+
+        .btn.btn-xs {
+            @apply px-[7px] rounded text-xs h-[22px] gap-1;
+        }
+
+        /* 2. Colors */
+
+        .btn.btn-primary {
+            @apply bg-primary text-primary-content;
+        }
+
+        .btn.btn-primary:hover {
+            @apply bg-primary-hover;
+        }
+        
+        .btn.btn-secondary {
+            @apply bg-secondary text-secondary-content;
+        }
+
+        .btn.btn-secondary:hover {
+            @apply bg-secondary-hover;
+        }
+
+        .btn.btn-accent {
+            @apply bg-accent text-accent-content;
+        }
+
+        .btn.btn-accent:hover {
+            @apply bg-accent-hover;
+        }
+
+        /* 3. Types
+                a. Ghost
+                b. Icon Only
+                c. Disabled
+        */
+
+        /* a. Ghost */
+
+        .btn.btn-ghost {
+            @apply bg-neutral-800 bg-opacity-0 text-neutral-600;
+        }
+
+        .btn.btn-ghost:hover {
+            @apply bg-opacity-10;
+        }
+
+        /* Primary Color */
+
+        .btn.btn-primary.btn-ghost {
+            background-color: hsla(var(--primary-h), var(--primary-s), var(--primary-l), 0);
+            @apply text-primary;
+        }
+        .btn.btn-primary.btn-ghost:hover {
+            background-color: hsla(var(--primary-h), var(--primary-s), var(--primary-l), 0.1);
+        }
+
+        /* Secondary Color */
+
+        .btn.btn-secondary.btn-ghost {
+            background-color: hsla(var(--secondary-h), var(--secondary-s), var(--secondary-l), 0);
+            @apply text-secondary;
+        }
+        .btn.btn-secondary.btn-ghost:hover {
+            background-color: hsla(var(--secondary-h), var(--secondary-s), var(--secondary-l), 0.1);
+        }
+
+        /* Accent Color */
+
+        .btn.btn-accent.btn-ghost {
+            background-color: hsla(var(--accent-h), var(--accent-s), var(--accent-l), 0);
+            @apply text-accent;
+        }
+        .btn.btn-accent.btn-ghost:hover {
+            background-color: hsla(var(--accent-h), var(--accent-s), var(--accent-l), 0.1);
+        }
+
+        /* b. Icon Only */
+
+        .btn.btn-icon {
+            /* "tracking-[0]" ensures icons are always centered when using icon fonts */
+            @apply rounded-full !leading-none text-xl w-9 aspect-square tracking-[0];
+        }
+
+        /* Large */
+
+        .btn.btn-icon.btn-lg {
+            @apply text-2xl w-11;
+        }
+
+        /* Small */
+
+        .btn.btn-icon.btn-sm {
+            @apply text-lg w-[30px];
+        }
+
+        /* X-Small */
+
+        .btn.btn-icon.btn-xs {
+            @apply text-sm w-[22px];
+        }
+
+        /* c. Disabled */
+        .btn.btn-disabled {
+            @apply bg-neutral-200 border border-neutral-300 text-neutral-400 !cursor-not-allowed;
+        }
+
+        /*
+        Define Form Elements
+        */
+
+        /* Use Remix Icons for checkboxes & radio buttons */
+        .checkbox,
+        .radio {
+            display: inline-flex;
+            align-items: center;
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .checkbox input,
+        .radio input {
+            display: none;
+        }
+
+        .checkbox .icon-unchecked,
+        .radio .icon-unchecked {
+            display: inline;
+        }
+
+        .checkbox .icon-checked,
+        .radio .icon-checked {
+            display: none;
+        }
+
+        .checkbox input:checked ~ .icon-unchecked,
+        .radio input:checked ~ .icon-unchecked {
+            display: none;
+        }
+
+        .checkbox input:checked ~ .icon-checked,
+        .radio input:checked ~ .icon-checked {
+            display: inline;
+        }
+
+
+        /* Show default select option gray like a placeholder */
+        select:invalid {
+            color: #9ca3af !important; /* Tailwind's neutral-400 */
+        }
+
+        /*
+        Hero
+        */
+
+        .hero {
+            @apply bg-gradient-to-br from-secondary to-primary;
+        }
+
+        /*
+        Cards
+        */
+
+        .card {
+            @apply bg-white rounded-lg shadow-lg p-6;
+        }
+
+        .card-body {}
+    }
+</style>

@@ -1,0 +1,27 @@
+<section id="resources" class="py-12 lg:py-16 bg-gradient-to-br from-gray-50 to-gray-100">
+    <div class="container mx-auto px-4">
+      <div class="max-w-720 mx-auto text-center pb-12">
+        <h2 class="mb-2">{{ page.resources_heading }}</h2>
+      </div>
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+  
+        {% for type in page.resource_types %}
+        <div class="card p-0 border-t-8 border-primary">
+          <div class="card-body">
+            <h3 class="text-xl font-semibold p-6">{{ type.title }}</h3>
+            <ul class="list border-t border-gray-200 !list-inside !p-0">
+              {% for item in type.resource_list %}
+                {% if item.internal_url == true %}
+                  <li class="border-b border-gray-200 px-6 py-3"><a href="{{ site.baseurl }}{{ item.url }}" class="text-primary">{{ item.title }}</a></li>
+                {% else %}
+                  <li class="border-b border-gray-200 px-6 py-3"><a href="{{ item.url }}" class="text-primary">{{ item.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+        {% endfor %}
+  
+      </div>
+    </div>
+  </section>

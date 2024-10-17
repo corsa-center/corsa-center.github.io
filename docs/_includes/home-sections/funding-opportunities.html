@@ -1,0 +1,23 @@
+<section id="funding-opportunities" class="py-12 lg:py-16">
+    <div class="container mx-auto px-4">
+      <div class="max-w-720 mx-auto text-center mb-12">
+        <h2 class="mb-2">{{ page.fundingopp_heading }}</h2>
+        <p>{{ page.fundingopp_subtext }}</p>
+      </div>
+  
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+  
+        {% assign n = 0 %}
+        {% for opportunity in page.funding_opportunities %}
+        <div class="p-6 relative flex space-x-6">
+          {% assign n = n | plus:1 %}
+          <p class="text-7xl font-bold text-gray-200">{{ n }}</p>
+          <div>
+            <h3 class="text-xl font-semibold mb-2">{{ opportunity.name }}</h3>
+            <p>{{ opportunity.content}}</p>
+          </div>
+        </div>
+        {% endfor %}
+  
+    </div>
+  </section>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>{{ page.title }} | {{ site.title }}</title>
+
+        <!-- Icon Font -->
+        <link href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" rel="stylesheet" />
+
+        <!-- Tailwind Config -->
+        <script src="https://cdn.tailwindcss.com"></script>
+
+        <script>
+            tailwind.config = {
+                theme: {
+                    extend: {
+                        colors: {
+                            primary: {
+                                DEFAULT: 'hsl(var(--primary-h), var(--primary-s), var(--primary-l))',
+                                hover: 'var(--primary-hover)',
+                                content: 'var(--primary-content)',
+                            },
+                            secondary: {
+                                DEFAULT: 'hsl(var(--secondary-h), var(--secondary-s), var(--secondary-l))',
+                                hover: 'var(--secondary-hover)',
+                                content: 'var(--secondary-content)',
+                            },
+                            accent: {
+                                DEFAULT: 'hsl(var(--accent-h), var(--accent-s), var(--accent-l))',
+                                hover: 'var(--accent-hover)',
+                                content: 'var(--accent-content)',
+                            },
+                        },
+                    },
+                },
+            }
+        </script>
+
+        <!-- Custom Styles -->
+        {% include custom-styles.html %}
+
+        <script src="{{ site.baseurl }}/assets/js/script.js" defer></script>
+
+    </head>
+    <body class="font-sans text-gray-700 antialiased">
+
+        <!-- Navigation Bar -->
+        <nav class="bg-white shadow-lg sticky top-0 z-[997]">
+            <div class="container mx-auto px-4 py-2 flex justify-between items-center relative">
+                <a href="{{ site.baseurl }}/" class="btn btn-ghost btn-lg btn-secondary !text-2xl font-bold !h-14">
+                    {{ site.title }}
+                </a>
+
+                <!-- Hamburger Menu (Checkbox Hack) -->
+                <div id="hamburger" class="block xl:hidden text-2xl cursor-pointer focus:outline-none z-[999]">
+                    <i id="hamburger-icon" class="ri-menu-line"></i>
+                </div>
+
+                {% include site/navigation.html %}
+            </div>
+        </nav>
+
+
+        <!-- Page Content -->
+        <main class="">
+            {{ content }}
+        </main>
+
+        <!-- Footer -->
+        <footer class="bg-gray-800 text-white py-6">
+            <div class="container mx-auto text-center">
+                <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+            </div>
+        </footer>
+
+    </body>
+</html>

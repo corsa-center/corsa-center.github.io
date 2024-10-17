@@ -1,0 +1,22 @@
+---
+layout: default
+title: CASS Metrics Working Group
+---
+
+<!-- Hero Section -->
+<section class="hero bg-primary">
+    <div class="container mx-auto py-8">
+        <div class="px-8">
+        <div class="text-white">
+            <h1 class="font-light text-white">{{ page.title }}</h1>
+        </div>
+        </div>
+    </div>
+</section>
+
+<div>
+    <div class="container mx-auto py-8 px-8">
+        {% capture metrics_wg %}{% include metrics-wg.markdown %}{% endcapture %}
+        {{ metrics_wg | markdownify }}
+    </div>
+</div>

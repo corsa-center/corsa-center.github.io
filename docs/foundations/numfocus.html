@@ -1,0 +1,22 @@
+---
+layout: default
+title: NumFOCUS - How to Apply and Join
+---
+
+<!-- Hero Section -->
+<section class="hero bg-primary">
+    <div class="container mx-auto py-8">
+        <div class="px-8">
+        <div class="text-white">
+            <h1 class="font-light text-white">{{ page.title }}</h1>
+        </div>
+        </div>
+    </div>
+</section>
+
+<div>
+    <div class="container mx-auto py-8 px-8">
+        {% capture numfocus_content %}{% include numfocus-content.markdown %}{% endcapture %}
+        {{ numfocus_content | markdownify }}
+    </div>
+</div>

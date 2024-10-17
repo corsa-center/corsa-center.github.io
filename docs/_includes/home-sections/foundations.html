@@ -1,0 +1,27 @@
+<section id="foundations" class="py-12 lg:py-16 bg-gradient-to-br from-secondary to-primary">
+    <div class="container mx-auto px-4">
+      <div class="max-w-720 mx-auto text-center pb-12 text-white">
+        <h2 class="mb-2 text-white">{{ page.foundations_heading }}</h2>
+        <p>{{ page.foundations_subtext }}</p>
+      </div>
+      <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-8">
+  
+        {% for foundation_item in page.foundation_items %}
+        <div class="card">
+          <div class="card-body flex flex-col h-full">
+            <div class="grow">
+              <h3 class="mb-4">{{ foundation_item.name }}</h3>
+              <p>{{ foundation_item.content}}</p>
+            </div>
+            {% if foundation_item.internal_url == true %}
+            <a href="{{ site.baseurl }}{{ foundation_item.button_link }}" class="btn {% if foundation_item.disable_button == true %}btn-disabled{% else %}btn-accent{% endif %} btn-lg mt-3 w-full">{{ foundation_item.button_text }}</a>
+            {% else %}
+            <a href="{{ foundation_item.button_link }}" class="btn {% if foundation_item.disable_button == true %}btn-disabled{% else %}btn-accent{% endif %} btn-lg mt-3 w-full">{{ foundation_item.button_text }}</a>
+            {% endif %}
+          </div>
+        </div>
+        {% endfor %}
+  
+      </div>
+    </div>
+  </section>
