@@ -10,11 +10,15 @@
         <div class="card p-0 border-t-8 border-accent">
           <div class="card-body">
             <h3 class="text-xl font-semibold p-6">{{ type.title }}</h3>
-            <ol class="list border-t border-gray-200 !list-inside !p-0">
+            <ol class="list border-t border-gray-200 list-outside p-0">
               {% for item in type.benefit_list %}
-                <li class="border-b border-gray-200 px-6 py-3">{{ item }}</li>
+                <li class="flex items-start relative px-6 py-3 after:absolute after:inset-x-0 after:bottom-0 after:w-full after:h-px after:border-b after:border-gray-200 after:content-['']">
+                  <span class="flex-shrink-0 pr-4">{{ forloop.index }}.</span>
+                  <span class="flex-grow">{{ item }}</span>
+                </li>
               {% endfor %}
             </ol>
+            
           </div>
         </div>
         {% endfor %}
