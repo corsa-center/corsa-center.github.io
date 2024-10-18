@@ -1,3 +1,8 @@
+---
+layout: page
+title: NumFOCUS - How to Apply and Join
+---
+
 14 May 2024
 
 Daniel S. Katz, Leah Silen, Elaine M. Raybourn, Greg Watson, Addi Thakur Malviya, and the CORSA Team
