@@ -1,0 +1,12 @@
+- name: About
+  link: "#about"
+- name: Key Components
+  link: "#key-components"
+- name: Foundations
+  link: "#foundations"
+- name: Benefits
+  link: "#benefits"
+- name: Funding Opportunities
+  link: "#funding-opportunities"
+- name: Resources
+  link: "#resources"

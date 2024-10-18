@@ -1,4 +1,7 @@
-# CASS Metrics Working Group
+---
+layout: page
+title: CASS Metrics Working Group
+---
 
 The Metrics Working Group aims to facilitate a coordinated effort to curate and develop metrics for measuring software sustainability from the perspective of 
 scientific and research software. We seek input and participation from any scientific and research software project teams or members who are interested in 
@@ -13,8 +16,8 @@ Connection information:
 - [Zoom Link](https://www.zoomgov.com/j/1600247069?pwd=SaYlg81RaDIbnvnoLxsaosEIoBnBD5.1)
 - Meeting ID: 160 024 7069 Passcode: 599556
 - One tap mobile
-  - +16692545252,,1600247069#,,,,*599556# US (San Jose)
-  - +16469641167,,1600247069#,,,,*599556# US (US Spanish Line)
+    - +16692545252,,1600247069#,,,,*599556# US (San Jose)
+    - +16469641167,,1600247069#,,,,*599556# US (US Spanish Line)
 
 Please download and import the following [iCalendar (.ics) files](https://www.zoomgov.com/meeting/vJItd-usqTssE4QOHyabMEUGFvqxS9Jc7kc/ics?icsToken=98tyKuiurjsoHtOVthDBeI89EsH4berVkWJr_pJytAbkAQ12VyTQIPNaAetVE4_b) to your calendar system.
 

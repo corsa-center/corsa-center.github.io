@@ -1,1 +1,4 @@
-# Eclipse Foundation - How to Apply and Join
+---
+layout: page
+title: Eclipse Foundation - How to Apply and Join
+---
