@@ -1,4 +1,7 @@
-# Apache Foundation - How to Apply and Join
+---
+layout: page
+title: Apache Foundation - How to Apply and Join
+---
 
 9 October 2024
 

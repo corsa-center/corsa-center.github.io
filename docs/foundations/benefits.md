@@ -1,4 +1,7 @@
-# Foundation Membership - Benefits
+---
+layout: default
+title: Benefits of Joining a Foundation
+---
 
 Are you wondering what the benefits of joining an open source foundation are? Here is a list of some of the things that a project may gain from joining a foundation.
 Please [contact us](mailto:watsongr@ornl.gov) if you would like more information about foundations or would like assistance joining!

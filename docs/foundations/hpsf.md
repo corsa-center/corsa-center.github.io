@@ -1,3 +1,8 @@
+---
+layout: page
+title: High Performance Software Foundation (HPSF) - How to Apply and Join
+---
+
 2 October 2024
 
 # 1. Introduction

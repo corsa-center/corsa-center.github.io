@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 # Improving the Sustainability of Research and Scientific Software
