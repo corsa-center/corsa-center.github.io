@@ -88,11 +88,7 @@ Once an application is made, [projects are required to present their proposal at
 
 # 4. The project as part of HPSF
 
-HPSF is run by a governing board (GB), which is advised by a technical advisory committee (TAC). 
-
-![HPSF Structure](/assets/img/hpsf-structure.png)
-
-The TAC manages working groups tackling a variety of HPC topics, and follows a governance model based on the Cloud Native Computing Foundation (CNCF).
+HPSF is run by a governing board (GB), which is advised by a technical advisory committee (TAC). The TAC manages working groups tackling a variety of HPC topics, and follows a governance model based on the Cloud Native Computing Foundation (CNCF).
 
 Initial working groups include:
 
@@ -106,7 +102,7 @@ Working groups are cross cutting activities, bringing projects, members, and oth
 The TAC also supports HPSF projects, which are in one of four stages, and ideally will progress through the first three stages. These stages are currently:
 1. Sandbox - projects which the TAC believes are, or have the potential to be, important to the ecosystem of Technical Projects or the High Performance Software Foundation ecosystem as a whole. Sandbox projects will receive minimal support from the Foundation. 
 2. Established - projects that are major components of the High Performance Computing software ecosystem. Established projects have a higher level of access to foundation resources.
-3. Graduate - projects that are on a sustaining cycle of development, maintenance, and long-term support, used commonly in production environments and with large, well-established project communities. Core projects have a higher level of access to foundation resources.
+3. Core - projects that are on a sustaining cycle of development, maintenance, and long-term support, used commonly in production environments and with large, well-established project communities. Core projects have a higher level of access to foundation resources.
 4. Emeritus - projects which the maintainers feel have reached or are nearing end-of-life
 
 All projects may attend TAC meetings and contribute work regardless of their stage.
