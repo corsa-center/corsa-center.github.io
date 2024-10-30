@@ -59,6 +59,18 @@ Projects at the Sandbox stage must:
 * Have an open and documented technical governance.  The LF team can help set this up.
 * The project's founders adopt an open governance model documented in a Technical Charter for the project, and execute the Project Contribution Agreement transferring the project’s assets to the LF.
 
+Sandbox stage projects are eligible to receive the following benefits:
+* Neutral hosting of the project’s trademark and assets by LF AI & Data.
+* Appointment of a TAC member as a project sponsor and provide recommendations regarding governance best practices.
+* LF AI & Data blog post or similar announcing the project's hosting in the Foundation (quarterly announcements).
+* Right to refer to the project as an “[LF AI & Data Sandbox Project](https://github.com/lfai/artwork/tree/main/lfaidata-assets/lfaidata-project-badge),” with the right, subject to applicable trademark usage guidelines, to display the LF AI & Data logo on the project’s code repository.
+* An initial and regularly scheduled license scan of the project’s codebase with results reported to the project’s mailing list.
+* Ongoing source code security scans and reports.
+* Infrastructure support includes mailing lists, wiki space, slack channel, etc.
+* Marketing, communication, and PR support are limited to significant announcements.
+* Access to the [LFX](https://lfx.linuxfoundation.org/) platform.
+* Support of the Foundation staff who are eager to help with the project.
+
 ## Incubation
 
 Projects in the Sandbox stage are generally expected to move to Incubation within 12 months from joining the Foundation following an evaluation by the TAC committee
@@ -69,6 +81,12 @@ Projects at the Incubation stage must:
 * Have reached a minimum of 500 stars on GitHub.
 * Have achieved and maintained an OpenSSF Best Practices Badge Program (Silver).
 
+Incubation stage projects are eligible to receive all the benefits of the Sandbox stage projects plus:
+* Right to refer to the project as an “[LF AI & Data Incubation Project](https://github.com/lfai/artwork/tree/main/lfaidata-assets/lfaidata-project-badge),” with the right, subject to applicable trademark usage guidelines, to display the LF AI & Data logo on the project’s code repository.
+* Creative and artwork support covering website, logo, and other required creative work.
+* Marketing, communication, and PR support, including project promotion via blog posts, social media, and LF AI & Data website.
+* Access to the Bevy platform for community-hosted events.
+
 ## Graduation
 
 Projects in the Incubation stage are generally expected to move to Graduation within 12-18 months from joining the Foundation following an evaluation by the TAC committee.
@@ -76,34 +94,58 @@ Projects in the Incubation stage are generally expected to move to Graduation wi
 Projects at the Graduation stage must:
 * Have a healthy number of code contributions from at least five organizations.
 * Have reached a minimum of 1000 stars on GitHub.
-* Have achieved and maintained an OpenSSF Best Practices Badge Program (Gold).
+* Have achieved and maintained an [OpenSSF Best Practices Badge Program (Gold)](OpenSSF Best Practices Gold Badge](https://www.bestpractices.dev/en/criteria/2).
 * Have demonstrated a substantial ongoing flow of commits and merged contributions for the past 12 months*.
 * Have completed at least one collaboration with another LF AI & Data hosted project
 
+Since some of these criteria can vary depending on a project's type, scope, and size, the TAC has final judgment over the activity level adequate to meet these criteria.
+
+To graduate, the project must receive the affirmative vote of the TAC and the Governing Board.
+
+When a project graduates, it will be eligible to have a technical lead appointed to represent the project on the LF AI & Data Technical Advisory Council. The project is expected to nominate a lead to the TAC who can attend and participate in the bi-weekly TAC calls.
+
+Graduation stage projects are eligible for all the benefits of Incubation stage projects plus:
+* LF AI & Data blog announcement or similar announcing the project graduation, including promotion activities.
+* Graduation stage projects may receive support as determined by the Governing Board.
+* Right to refer to the project as an “[LF AI & Data Graduation Project](https://github.com/lfai/artwork/tree/main/lfaidata-assets/lfaidata-project-badge),” with the right, subject to applicable trademark usage guidelines, to display the LF AI & Data logo on the project’s code repository.
+* Voting seat on the TAC.
+* Advanced IT infrastructure support (pending board approval).
+* Additional ecosystem development opportunities include training courses, certification development, and conformance programs (pending board approval).
+
 ## Emeritus
+
+There are times when projects become inactive for various reasons. There are cases where the TAC may no longer support a project. The project will be transitioned to the Emeritus stage and archived in such cases.
+
+What does archiving for an LF AI & Data project mean?
+* LF AI & Data will no longer provide support for the project beyond what’s deemed necessary as part of the archiving process.
+* LF AI & Data will list the project online as archived.
+* All assets, including trademarks of archived projects, will remain hosted by LF AI & Data and the Linux Foundation.
+
+Process of Archiving a Project
+* A proposal must be submitted to the TAC via the regularly scheduled TAC call.
+* The proposal will be presented to the TAC and include an explanation supporting archiving of the project.
+* The proposal must remain open for at least two weeks of discussion.
+* A vote must be finalized with 2/3 approval from the TAC and 2/3 approval from the Governing Board.
 
 # 4. Joining requirements
 
 The requirements for applying for Sandbox stage are:
 
 * Fit the scope and mission of LF AI & Data.
-* Have an open and documented technical governance.
+* Have a sponsor who is an existing LF AI & Data member. Alternatively, a new organization would join LF AI & Data and sponsor the project’s incubation application. Have an open and documented technical governance. The Linux Foundation team can help set this up as part of the onboarding process.
 * Have an OSI-approved license.
-* Have its own GitHub organization.
-* Have achieved and maintained the [OpenSSF Best Practices Passing Badge](https://www.bestpractices.dev/en/criteria/0).
-* Submit a completed Project Contribution Proposal via a [GitHub pull request](https://github.com/lfai/proposing-projects/tree/master/proposals).
-* Identify who will be handling security vulnerabilities reporting.
-* Project founders approve the Technical Charter and execute the Project Contribution Agreement.
-* Receive the affirmative vote of the TAC.
+* The project's founders adopt an open governance model documented in a Technical Charter for the project, and execute the Project Contribution Agreement transferring the project’s assets to the Linux Foundation..
 
 To be accepted into the Incubation stage, a project must meet all the requirements of the Sandbox stage plus:
 
-* Have at least two organizations actively contributing to the project.
-* Have a defined Technical Steering Committee (TSC) with a chairperson identified.
+* Have at least three organizations actively contributing to the project.
+* Have a defined Technical Steering Committee (TSC) with a chairperson identified, with
+open and transparent communication.
 * Have a sponsor who is an existing LF AI & Data member. Alternatively, a new organization would join LF AI & Data and sponsor the project’s incubation application.
-* Have at least 300 stars on GitHub; this is an existing requirement for a project to be listed on the LF AI & Data landscape.
+* Have at least 500 stars on GitHub.
 * Have achieved and maintained the [OpenSSF Best Practices Silver Badge​](https://www.bestpractices.dev/en/criteria/1).
-* In addition to the affirmative vote of the TAC, incubation stage projects also require the affirmative vote of the Governing Board.
+  
+In addition to the affirmative vote of the TAC, incubation stage projects also require the affirmative vote of the Governing Board.
 
 To be accepted into the Graduation stage, a project must meet the Incubation stage requirements plus:
 
@@ -117,14 +159,27 @@ To be accepted into the Graduation stage, a project must meet the Incubation sta
 
 Since these metrics can vary depending on the type, scope, and size of a project, the TAC has final judgment over the level of activity that is adequate to meet these criteria.
 
-# 5. Proposing a project for hosting
+# 5. Proposing a project for Sandbox hosting
 
-1. Decide on a date to present to the TAC and request incubation
-2. Ensure that your project implements these [recommendations](https://github.com/lfai/tac/blob/main/github-recommendations.md)
-3. Submit a formal request to incubate the project via a [GitHub pull request](https://github.com/lfai/proposing-projects/tree/master/proposals)
-4. Prepare deck and share with ED about 10 days prior to the presentation
-5. Present to the TAC and get approval
-6. Onboard the project with the LF AI & Data team and integrate the project with our service
-7. Announce the project becoming hosted in LF AI & Data
+1. Submit a Project Contribution Proposal via a [GitHub pull request](https://github.com/lfai/proposing-projects/tree/master/proposals)
+2. Move the project's code into its own GitHub organization and not under its founders organization
+   * Enable two-factor authentication for all members of the project's GitHub organization
+   * Install the [GitHub DCO app](https://github.com/apps/dco) on all repos
+   * Add @thelinuxfoundation as a co-owner of the GitHub organization 
+3. Achieve and maintain the [OpenSSF Best Practices Passing Badge](https://www.bestpractices.dev/en/criteria/0).
+4. Identify who on the project will handle security issues (could be a team)
+   * LF AI & Data will set up a mailing list to receive and discuss security vulnerability reporting
+5. Have the following files in GitHub:
+   * `LICENSE.md` at the root of the repository specifying the terms and conditions for using, distributing, and modifying the software. In addition, you should provide information on the license of any third-party code included in the project.
+   * `README.md` welcomes new community members to the project and explains why the project is useful and how to get started.
+   * `CONTRIBUTING.md` explains how to contribute to the project. The file explains the types of contributions needed and how the development process works.
+   * `CODEOWNERS` to define individuals or teams responsible for code in a repository; document current project owners and emeritus committers.
+   * `CODE_OF_CONDUCT.md` sets the ground rules for participants’ behavior and helps facilitate a friendly, welcoming environment. By default, projects should leverage the Linux Foundation Code of Conduct unless an alternate Code of Conduct is approved prior.
+   * `RELEASE.md` provides documentation on the release methodology, cadence, criteria, etc.
+   * `GOVERNANCE.md` documents the project’s technical governance.
+   * `SUPPORT.md` lets users and developers know how to get help with the project.
+   * `SECURITY.md` informs users and developers on how to report security issues
+and vulnerabilities.
+7. *Optional but highly recommended* Include a Software Package Data Exchange (SPDX) short-form identifier in a comment at the top headers of each source code file.
 
 Projects that have questions about foundations are welcome to contact [CORSA](https://corsa.center) by [emailing PI Greg Watson](mailto:watsongr@ornl.gov). And those with questions that are specific to [LF AI & Data](https://lfaidata.foundation) should use the contact link on its website.
