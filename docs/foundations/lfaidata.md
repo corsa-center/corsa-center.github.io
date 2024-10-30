@@ -44,7 +44,8 @@ There are four stages of project hosting in LF AI & Data: Sandbox, Incubating, G
 
 A project transitions from one stage to another by meeting certain requirements. If a project's request to transition to a higher level stage is not approved, the project is eligible to re-apply after siz months of the first request.
 
-The Technical Advisory Committee (TAC) votes on new projects joining LF AI & Data, as well as on promoting projects across incubation stages. The TAC undertakes an annual review of all projects.
+The Technical Advisory Committee (TAC) votes on new projects joining LF AI & Data, as well as on promoting projects across incubation stages. The TAC will annually review all LF AI & Data projects. This annual review will include assessing whether projects in Sandbox and Incubation are making adequate progress towards the Graduation stage; and whether projects in the Graduation stage are maintaining positive growth and adoption. Any project may be moved to the Emeritus stage, provided the TAC and the Governing Board approve the transition via a 2/3 affirmative vote.
+
 
 ## Sandbox
 
