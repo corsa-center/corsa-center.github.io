@@ -37,16 +37,6 @@ keycomp_items:
 foundations_heading: Foundations
 foundations_subtext: Need help choosing a foundation? Click on the links below to find out more about each foundation and what it takes to apply and join.
 foundation_items:
-  - name: NumFOCUS
-    content: "The mission of NumFOCUS is to promote open practices in research, data, and scientific computing by serving as a fiscal sponsor for open source projects and organizing community-driven educational programs."
-    button_link: /foundations/numfocus.html
-    button_text: Learn more
-    internal_url: true
-  - name: High Performance Software Foundation (HPSF)
-    content: "HPSF is an open-source, vendor neutral hub for high performance software projects working groups, events, and training."
-    button_link: /foundations/hpsf.html
-    button_text: Learn more
-    internal_url: true
   - name: Apache Software Foundation (ASF)
     content: "The ASF exists to provide software for the public good. It believes in the power of community over code, known as The Apache Way. Thousands of people around the world contribute to ASF open source projects every day."
     button_link: /foundations/apache.html
@@ -59,18 +49,28 @@ foundation_items:
     button_text: Learn more
     disable_button: false
     internal_url: false
+  - name: High Performance Software Foundation (HPSF)
+    content: "HPSF is an open-source, vendor neutral hub for high performance software projects working groups, events, and training."
+    button_link: /foundations/hpsf.html
+    button_text: Learn more
+    internal_url: true
+  - name: LF AI & Data Foundation
+    content: Its mission is to build and support an open AI community, and drive open source innovation in the AI, ML, DL and Data domains by enabling collaboration, sharing best practices, supporting development efforts, and the creation of new opportunities for all the members of the community.
+    button_link: /foundations/lfaidata.html
+    button_text: Learn more
+    disable_button: false
+    internal_url: true  
+  - name: NumFOCUS
+    content: "The mission of NumFOCUS is to promote open practices in research, data, and scientific computing by serving as a fiscal sponsor for open source projects and organizing community-driven educational programs."
+    button_link: /foundations/numfocus.html
+    button_text: Learn more
+    internal_url: true
   - name: Open Molecular Software Foundation (OMSF)
     content: "Its mission is to advance molecular sciences by building high quality, open source software and sustainable communities for research software development."
     button_link: "https://omsf.io/"
     button_text: Learn more
     disable_button: false
     internal_url: false
-  - name: LF AI & Data Foundation
-    content: Its mission is to build and support an open AI community, and drive open source innovation in the AI, ML, DL and Data domains by enabling collaboration, sharing best practices, supporting development efforts, and the creation of new opportunities for all the members of the community.
-    button_link: /foundations/lfaidata.html
-    button_text: Learn more
-    disable_button: false
-    internal_url: true
 
 # BENEFITS SECTION
 benefits_heading: Benefits
@@ -101,6 +101,17 @@ funding_opportunities:
     content: The <a href="https://www.nsf.gov/">NSF</a> has current open funding opportunities for the <a href="https://www.nsf.gov/pubs/2024/nsf24109/nsf24109.pdf">National Artificial Intelligence Research Resource (NAIRR) Pilot</a>, through December 15, 2024. The NSF also has open funding opportunities for <a href="https://new.nsf.gov/funding/opportunities/cssi-cyberinfrastructure-sustained-scientific-innovation">Cyberinfrastructure for Sustained Scientific Innovation (CSSI)</a>, with proposals due December 2, 2024.
   - name: Research Software Alliance (ReSA)
     content: <a href="https://www.researchsoft.org">ReSA</a> maintains a <a href="https://www.researchsoft.org/funding-opportunities/">list of funding opportunities for research software projects</a>.
+
+# EVENTS SECTION
+events_heading: Events
+event_types:
+  - title: Upcoming Events
+    event_list:
+      - month: NOV 
+        day: 19
+        time: 5:15 pm - 6:45 pm
+        description: "SC24 BoF - Making Sense of the Chaos: Best Practices for HPC Software Sustainability Strategies and Metrics"
+        url: https://sc24.conference-program.com/presentation/?id=bof181&sess=sess622
 
 # RESOURCES SECTION
 resources_heading: Resources
@@ -146,5 +157,7 @@ resource_types:
 {% include home-sections/benefits.html %}
 
 {% include home-sections/funding-opportunities.html %}
+
+{% include home-sections/events.html %}
 
 {% include home-sections/resources.html %}
