@@ -11,19 +11,26 @@ We will generally try to structure these forums around:
 - Experiences with foundations (I can talk about Parsl and NumFOCUS, and others would be welcome to talk about their experiences with other foundations)
 - Another foundation-related topic that the group chooses
 
-Meetings will be open to anyone who wants to join - so please feel free to share this
-- Meetings will be recorded and posted on youtube, with links to them from a part of the CORSA website ([see below](#past-meetings)).
+Meetings will be open to anyone who wants to join - so please feel free to share
+- Meetings will usually be recorded and posted on youtube, with links to them from a part of the CORSA website ([see below](#past-meetings)).
 - Meetings will be announced via the [CORSA email list](https://groups.io/g/corsa/join) and the CASS #general and #wg-foundations slack channels
 
 
-## Next meeting: Oct 30, 2024 at 12:00 to 13:00, CDT
+## Next meeting: Dec 5, 2024 at 12:00 to 13:00, CDT
 
-**Join Zoom Meeting**<br> 
-[https://illinois.zoom.us/j/81639828437?pwd=7JWMavBo5Eyb9QTDiKkyK5i7AHwujK.1](https://illinois.zoom.us/j/81639828437?pwd=7JWMavBo5Eyb9QTDiKkyK5i7AHwujK.1)
-
-**Meeting ID:** 816 3982 8437<br>
-**Password:** 485871<br>
-**One tap mobile:** +14703812552,,81639828437#
+See announcement for zoom details.
 
 ## Past meetings
-Nothing to show
+
+### Oct 30, 2024
+
+We had a small group (JC Subida, Peter Lindstrom, Todd Gamblin, Dan Katz, Greg Watson, Elaine Raybourn) and good discussions after some introductions, touching on:
+* different types of foundations, pros and cons
+* how foundations can take in funding from different agencies and then allocate that to project work at different institutions
+* issues about overhead, rules from different agencies, etc.
+* reasons for projects to bring in money from a foundation vs to a performance institution directly.
+* legal status of foundations and projects
+* which kinds of projects (started by which kinds of institutions and how many of them) join foundations, and which
+I hope we will be able to build from this meeting.
+
+This meeting was not recorded.
