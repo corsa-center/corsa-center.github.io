@@ -16,11 +16,21 @@ Meetings will be open to anyone who wants to join - so please feel free to share
 - Meetings will be announced via the [CORSA email list](https://groups.io/g/corsa/join) and the CASS #general and #wg-foundations slack channels
 
 
-## Next meeting: Dec 5, 2024 at 12:00 to 13:00, CDT
+## Next meeting: Jan 29, 2025 at 12:00 to 13:00, CDT
+
+In this meeting, we will plan for formal talks (which we will record) from two software foundations, followed by Q&A with the foundation speakers. More details will appear here as the speakers are confirmed.
 
 See announcement for zoom details.
 
 ## Past meetings
+
+### Dec 5, 2024
+
+Similar to last month, we had a small group (Jason Gates, Dan Katz, JC Subida, Addi Thakur Malviya, Daniel Howard, Keita Teranishi) and good discussions, 
+touching on benefits of foundations, requirements of joining, and community activities. We also had an informal Q&A session.
+
+This meeting was not recorded.
+
 
 ### Oct 30, 2024
 
