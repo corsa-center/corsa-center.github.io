@@ -18,7 +18,8 @@ Meetings will be open to anyone who wants to join - so please feel free to share
 
 ## Next meeting: Jan 29, 2025 at 12:00 to 13:00, CDT
 
-In this meeting, we will plan for formal talks (which we will record) from two software foundations, followed by Q&A with the foundation speakers. More details will appear here as the speakers are confirmed.
+In this meeting, we will plan for formal talks (which we will record) from two software foundations, followed by Q&A with the foundation speakers. 
+Todd Gamblin will representat HPSF. More details will appear here as another speaker is confirmed.
 
 See announcement for zoom details.
 
