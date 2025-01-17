@@ -3,7 +3,7 @@ layout: page
 title: CASS Foundations Working Group (Foundations Forum)
 ---
 
-The foundations forum is an open forum for projects to meet and share experiences with joining or membership of an open-source software foundation (e.g. NumFOCUS, High Peformance Software Foundation, etc.) 
+The foundations forum is an open forum for projects to meet and share experiences with joining or membership in an open-source software foundation (e.g., NumFOCUS, High Peformance Software Foundation, etc.) 
 
 We will generally try to structure these forums around: 
 - Benefits of software foundations
