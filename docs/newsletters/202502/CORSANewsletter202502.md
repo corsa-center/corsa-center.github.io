@@ -8,39 +8,35 @@ Welcome to the CORSA newsletter! Each month, we'll provide information about wha
 
 Please let us know what you think of this newsletter:
 
-<form action="https://api.mailslurp.com/forms?_to=watsongr@ornl.gov" method="post">
+<form method="post" id="form">
+    <input type="hidden" name="access_key" value="3f914129-5b99-4256-91bc-9996fd047c40">
+    <input type="hidden" name="subject" value="Newsletter Survey Response">
+    <input type="checkbox" name="botcheck" id="" style="display: none;">
+ 
   <div class="form-control">
    <label>Do you find this newsletter useful?</label>
    <!-- Input Type Radio Button -->
-   <label for="recommed-1">
-       <input type="radio" id="recommed-1" 
-              name="recommed">Yes
-         </input>
+   <label>
+       <input type="radio" id="useful-1" name="useful" value="yes">Yes
    </label>
-   <label for="recommed-2">
-       <input type="radio" id="recommed-2" 
-              name="recommed">No
-         </input>
+   <label>
+       <input type="radio" id="useful-2" name="useful" value="no">No
    </label>
-   <label for="recommed-3">
-       <input type="radio" id="recommed-3" 
-              name="recommed">Somewhat
-         </input>
+   <label>
+       <input type="radio" id="useful-3" name="useful" value="somewhat">Somewhat
    </label>
    <br>
    <label>Would you be interested in contributing content for future issues?</label>
-   <label for="content-1">
-       <input type="radio" id="content-1" 
-              name="content">Yes
-         </input>
+   <label>
+       <input type="radio" id="content-1" name="content" value="yes">Yes
    </label>
-   <label for="content-2">
-       <input type="radio" id="content-2" 
-              name="content">No
-         </input>
+   <label>
+       <input type="radio" id="content-2" name="content" value="no">No
    </label>
   </div>
+  
   <button type="submit">Submit Feedback!</button>
+  <div id="result"></div>
 </form>
 
 ---
