@@ -6,6 +6,43 @@
  
 Welcome to the CORSA newsletter! Each month, we'll provide information about what CORSA has been up to, list our upcoming events, and highlight funding opportunities.
 
+Please let us know what you think of this newsletter:
+
+<form action="https://api.mailslurp.com/forms?_to=watsongr@ornl.gov" method="post">
+  <div class="form-control">
+   <label>Do you find this newsletter useful?</label>
+   <!-- Input Type Radio Button -->
+   <label for="recommed-1">
+       <input type="radio" id="recommed-1" 
+              name="recommed">Yes
+         </input>
+   </label>
+   <label for="recommed-2">
+       <input type="radio" id="recommed-2" 
+              name="recommed">No
+         </input>
+   </label>
+   <label for="recommed-3">
+       <input type="radio" id="recommed-3" 
+              name="recommed">Somewhat
+         </input>
+   </label>
+   <br>
+   <label>Would you be interested in contributing content for future issues?</label>
+   <label for="content-1">
+       <input type="radio" id="content-1" 
+              name="content">Yes
+         </input>
+   </label>
+   <label for="content-2">
+       <input type="radio" id="content-2" 
+              name="content">No
+         </input>
+   </label>
+  </div>
+  <button type="submit">Submit Feedback!</button>
+</form>
+
 ---
 
 **In This Issue:**
