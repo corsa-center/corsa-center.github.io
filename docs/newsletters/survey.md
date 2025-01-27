@@ -41,7 +41,7 @@ title: Newsletter Survey
    </div>
 
 
-  <button class="btn btn-accent btn-lg block w-full cursor-pointer" type="submit">Submit Feedback!</button>
+  <button class="btn btn-accent btn-lg block w-full cursor-pointer" type="submit">Submit Response!</button>
   <div id="result"></div>
     </div>
 </form>
