@@ -14,21 +14,21 @@ title: Newsletter Survey
    <label>Do you find this newsletter useful?</label>
    <!-- Input Type Radio Button -->
    <label>
-       <input type="radio" id="useful-1" name="useful-1" value="yes">Yes
+       <input class="radio" type="radio" id="useful-1" name="useful" value="yes" checked="checked">Yes
    </label>
    <label>
-       <input type="radio" id="useful-2" name="useful-2" value="no">No
+       <input class="radio" type="radio" id="useful-2" name="useful" value="no">No
    </label>
    <label>
-       <input type="radio" id="useful-3" name="useful-3" value="somewhat">Somewhat
+       <input class="radio" type="radio" id="useful-3" name="useful" value="somewhat">Somewhat
    </label>
    <br>
    <label>Would you be interested in contributing content for future issues?</label>
    <label>
-       <input type="radio" id="content-1" name="content-1" value="yes">Yes
+       <input class="radio" type="radio" id="content-1" name="content" value="yes" checked="checked">Yes
    </label>
    <label>
-       <input type="radio" id="content-2" name="content-2" value="no">No
+       <input class="radio" type="radio" id="content-2" name="content" value="no">No
    </label>
   </div>
 
