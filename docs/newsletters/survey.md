@@ -13,31 +13,34 @@ title: Newsletter Survey
   <div class="form-control">
    <label>Do you find this newsletter useful?</label>
    <!-- Input Type Radio Button -->
-   <div class="flex items-center me-4">
-       <input class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600" type="radio" id="useful-1" name="useful" value="yes" checked="checked">
-       <label for="useful-1" class="ms-2 text-sm font-medium text-gray-900 dark:text-gray-300">Yes</label>
+   <div class="flex">
+       <div class="flex items-center me-4">
+           <input class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600" type="radio" id="useful-1" name="useful" value="yes" checked="checked">
+           <label for="useful-1" class="ms-2 text-sm font-medium text-gray-900 dark:text-gray-300">Yes</label>
+       </div>
+       <div class="flex items-center me-4">
+           <input class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600" type="radio" id="useful-2" name="useful" value="no">
+            <label for="useful-2" class="ms-2 text-sm font-medium text-gray-900 dark:text-gray-300">No</label>
+       </div>
+       <div class="flex items-center me-4">
+           <input class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600" type="radio" id="useful-3" name="useful" value="somewhat">
+           <label for="useful-3" class="ms-2 text-sm font-medium text-gray-900 dark:text-gray-300">Somewhat</label>
+       </div>
    </div>
-   <div class="flex items-center me-4">
-       <input class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600" type="radio" id="useful-2" name="useful" value="no">
-        <label for="useful-2" class="ms-2 text-sm font-medium text-gray-900 dark:text-gray-300">No</label>
-   </div>
-   <div class="flex items-center me-4">
-       <input class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600" type="radio" id="useful-3" name="useful" value="somewhat">
-       <label for="useful-3" class="ms-2 text-sm font-medium text-gray-900 dark:text-gray-300">Somewhat</label>
-   </div>
-   <p>
+   
    <label>Would you be interested in contributing content for future issues?</label>
-   <div class="flex items-center me-4">
-       <input class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600" type="radio" id="content-1" name="content" value="yes" checked="checked">
-        <label for="content-1" class="ms-2 text-sm font-medium text-gray-900 dark:text-gray-300">Yes</label>
-   </div>
-   <div class="flex items-center me-4">
-       <input class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600" type="radio" id="content-2" name="content" value="no">
-       <label for="content-2" class="ms-2 text-sm font-medium text-gray-900 dark:text-gray-300">No</label>
+   <div class="flex">
+       <div class="flex items-center me-4">
+           <input class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600" type="radio" id="content-1" name="content" value="yes" checked="checked">
+            <label for="content-1" class="ms-2 text-sm font-medium text-gray-900 dark:text-gray-300">Yes</label>
+       </div>
+       <div class="flex items-center me-4">
+           <input class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600" type="radio" id="content-2" name="content" value="no">
+           <label for="content-2" class="ms-2 text-sm font-medium text-gray-900 dark:text-gray-300">No</label>
+       </div>
    </div>
   </div>
 
-  <p>
   <button class="btn btn-accent btn-lg block w-full cursor-pointer" type="submit">Submit Feedback!</button>
   <div id="result"></div>
 </form>
