@@ -10,10 +10,10 @@ title: Newsletter Survey
     <input type="hidden" name="subject" value="Newsletter Survey Response">
     <input type="checkbox" name="botcheck" id="" style="display: none;">
  
-  <div class="form-control">
-   <label>Do you find this newsletter useful?</label>
+  <div class="form-control space-x-4">
    <!-- Input Type Radio Button -->
    <div class="flex">
+       <label>Do you find this newsletter useful?</label>
        <div class="flex items-center me-4">
            <input class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600" type="radio" id="useful-1" name="useful" value="yes" checked="checked">
            <label for="useful-1" class="ms-2 text-sm font-medium text-gray-900 dark:text-gray-300">Yes</label>
@@ -28,8 +28,8 @@ title: Newsletter Survey
        </div>
    </div>
    
-   <label>Would you be interested in contributing content for future issues?</label>
    <div class="flex">
+       <label>Would you be interested in contributing content for future issues?</label>
        <div class="flex items-center me-4">
            <input class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600" type="radio" id="content-1" name="content" value="yes" checked="checked">
             <label for="content-1" class="ms-2 text-sm font-medium text-gray-900 dark:text-gray-300">Yes</label>
