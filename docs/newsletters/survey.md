@@ -3,7 +3,7 @@ layout: page
 title: Newsletter Survey
 ---
 
-Please answer the following questions to help us better understand the needs of the community:
+<h2>Please answer the following questions to help us better understand the needs of the community:</h2>
 
 <form method="post" id="form">
     <input type="hidden" name="access_key" value="3f914129-5b99-4256-91bc-9996fd047c40">
@@ -33,6 +33,6 @@ Please answer the following questions to help us better understand the needs of 
   </div>
 
   <br>
-  <button class="block bg-teal hover:bg-teal-dark text-white uppercase text-lg mx-auto p-4 rounded" type="submit">Submit Feedback!</button>
+  <button class="btn btn-accent btn-lg block w-full cursor-pointer" type="submit">Submit Feedback!</button>
   <div id="result"></div>
 </form>
