@@ -14,21 +14,21 @@ title: Newsletter Survey
    <label>Do you find this newsletter useful?</label>
    <!-- Input Type Radio Button -->
    <label>
-       <input class="radio" type="radio" id="useful-1" name="useful" value="yes" checked="checked">Yes
+       <input class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600" type="radio" id="useful-1" name="useful" value="yes" checked="checked">Yes
    </label>
    <label>
-       <input class="radio" type="radio" id="useful-2" name="useful" value="no">No
+       <input class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600" type="radio" id="useful-2" name="useful" value="no">No
    </label>
    <label>
-       <input class="radio" type="radio" id="useful-3" name="useful" value="somewhat">Somewhat
+       <input class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600" type="radio" id="useful-3" name="useful" value="somewhat">Somewhat
    </label>
    <br>
    <label>Would you be interested in contributing content for future issues?</label>
    <label>
-       <input class="radio" type="radio" id="content-1" name="content" value="yes" checked="checked">Yes
+       <input class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600" type="radio" id="content-1" name="content" value="yes" checked="checked">Yes
    </label>
    <label>
-       <input class="radio" type="radio" id="content-2" name="content" value="no">No
+       <input class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600" type="radio" id="content-2" name="content" value="no">No
    </label>
   </div>
 
