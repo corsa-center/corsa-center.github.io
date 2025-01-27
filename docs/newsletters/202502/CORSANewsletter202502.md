@@ -6,7 +6,7 @@
  
 Welcome to the CORSA newsletter! Each month, we'll provide information about what CORSA has been up to, list our upcoming events, and highlight funding opportunities.
 
-Please let us know what you think of this newsletter by taking this two question survey: [CLICK HERE](https://corsa.center/newsletters/survey.html).
+**Please let us know what you think of this newsletter by taking this two question survey: [CLICK HERE](https://corsa.center/newsletters/survey.html)**
 
 ---
 
