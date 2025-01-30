@@ -50,6 +50,10 @@ The U.S. National Institutes of Health recently released a new public access pol
 
 In addition to the release of the 2024 Public Access Policy, NIH is also releasing its Plan on Metadata and Personal Identifiers (PIDs) for public comment. The plan outlines how researchers and institutions should be using metadata and PIDs, and also outlines proposed requirements for NIH-supported repositories to collect and make relevant metadata publicly available and searchable. To read more and comment, see [https://osp.od.nih.gov/comment-form-nih-plan-to-increase-findability-and-transparency-of-research-results-through-the-use-of-metadata-and-persistent-identifiers-pids/](https://osp.od.nih.gov/comment-form-nih-plan-to-increase-findability-and-transparency-of-research-results-through-the-use-of-metadata-and-persistent-identifiers-pids/)
 
+&#10148; [**HPSF Conference Call For Proposals**](https://events.linuxfoundation.org/hpsf-conference/program/cfp/) 
+
+Submit your proposal by February 23, 2025 to speak at the High Performance Software Foundation (HPSF) inaugural conference slated for May 3-5, 2025 in Chicago, IL. Conference sessions will provide an update on HPSF activities, introduce new members and projects, foster collaboration in the working groups, and hear from members about their goals for the future of the foundation.
+
 ---
 
 ### 2. Upcoming: [Connect with the Office of Science\!](https://science.osti.gov/officehours)
