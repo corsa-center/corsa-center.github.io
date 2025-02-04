@@ -54,6 +54,10 @@ In addition to the release of the 2024 Public Access Policy, NIH is also releasi
 
 Submit your proposal by February 23, 2025 to speak at the High Performance Software Foundation (HPSF) inaugural conference slated for May 3-5, 2025 in Chicago, IL. Conference sessions will provide an update on HPSF activities, introduce new members and projects, foster collaboration in the working groups, and hear from members about their goals for the future of the foundation.
 
+&#10148; [**Open Source Software Foundations HPSF and NumFOCUS Featured In US-RSE Association February Community Call**](https://zoom.us/meeting/register/tJMscu2vrzwsGNJ_cRXZEeaPYqz3He6f2yNk#/registration)
+
+The Research Software Engineering Association (US-RSE) February Community Call features presentations from two Open Source Software Foundations on Friday, February 14, at 2pm ET/1pm CT/12pm MT/11am PT. Leah Silen for NumFOCUS and Christian Trott for HPSF will discuss how these foundations offer a neutral home for software projects. Project members part of such foundations (including Matt Thompson from Open Force Field and Andrew Fullard from TARDIS) will share thier experiences, followed by an open Q&A about foundations with attendees. 
+
 ---
 
 ### 2. Upcoming: [Connect with the Office of Science\!](https://science.osti.gov/officehours)
