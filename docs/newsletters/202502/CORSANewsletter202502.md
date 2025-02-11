@@ -6,7 +6,7 @@
  
 Welcome to the CORSA newsletter! Each month, we'll provide information about what CORSA has been up to, list our upcoming events, and highlight funding opportunities.
 
-**Please let us know what you think of this newsletter by taking this two question survey: [CLICK HERE](https://corsa.center/newsletters/survey.html)**
+**Please let us know what you think of this newsletter by taking this quick two question survey: [CLICK HERE](https://corsa.center/newsletters/survey.html)**
 
 ---
 
@@ -14,7 +14,7 @@ Welcome to the CORSA newsletter! Each month, we'll provide information about wha
 
 * **Recent News**  
 * **Upcoming: Connect with the Office of Science**  
-* **New Research Grants Available**  
+* **New Funding Opportunities**  
 * **Regular CORSA-led working groups**  
 * **Funding Tips & Resources**  
 * **Additional Resources & Events**
@@ -22,6 +22,14 @@ Welcome to the CORSA newsletter! Each month, we'll provide information about wha
 ---
 
 ### 1. Recent News
+
+&#10148; [**HPSF Conference Call For Proposals**](https://events.linuxfoundation.org/hpsf-conference/program/cfp/) 
+
+Submit your proposal by February 23, 2025 to speak at the High Performance Software Foundation (HPSF) inaugural conference slated for May 3-5, 2025 in Chicago, IL. Conference sessions will provide an update on HPSF activities, introduce new members and projects, foster collaboration in the working groups, and hear from members about their goals for the future of the foundation.
+
+&#10148; [**Open Source Software Foundations HPSF and NumFOCUS Featured In US-RSE Association February Community Call**](https://us-rse.org/events/repeated/community-call-fridays/)
+
+The Research Software Engineering Association (US-RSE) February Community Call features presentations from two Open Source Software Foundations on Friday, February 14, at 2pm ET/1pm CT/12pm MT/11am PT. Leah Silen for NumFOCUS and Christian Trott for HPSF will discuss how these foundations offer a neutral home for software projects. Project members part of such foundations (including Matt Thompson from Open Force Field and Andrew Fullard from TARDIS) will share thier experiences, followed by an open Q&A about foundations with attendees. US-RSE (free) membership required.
 
 &#10148; **FAIR for Research Software (FAIR4RS) Principles 2-year review**
 
@@ -32,31 +40,11 @@ Do you think the FAIR principles for Research Software ([https://doi.org/10.1549
 * Survey: https://forms.gle/sRhRQD4gWBQWzcGS7  
 * Recorded webinars about the review process: [https://youtu.be/Ex691O5Koe0](https://youtu.be/Ex691O5Koe0) and [https://youtu.be/iBtDm8BP05g](https://youtu.be/iBtDm8BP05g)
 
-&#10148; [**NSF seeks input to enhance IP provisions in public-private research partnerships**](https://www.federalregister.gov/documents/2024/12/16/2024-29523/request-for-comments-on-nsfs-proposed-intellectual-property-options?utm_medium=email&utm_source=govdelivery)
-
-The U.S. National Science Foundation recently published a [Request for Comments](https://www.federalregister.gov/documents/2024/12/16/2024-29523/request-for-comments-on-nsfs-proposed-intellectual-property-options?utm_medium=email&utm_source=govdelivery) to gather input from the public on new intellectual property (IP) options in the agency's public-private partnerships that aim to provide greater flexibility and balance the interests of both academia and industry in such joint funding initiatives. 
-
-NSF seeks feedback from individuals and organizations across all sectors, including industry, academia, nonprofit organizations, government agencies and other interested parties. The comments will be used to guide how NSF builds new intellectual property options into partnership agreements involving industry.
-
-Responses will be accepted until 5 p.m. EDT on Friday, Jan. 24, 2025 in [this online form](https://airtable.com/app9KPUhqR2lAb4Zf/pag9d0QhLcOXkGlud/form?utm_medium=email&utm_source=govdelivery).
-
-Respondents only need to provide feedback on one or more questions of interest or relevance to them. Each question is voluntary and optional. 
-
-See full details on the [Federal Register notice](https://www.federalregister.gov/documents/2024/12/16/2024-29523/request-for-comments-on-nsfs-proposed-intellectual-property-options?utm_medium=email&utm_source=govdelivery).
-
 &#10148; [**New NIH public access policy**](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-047.html)
 
 The U.S. National Institutes of Health recently released a new public access policy which removes the previous twelve-month embargo period before manuscripts are made freely available to the public.
 
 In addition to the release of the 2024 Public Access Policy, NIH is also releasing its Plan on Metadata and Personal Identifiers (PIDs) for public comment. The plan outlines how researchers and institutions should be using metadata and PIDs, and also outlines proposed requirements for NIH-supported repositories to collect and make relevant metadata publicly available and searchable. To read more and comment, see [https://osp.od.nih.gov/comment-form-nih-plan-to-increase-findability-and-transparency-of-research-results-through-the-use-of-metadata-and-persistent-identifiers-pids/](https://osp.od.nih.gov/comment-form-nih-plan-to-increase-findability-and-transparency-of-research-results-through-the-use-of-metadata-and-persistent-identifiers-pids/)
-
-&#10148; [**HPSF Conference Call For Proposals**](https://events.linuxfoundation.org/hpsf-conference/program/cfp/) 
-
-Submit your proposal by February 23, 2025 to speak at the High Performance Software Foundation (HPSF) inaugural conference slated for May 3-5, 2025 in Chicago, IL. Conference sessions will provide an update on HPSF activities, introduce new members and projects, foster collaboration in the working groups, and hear from members about their goals for the future of the foundation.
-
-&#10148; [**Open Source Software Foundations HPSF and NumFOCUS Featured In US-RSE Association February Community Call**](https://us-rse.org/events/repeated/community-call-fridays/)
-
-The Research Software Engineering Association (US-RSE) February Community Call features presentations from two Open Source Software Foundations on Friday, February 14, at 2pm ET/1pm CT/12pm MT/11am PT. Leah Silen for NumFOCUS and Christian Trott for HPSF will discuss how these foundations offer a neutral home for software projects. Project members part of such foundations (including Matt Thompson from Open Force Field and Andrew Fullard from TARDIS) will share thier experiences, followed by an open Q&A about foundations with attendees. US-RSE (free) membership required.
 
 ---
 
@@ -66,13 +54,69 @@ The Office of Science (SC) is hosting monthly virtual Office Hours to share info
 
 Office Hours will take place on the first Tuesday of each month, 2:00-3:00 pm Eastern Time (ET), each office hour will begin with a brief presentation followed by questions and answers on a monthly topic. We will then move to breakout rooms by program office for general questions from the community. Click on the topic below to register for an upcoming Office Hour.
 
-* Tuesday, February 4, 2025, 2-3pm ET – [Research, Technology, and Economic Security Framework for Financial Assistance](https://science-doe.zoomgov.com/meeting/register/vJIsce2tqTwvGVwJ2UDjsJCl3xos8DWKulY?utm_medium=email&utm_source=govdelivery#/registration)
-
 For more information on SC Office Hours, including registration and upcoming topics, and to view slides and recordings of past Office Hours, please visit [https://science.osti.gov/officehours](https://science.osti.gov/officehours).
 
 ---
 
-### 3. Research Grant Opportunities
+### 3. Funding Opportunities
+
+&#10148; [EXPRESS:2025 Exploratory Research for Extreme-Scale Science](https://science.osti.gov/-/media/grants/pdf/foas/2025/DE-FOA-0003545-000001.pdf)
+
+**Funding Amount**: $136M over 5 years
+**Deadline**: February 25, 2025 (pre-proposal),May 6, 2025 (full)
+**Summary**:
+
+The DOE SC program in Advanced Scientific Computing Research (ASCR) hereby
+announces its interest in basic research to explore potentially high-impact approaches in
+scientific computing and extreme-scale science.
+
+Supporting "...significant innovation [...] in the development of effective paradigms and approaches for realizing the full potential of scientific computing from emerging technologies. The proposed research should not focus on a specific science use case, but rather on creating the body of knowledge and understanding that
+will inform future advances in extreme-scale science. Consequently, the funding [...] is not intended to incrementally extend current research in the area of the proposed project."
+
+Reasearch topics include:
+
+* Quantum computation based on topological concepts
+* Local and Campus-Area Quantum Networking for Next Generation Parallel Quantum
+Computing
+* Neuromorphic Computing
+* Computational Physical Systems
+* Deep Understanding of AI Models
+
+&#10148; [Early Career Research Program](https://science.osti.gov/grants/FOAs/-/media/grants/pdf/foas/2025/DE-FOA-0003450-000002-2.pdf)
+
+**Funding Amount**: up to $16M over 2 years
+**Deadline**: February 18, 2025 (pre-applications), April 22, 2025 (close date)
+**Summary**:
+
+The DOE SC hereby invites applications for support under the Early Career Research Program in the following program
+areas: Advanced Scientific Computing Research (ASCR); Basic Energy Sciences (BES);
+Biological and Environmental Research (BER); Fusion Energy Sciences (FES); High Energy
+Physics (HEP); Nuclear Physics (NP); Isotope Research and Development (R&D) and
+Production (DOE IP); and Accelerator R&D and Production (ARDAP). The purpose of this
+program is to support the development of individual research programs of outstanding scientists
+early in their careers and to stimulate research careers in the areas supported by SC
+
+&#10148; [Scientific Discovery through Advanced Computing (SciDAC): Partnerships in Basic Energy Sciences](https://science.osti.gov/grants/FOAs/-/media/grants/pdf/foas/2025/DE-FOA-0003515-000002.pdf)
+
+**Funding Amount**: $40M over 4 years 
+**Deadline**: February 21, 2025 (pre-applications), April 25, 2025 (full)
+**Summary**
+
+The DOE SC programs in Basic Energy Sciences (BES) and Advanced Scientific Computing
+Research (ASCR) announce their interest in receiving applications from interdisciplinary teams
+to establish partnerships under the Scientific Discovery through Advanced Computing (SciDAC)
+program in specific targeted topic areas that relate to the BES and ASCR missions.
+
+All applications must address fundamental research in support of the BES and ASCR missions.
+Partnerships between domain scientists in the fields of materials science, condensed matter
+physics, chemical sciences, geosciences, energy-related biosciences, applied mathematics, and
+computer science will be critical to accelerate the scientific discovery process through
+revolutionary advances in models, mathematics, algorithms, data, and computing. The integrated
+teams will engage with the SciDAC Institutes and make full use of DOE’s classical high-
+performance computing capabilities. In addition, applications must focus on one of three topics:
+Complex dynamical systems for energy-relevant chemical and/or physical systems and materials;
+Reliable and explainable Artificial Intelligence for chemical and/or physical mechanism
+extraction from phenomena; and Foundation Models for chemical and materials sciences.
 
 &#10148; [**NSF 25-511: Experiential Learning for Emerging and Novel Technologies (ExLENT)**](https://new.nsf.gov/funding/opportunities/exlent-experiential-learning-emerging-novel-technologies/nsf25-511/solicitation?WT.mc_ev=click&WT.mc_id=&utm_medium=email&utm_source=govdelivery)
 
@@ -81,14 +125,6 @@ For more information on SC Office Hours, including registration and upcoming top
 **Summary**:
 
 Through this initiative, the Directorate for STEM Education (EDU) and the Directorate for Technology, Innovation and Partnerships (TIP), in partnership with Micron Technology, Inc. (Micron) through the Micron Foundation, seek to support experiential learning opportunities for individuals from all professional and educational backgrounds, resulting in increased access to, and interest in, career pathways in emerging technology fields (e.g., advanced manufacturing, advanced wireless, artificial intelligence, biotechnology, quantum information science, semiconductors, and microelectronics). Large-scale challenges like advances in microelectronics or artificial intelligence also require a STEM workforce that brings varied perspectives and expertise to further accelerate the translation of science and engineering discoveries into large-scale solutions. Moreover, as current and new emerging technologies continue to evolve, unforeseen issues around security, safety and privacy will impact the preparation of the workforce. Emerging technologies are also dynamic and rapidly changing, with career entry and advancement often requiring "learning-by-doing" experience, even for those with some STEM education. Therefore, NSF recognizes that a competitive emerging technology workforce must include individuals from traditional and nontraditional education pathways as well as those individuals who may have “stopped” out of traditional educational pathways.
-
-&#10148; [**NSF \- Safety, Security, and Privacy of Open-Source Ecosystems (Safe-OSE)**](https://new.nsf.gov/funding/opportunities/safe-ose-safety-security-privacy-open-source-ecosystems)
-
-**Funding Amount**: Up to $1.5M over 2 years  
-**Deadline**: January 14, 2025 (preliminary), April 22, 2025 (full)  
-**Summary**:
-
-Vulnerabilities in an open-source product and/or its continuous development, integration and deployment infrastructure can potentially be exploited to attack any user (human, organization, and/or another product/entity) of the product. To respond to the growing threats to the safety, security, and privacy of open-source ecosystems (OSEs), NSF is launching the Safety, Security, and Privacy for Open-Source Ecosystems (Safe-OSE) program. This program solicits proposals from OSEs, including those not originally funded by [NSF’s Pathways to Enable Open-Source Ecosystems (POSE)](https://new.nsf.gov/funding/opportunities/pathways-enable-open-source-ecosystems-pose) program, to address significant safety, security, and/or privacy vulnerabilities, both technical (e.g., vulnerabilities in code and side-channels) and socio-technical (e.g., supply chain, insider threats, and social engineering). 
 
 &#10148; [**NSF \- Pathways to Enable Open-Source Ecosystems (POSE)**](https://new.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems)
 
@@ -134,31 +170,20 @@ Proposers are invited to submit proposals in several project classes, which are 
 * Medium Projects \-- $600,001 to $1,200,000 total budget with durations up to four years: projects in this class may be submitted to CCF, CNS, and IIS only; and  
 * OAC Core Projects \-- up to $600,000 total budget with durations up to three years: projects in this class may be submitted to OAC only.
 
-
-&#10148; [**URSSI Early Career Fellowship**](https://urssi.us/blog/2024/11/22/call-for-proposals-for-the-urssi-early-career-fellowship-program/)
-
-**Funding Amount**: between $10,000 and $25,000  
-**Deadline**: January 15, 2025  
-**Summary**:
-
-The call for proposals for the [URSSI Early Career Fellowship](https://urssi.us/blog/2024/11/22/call-for-proposals-for-the-urssi-early-career-fellowship-program/) is available for early career researchers to do research in one of these areas: AI/ML Integration in Scientific Software Development, Scientific Software Sustainability, or Software Education Research.
-
-The fellowship is open to PhD students, postdoctoral researchers, research software engineers, and research scientists who are less than three years removed from their final degree.
-
 ---
 
 ### 4. Regular CORSA-led working groups
 
 &#10148; [**Foundations Working Group (Foundations Forum)**](https://corsa.center/meetings/foundations-wg.html)
 
-* **Next meeting: Jan 29, 2025 at 12:00 to 13:00, CDT**  
-* In this meeting, we will have formal talks (which we will record) from two software foundations, [HPSF](https://hpsf.io/), represented by Todd Gamblin, and [NumFOCUS](https://numfocus.org/), represented by Leah Silen, followed by Q\&A with Todd and Leah.  
+* **Next meeting: Feb 26, 2025 at 12:00 to 13:00, CDT**  
+* An open forum for projects to meet and share experiences with joining or membership in an open-source software foundation.  
 * See announcement via the [CORSA email list](https://groups.io/g/corsa/join) and the CASS \#general and \#wg-foundations slack channels for zoom details.
 
 
 &#10148; [**Metrics Working Group**](https://corsa.center/meetings/metrics-wg.html)
 
-* **Next Meeting: Jan 22, 2025 at 1pm PT, 3pm CT, 4pm ET**  
+* **Next Meeting: Feb 19, 2025 at 1pm PT, 3pm CT, 4pm ET**  
 * Aims to facilitate a coordinated effort to curate and develop metrics for measuring software sustainability from the perspective of scientific and research software.  
 * The meetings are held bi-weekly and are open to anyone to attend.  
 * Time: Every 2 weeks on Wednesday at 1pm PT, 3pm CT, 4pm ET  
@@ -183,13 +208,7 @@ For more tips and resources, check out:
 
 ### 6. Additional Resources & Events
 
-&#10148; [**FOSDEM 2025**](https://fosdem.org/2025/) **(Feb 1-2) & [CHAOSScon-2025-EU](https://chaoss.community/chaosscon-2025-eu/) (Jan 30), Brussels**
-
-* FOSDEM is a free event for software developers to meet, share ideas and collaborate. Every year, thousands of developers of free and open source software from all over the world gather at the event in Brussels. You don't need to register. Just turn up and join in\!  
-* CHAOSScon-2025-EU: Learn about open source project health metrics and tools used by open source projects, communities, and engineering teams to track and analyze their community work. This conference will provide a venue for discussing open source project health, CHAOSS updates, use cases, and hands-on workshops for developers, community managers, project managers, and anyone interested in measuring open source project health. We will also share insights from the CHAOSS context working groups including OSPOs, University Open Source, and Open Source in Science and Research
-
-
-&#10148; [**deRSE25**](https://events.hifis.net/event/1741/) **\- 5th conference for Research Software Engineering in Germany \- Feb 25-27, Karlsruhe Institute of Technology, Karlsruhe, Germany**
+&#10148; [**deRSE25**](https://events.hifis.net/event/1741/) **\- 5th conference for Research Software Engineering in Germany \- Feb 25-27, 2025, Karlsruhe Institute of Technology, Karlsruhe, Germany**
 
 * As a venue for the diverse community of people concerned with research software, deRSE25 values contributions from all levels of experience and across scientific disciplines, geographic locations, genders, and ethnicities.
 
@@ -199,21 +218,21 @@ For more tips and resources, check out:
 * Abstracts for talks, as well as tutorial and panel sessions are due by Friday, January 24, 2025\.  
 * You may submit an abstract [here](https://sea.ucar.edu/iss/2025/#submitting-an-abstract) and visit our [conference website](https://sea.ucar.edu/iss/2025) for more information.
 
-
-&#10148; [**Sustainable Scientific Software Conference (S3C)**](https://s3c.sandia.gov) **\- May 5-8, Denver, CO**
+&#10148; [**Sustainable Scientific Software Conference (S3C)**](https://s3c.sandia.gov) **\- May 5-8, 2025, Denver, CO**
 
 * The Sustainable Scientific Software Conference (S3C) will help connect individuals and teams from the High Performance Computing (HPC) community that are working to deliver scientific software solutions in a sustainable manner. Sustainable software delivery spans the spectrum of software engineering, from design and development to DevOps, and software deployment platforms, from laptops to HPC systems.  
 * [Submit](https://www.fbcinc.com/e/nlit/submissions.aspx) your abstract by January 24, 2025
 
-&#10148; [**IEEE eScience 2025 Conference**](https://www.escience-conference.org/2025/) **\- Sept 15-18, Chicago, IL**
+&#10148; [**IEEE eScience 2025 Conference**](https://www.escience-conference.org/2025/) **\- Sept 15-18, 2025, Chicago, IL**
 
 * eScience 2025 interprets eScience in its broadest meaning that enables and improves innovation in data- and compute-intensive research across all domain sciences ranging from traditional areas in physics and earth sciences to more recent fields such as social sciences, arts and humanities, and artificial intelligence for a wide variety of target architectures including HPC, cloud and IoT infrastructures.  
 * Workshop submission: March 10, 2025  
 * Tutorials & Paper submission: May 5, 2025  
 * Poster Submissions: July 28, 2025
 
-&#10148; [**US-RSE'25**](https://us-rse.org/usrse25/) **\- October, Philadelphia, PA**
+&#10148; [**US-RSE'25**](https://us-rse.org/usrse25/) **\- October 6-8 2025, Philadelphia, PA**
 
+* "Code, Practices, and People"
 * Save the date for US-RSE's third annual conference
 
 ---
