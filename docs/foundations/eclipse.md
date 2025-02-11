@@ -11,14 +11,14 @@ Greg Watson
 
 This document, written as part of the work of the [Center for Open-Source Research Software Stewardship and Advancement (CORSA)](https://corsa.center), describes the information that a particular software project needs to collect/have in order to apply to and then join [Eclipse Foundation](https://eclipse.org/). Much of the content in this document comes from Eclipse Foundation documents.
 
-The Eclipse Foundation provides a global community of individuals and organizations with a mature, scalable, and vendor-neutral environment for open source software collaboration and innovation. Its focus is to create an environment for successful open source projects and to promote the adoption of Eclipse technology in commercial and open source solutions. Through these services, the Eclipse Foundation provides communities with a proven model for open source development:
+The Eclipse Foundation provides a global community of individuals and organizations, both commercial and not-for-profit, with a mature, scalable, and vendor-neutral environment for open source software and open standards collaboration and innovation. Its focus is to create an environment for successful open source projects and to promote the adoption of Eclipse technology in commercial and open source solutions. Through these services, the Eclipse Foundation provides communities with a proven model for open source development and collaboration.
 
 Some additional benefits from joining a foundation are discussed in Section 5 of [Watson, et al., 2023](https://doi.org/10.48550/arXiv.2308.14953).
 
 
 # 2. Relationships with Eclipse Foundation and basic requirements
 
-The [Eclipse Foundation Development Process (EDP)](https://www.eclipse.org/projects/handbook/#edp) is the foundational document for Eclipse projects and committers. It describes the manner in which they do open source software. The EDP does not prescribe any particular development methodology; it is more concerned with the larger-scale aspects of open source project life cycle, including such things as reviews, processes for running votes and elections, bringing new committers onto a project, etc. This document elaborates on some key points of the EDP.
+The [Eclipse Foundation Development Process (EDP)](https://www.eclipse.org/projects/handbook/#edp) is the foundational document for Eclipse projects and committers. It describes the manner in which they do open source software development. The EDP does not prescribe any particular development methodology; it is more concerned with the larger-scale aspects of open source project life cycle, including such things as reviews, processes for running votes and elections, bringing new committers onto a project, etc. This document elaborates on some key points of the EDP.
 
 The EDP follows the Open Source Rules of Engagement:
 
@@ -32,17 +32,19 @@ The Open Source Rules of Engagement define a foundation for vendor neutral open 
 
 # 3. Application requirements
 
+In order to move your project to the Eclipse Foundation, you must first become a [member](https://www.eclipse.org/membership/) of the Eclipse Foundation. Other organizations participating in your open source project do not need to become members.  Eclipse provides a membership level, Associate, for academic and research institutions that does not require an annual membership fee. 
+
 When you move your project to the Eclipse Foundation, it becomes an Eclipse project. Specifically, it ceases to be your project and becomes a vendor-neutral community project that operates under the governance of the Eclipse Foundation.
 
 This means, for example, that the open source project name and the names of any products produced by the project will be trademarks (either registered or common-law) of the Eclipse Foundation and you are required to follow the same trademark guidelines as everybody else when you refer to the project. If you were to, for example, contribute the "Woolsey" product to the Eclipse Foundation, you would be required to transfer all rights that you have to the name "Woolsey" to the Eclipse Foundation, and the use of the "Woolsey" name in your products, website, marketing materials, etc. would be then be subject to the trademark guidelines (you would be required to rename your products from "Woolsey" to "[Product Name] for Eclipse Woolsey" or similar).
 
-If the name important to your organisation, consider choosing a different name for the Eclipse open source project.
+If the name is important to your organisation, consider choosing a different name for the Eclipse open source project.
 
 It’s also important to know what new projects don’t give up. The project team retains control of the project’s direction by virtue of regular contribution to the project. The contributors to the project retain ownership of their contributions (those contributions are used under license by the project). Project leads are required to ensure that other individuals who present themselves to the project are given uniform opportunity to participate, but the project team gets to establish the rules for participation (within certain parameters). The project team is responsible for determining development methodology, establishing plans, etc. Existing owners of the project code retain their ownership
 
 # 4. Joining requirements
 
-Eclipse open source projects start with a proposal that must minimally include a description of the project, a declaration of scope, and a list of initial members (project leads and committers). The Eclipse Management Organization (EMO) will review the proposal and may provide feedback before initiating a community review period for a minimum of two weeks. At the beginning of the community review period, the EMO will announce the proposal on several channels (the Project Activity News page, Twitter, blog post, and an email note to the Eclipse Foundation members and committers). The EMO will also open a record in the Eclipse Foundation’s issue tracker — an instance of GitLab — to track the progress of the proposal; the proposal’s author, and project leads will be copied on that record. At the end of the community review period, Eclipse will undertake a *creation review*, and then provision the project resources.
+Eclipse open source projects start with a proposal that must minimally include a description of the project, a declaration of scope, and a list of initial members (project leads and committers). The Eclipse Management Organization (EMO) will review the proposal and may provide feedback before initiating a community review period for a minimum of two weeks. At the beginning of the community review period, the EMO will announce the proposal on several channels (the Project Activity News page, X, blog post, and an email note to the Eclipse Foundation members and committers). The EMO will also open a record in the Eclipse Foundation’s issue tracker — an instance of GitLab — to track the progress of the proposal; the proposal’s author, and project leads will be copied on that record. At the end of the community review period, Eclipse will undertake a *creation review*, and then provision the project resources.
 
 A new project proposal can be created using a [web form](https://projects.eclipse.org/create/project-proposal). Instructions are provided on the form. All new proposals are created in draft mode, and are accessible only by the original author and anybody designated as a project lead or committer in the proposal. Only those individuals designated as a project lead may edit the proposal.
 
@@ -52,7 +54,7 @@ When making the decision to initiate the creation review that will turn the proj
 
 **Clear and Concise Description**: If the community found any aspects of the proposal confusing, unclear, or using unfamiliar jargon, those areas must be clarified. This is a hard and fast requirement: because the Eclipse community must be able to evaluate the proposal. To do that, they must be able to understand the proposal and thus it must be clear and straightforward and free of marketing-speak.
 
-**Committers** : The creation review serves as the new committer election for the initial Committers and thus the proposal must contain the same level of nomination justification and background as an election would. The committer biographies don’t have to be long or involved, but they should describe each committer’s relationship to and history with the incoming code, and/or involvement with the area or technologies covered by the proposal.
+**Committers** : The creation review serves as the new committer election for the initial Committers and thus the proposal must contain the same level of nomination justification and background as an election would. The committer biographies don’t have to be long or involved, but they should describe each committer’s relationship to and history with the incoming code, and/or involvement with the area or technologies covered by the proposal. In order to be a committer on an Eclipse open source project, an individual must sign the [Eclipse Committer Agreement](https://www.eclipse.org/legal/#CommitterAgreements).
 
 The project must have sufficient committed developers to achieve its goals. The Eclipse Foundation is not a place to "abandon in public" code; rather, the Eclipse Foundation strives to have active projects with active communities and thus enough developers to move the project along.
 
