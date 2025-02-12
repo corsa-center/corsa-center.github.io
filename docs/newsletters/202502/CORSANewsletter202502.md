@@ -16,7 +16,7 @@ Welcome to the CORSA newsletter! Each month, we'll provide information about wha
 * [**Upcoming: Connect with the Office of Science**](#2-upcoming-connect-with-the-office-of-science)  
 * [**New Funding Opportunities**](#3-funding-opportunities)  
 * [**Get Involved: Working Groups**](#4-get-involved-working-groups)  
-* [**Funding Tips & Resources**](#5-funding-tips--resources)  
+* [**Tips & Resources**](#5-tips--resources)  
 * [**Additional Resources & Events**](#6-additional-resources--events)
 
 ---
@@ -201,18 +201,18 @@ Proposers are invited to submit proposals in several project classes, which are 
 
 ---
 
-### 5. Funding Tips & Resources
+### 5. Tips & Resources
 
-#### Top Tips for Winning Research Grants
+#### Free Communications Training
 
-* **Tailor Your Proposal:** Ensure your application aligns with the grant’s goals and priorities.  
-* **Collaborate**: Partnerships with other researchers or institutions can strengthen your proposal.  
-* **Budget Carefully**: Provide a clear and realistic budget with a justification for each expense.
+Communication is essential for building and maintining a strong community for open source software projects. The Chan Zuckerberg Initiative (CZI) provides a range of free training courses to help improve communciation skills. A selection of these are listed below. 
 
-For more tips and resources, check out:
+* **Design for Digital Communications:** Thursday, March 6 @ 9:30-11am PT / 12:30-2pm ET, [Registration link](https://czi.zoom.us/meeting/register/rnbrK9lgR4-FE_aYT7Hv1A)
+* **Website Design and Strategy 101**: Thursday, March 13 @ 9:30-11am PT / 12:30-2pm ET, [Registration link](https://czi.zoom.us/meeting/register/zmAAdrGKSviZhsdz6_MBGg)  
+* **Introduction to Social Media Strategy and Engagement**: Thursday, March 20 @ 9:30-11am PT / 12:30-2pm ET, [Registration link](https://czi.zoom.us/meeting/register/Gp3VZKEcQh-o1EGogOdDuQ)   
+* **Digital Rapid Response Tactics and Techniques**: Thursday, March 27 @ 9:30-11am PT / 12:30-2pm ET, [Registration link](https://czi.zoom.us/meeting/register/xH7VRC2cSwOG5IQSiFHh6g)  
 
-* [**Grant Writing Basics (grants.gov)**](https://grantsgovprod.wordpress.com/category/learngrants/grant-writing-basics/)  
-* [**Grant Writing Webinar Series (fundingforgood.org)**](https://fundingforgood.org/grant-writing-webinar-series-2025/)
+For the full list of courses offered by CZI, as will as recordings of past courses, please visit their [Capacity Building Opportunities](https://chanzuckerberg.com/capacity-building/training-sessions/) page.
 
 ---
 
