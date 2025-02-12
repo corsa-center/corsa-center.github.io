@@ -31,6 +31,19 @@ Submit your proposal by February 23, 2025 to speak at the High Performance Softw
 
 The Research Software Engineering Association (US-RSE) February Community Call features presentations from two Open Source Software Foundations on Friday, February 14, at 2pm ET/1pm CT/12pm MT/11am PT. Leah Silen for NumFOCUS and Christian Trott for HPSF will discuss how these foundations offer a neutral home for software projects. Project members part of such foundations (including Matt Thompson from Open Force Field and Andrew Fullard from TARDIS) will share thier experiences, followed by an open Q&A about foundations with attendees. US-RSE (free) membership required.
 
+&#10148; [**Insights and Impact From Five Cycles of Essential Open Source Software for Science**](https://zenodo.org/records/11201216)
+
+For the past five years, the Chan Zuckerberg Initiative has supported the maintenance, growth,
+development, and community engagement for critical open source tools that are used globally in
+the life sciences through its Essential Open Source Software for Science (EOSS) program. To our
+knowledge at the time of writing, this program (193 grants with $51.8 million in funding)
+represents the largest initiative to meet these needs. Stories and data from this unique grantee
+community represent one of the best available accounts on the impact of the open source
+foundations of science, and the urgent need to continue and expand support for them. In this
+report, we set out to review the impact of the first five cycles of the EOSS program to date from
+multiple perspectives and a variety of data sources, highlighting the support required to sustain
+OSS as well as the successes of our community. 
+
 &#10148; **FAIR for Research Software (FAIR4RS) Principles 2-year review**
 
 Do you think the FAIR principles for Research Software ([https://doi.org/10.15497/RDA00068](https://doi.org/10.15497/RDA00068)) are working?
@@ -125,14 +138,6 @@ extraction from phenomena; and Foundation Models for chemical and materials scie
 **Summary**:
 
 Through this initiative, the Directorate for STEM Education (EDU) and the Directorate for Technology, Innovation and Partnerships (TIP), in partnership with Micron Technology, Inc. (Micron) through the Micron Foundation, seek to support experiential learning opportunities for individuals from all professional and educational backgrounds, resulting in increased access to, and interest in, career pathways in emerging technology fields (e.g., advanced manufacturing, advanced wireless, artificial intelligence, biotechnology, quantum information science, semiconductors, and microelectronics). Large-scale challenges like advances in microelectronics or artificial intelligence also require a STEM workforce that brings varied perspectives and expertise to further accelerate the translation of science and engineering discoveries into large-scale solutions. Moreover, as current and new emerging technologies continue to evolve, unforeseen issues around security, safety and privacy will impact the preparation of the workforce. Emerging technologies are also dynamic and rapidly changing, with career entry and advancement often requiring "learning-by-doing" experience, even for those with some STEM education. Therefore, NSF recognizes that a competitive emerging technology workforce must include individuals from traditional and nontraditional education pathways as well as those individuals who may have “stopped” out of traditional educational pathways.
-
-&#10148; [**NSF \- Pathways to Enable Open-Source Ecosystems (POSE)**](https://new.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems)
-
-**Funding Amount**: 30-50 awards from a pool of $28M  
-**Deadline**: January 14, 2025 (Phase I) and September 2, 2025 (Phase I and II)  
-**Summary**:
-
-The Pathways to Enable Open-Source Ecosystems (POSE) program aims to harness the power of open-source development for the creation of new technology solutions to problems of national and societal importance. Many NSF-funded projects result in publicly accessible, modifiable, and distributable open-source products, including software, hardware, models, specifications, programming languages, or data platforms that catalyze further innovation. In some cases, an open-source product that shows potential for wide adoption forms the basis for a self-sustaining open-source ecosystem (OSE) that comprises a leadership team; a managing organization with a well-defined governance structure and distributed development model; a cohesive community of external intellectual content developers; and a broad base of users across academia, industry, and/or government. The overarching vision of POSE is that proactive and intentional formation of managing organizations will ensure broader and more diverse adoption of open-source products; increased coordination of external intellectual content developer contributions; and a more focused route to technologies with broad societal impact. Toward this end, the POSE program supports the formation of new OSE managing organizations based on an existing open-source product or class of products, whereby each organization is responsible for the creation and management of processes and infrastructure needed for the efficient and secure development and maintenance of an OSE.
 
 &#10148; [**NSF \- Computer and Information Science and Engineering (CISE): Core Programs**](https://new.nsf.gov/funding/opportunities/computer-information-science-engineering-core-programs)
 
