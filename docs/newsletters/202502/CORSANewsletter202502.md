@@ -12,16 +12,27 @@ Welcome to the CORSA newsletter! Each month, we'll provide information about wha
 
 **In This Issue:**
 
-* [**Recent News**](#1-recent-news)  
-* [**Upcoming Events**](#2-upcoming-events)  
-* [**New Funding Opportunities**](#3-new-funding-opportunities)  
-* [**Get Involved: Working Groups**](#4-get-involved-working-groups)  
-* [**Tips & Tricks**](#5-tips--tricks)  
-* [**Additional Resources**](#6-additional-resources)
+* [**CORSA Updates**](#1-corsa-updates)
+* [**Recent News**](#2-recent-news)  
+* [**Upcoming Events**](#3-upcoming-events)  
+* [**New Funding Opportunities**](#4-new-funding-opportunities)  
+* [**Get Involved: Working Groups**](#5-get-involved-working-groups)  
+* [**Tips & Tricks**](#6-tips--tricks)  
+* [**Additional Resources**](#7-additional-resources)
 
 ---
 
-### 1. Recent News
+### 1. CORSA Updates
+
+Recent activities being undertaken by CORSA, include:
+
+* Participating in CASS working groups tasked with identifying metrics that can be used to inform projects on their sustainability practices. In particular, CASS has identified the areas of impact, quality, and sustainability as key to this understanding.
+* Meeting with projects to discuss opportunities to leverage the resources of open source software foundations.
+* Organizing events, such as the CORSA Birds-of-a-feather at SC'24 and the Sustainable Project Pathways for HPC Software workshop at the IEEE eScience 2024 conference.
+* Engaging with other funding organizations to explore pathways for the funding of open source scientific software.
+* Facilitiating engagement with open source software foundations, including helping facilitate Tokyo University joining the High Performance Software Foundation
+
+### 2. Recent News
 
 &#10148; [**Open Source Software Foundations HPSF and NumFOCUS Featured In US-RSE Association February Community Call**](https://us-rse.org/events/repeated/community-call-fridays/)
 
@@ -65,7 +76,7 @@ In addition to the release of the 2024 Public Access Policy, NIH is also releasi
 
 ---
 
-### 2. Upcoming Events
+### 3. Upcoming Events
 
 &#10148; [**deRSE25**](https://events.hifis.net/event/1741/) **\- 5th conference for Research Software Engineering in Germany \- Feb 25-27, 2025, Karlsruhe Institute of Technology, Karlsruhe, Germany**
 
@@ -105,7 +116,7 @@ In addition to the release of the 2024 Public Access Policy, NIH is also releasi
 
 ---
 
-### 3. New Funding Opportunities
+### 4. New Funding Opportunities
 
 &#10148; [**EXPRESS:2025 Exploratory Research for Extreme-Scale Science**](https://science.osti.gov/-/media/grants/pdf/foas/2025/DE-FOA-0003545-000001.pdf)
 
@@ -211,7 +222,7 @@ Proposers are invited to submit proposals in several project classes, which are 
 
 ---
 
-### 4. Get Involved: Working Groups
+### 5. Get Involved: Working Groups
 
 &#10148; [**Foundations Working Group (Foundations Forum)**](https://cass.community/working-groups/foundations.html)
 
@@ -235,7 +246,7 @@ Proposers are invited to submit proposals in several project classes, which are 
 
 ---
 
-### 5. Tips & Tricks
+### 6. Tips & Tricks
 
 #### Free Communications Training
 
@@ -259,8 +270,8 @@ The LF AI & Data Foundation is offering a series of free training courses for de
 
 ---
 
-### 6. Additional Resources
+### 7. Additional Resources
 
-If you have any questions or need assistance with grant applications, joining an open source software foundation, or any other questions about sustaining your project, feel free to reach out to: :email: [info@corsa.center](mailto:info@corsa.center)
+If you have any questions or need assistance with grant applications, joining an open source software foundation, any other questions about sustaining your project, or are interested in contributing to CORSA, feel free to reach out to: :email: [info@corsa.center](mailto:info@corsa.center)
 
 Stay updated with the latest funding opportunities and receive future newsletters by subscribing to our mailing list [here](https://corsa.center).
