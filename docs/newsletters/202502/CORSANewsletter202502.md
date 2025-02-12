@@ -29,7 +29,8 @@ Recent activities being undertaken by CORSA, include:
 * Participating in CASS working groups tasked with identifying metrics that can be used to inform projects on their sustainability practices. In particular, CASS has identified the areas of impact, quality, and sustainability as key to this understanding.
 * Meeting with projects to discuss opportunities to leverage the resources of open source software foundations.
 * Organizing events, such as the CORSA Birds-of-a-feather at SC'24 and the Sustainable Project Pathways for HPC Software workshop at the IEEE eScience 2024 conference.
-* Engaging with other funding organizations to explore pathways for the funding of open source scientific software.
+* Engaging with other funding and community organizations to explore pathways for the funding of open source scientific software, such as in the CZI Strategic Planning Workshop for Sustaining Scientific Open Source Software.
+* Talked about CORSA at [CHAOSSCon-EU-25](https://chaoss.community/chaosscon-2025-eu/)
 * Facilitiating engagement with open source software foundations, including helping facilitate Tokyo University joining the High Performance Software Foundation
 
 ### 2. Recent News
