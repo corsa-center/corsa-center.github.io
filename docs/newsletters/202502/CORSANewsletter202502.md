@@ -73,7 +73,7 @@ For more information on SC Office Hours, including registration and upcoming top
 
 ### 3. Funding Opportunities
 
-&#10148; [EXPRESS:2025 Exploratory Research for Extreme-Scale Science](https://science.osti.gov/-/media/grants/pdf/foas/2025/DE-FOA-0003545-000001.pdf)
+&#10148; [**EXPRESS:2025 Exploratory Research for Extreme-Scale Science**](https://science.osti.gov/-/media/grants/pdf/foas/2025/DE-FOA-0003545-000001.pdf)
 
 **Funding Amount**: $136M over 5 years  
 **Deadline**: February 25, 2025 (pre-proposal),May 6, 2025 (full)  
@@ -95,7 +95,7 @@ Computing
 * Computational Physical Systems
 * Deep Understanding of AI Models
 
-&#10148; [Early Career Research Program](https://science.osti.gov/grants/FOAs/-/media/grants/pdf/foas/2025/DE-FOA-0003450-000002-2.pdf)
+&#10148; [**Early Career Research Program**](https://science.osti.gov/grants/FOAs/-/media/grants/pdf/foas/2025/DE-FOA-0003450-000002-2.pdf)
 
 **Funding Amount**: up to $16M over 2 years  
 **Deadline**: February 18, 2025 (pre-applications), April 22, 2025 (close date)  
@@ -109,7 +109,7 @@ Production (DOE IP); and Accelerator R&D and Production (ARDAP). The purpose of 
 program is to support the development of individual research programs of outstanding scientists
 early in their careers and to stimulate research careers in the areas supported by SC
 
-&#10148; [Scientific Discovery through Advanced Computing (SciDAC): Partnerships in Basic Energy Sciences](https://science.osti.gov/grants/FOAs/-/media/grants/pdf/foas/2025/DE-FOA-0003515-000002.pdf)
+&#10148; [**Scientific Discovery through Advanced Computing (SciDAC): Partnerships in Basic Energy Sciences**](https://science.osti.gov/grants/FOAs/-/media/grants/pdf/foas/2025/DE-FOA-0003515-000002.pdf)
 
 **Funding Amount**: $40M over 4 years  
 **Deadline**: February 21, 2025 (pre-applications), April 25, 2025 (full)  
