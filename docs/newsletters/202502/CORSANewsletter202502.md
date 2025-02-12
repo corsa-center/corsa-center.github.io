@@ -12,12 +12,12 @@ Welcome to the CORSA newsletter! Each month, we'll provide information about wha
 
 **In This Issue:**
 
-* **Recent News**  
-* **Upcoming: Connect with the Office of Science**  
-* **New Funding Opportunities**  
-* **Regular CORSA-led working groups**  
-* **Funding Tips & Resources**  
-* **Additional Resources & Events**
+* [**Recent News**](#1-recent-news)  
+* [**Upcoming: Connect with the Office of Science**](#2-upcoming-connect-with-the-office-of-science)  
+* [**New Funding Opportunities**](#3-funding-opportunities)  
+* [**Get Involved: Working Groups**](#4-get-involved-working-groups)  
+* [**Funding Tips & Resources**](#5-funding-tips--resources)  
+* [**Additional Resources & Events**](#6-additional-resources--events)
 
 ---
 
@@ -71,7 +71,7 @@ For more information on SC Office Hours, including registration and upcoming top
 
 ---
 
-### 3. Funding Opportunities
+### 3. New Funding Opportunities
 
 &#10148; [**EXPRESS:2025 Exploratory Research for Extreme-Scale Science**](https://science.osti.gov/-/media/grants/pdf/foas/2025/DE-FOA-0003545-000001.pdf)
 
@@ -177,22 +177,27 @@ Proposers are invited to submit proposals in several project classes, which are 
 
 ---
 
-### 4. Regular CORSA-led working groups
+### 4. Get Involved: Working Groups
 
-&#10148; [**Foundations Working Group (Foundations Forum)**](https://corsa.center/meetings/foundations-wg.html)
+&#10148; [**Foundations Working Group (Foundations Forum)**](https://cass.community/working-groups/foundations.html)
 
 * **Next meeting: Feb 26, 2025 at 12:00 to 13:00, CDT**  
 * An open forum for projects to meet and share experiences with joining or membership in an open-source software foundation.  
 * See announcement via the [CORSA email list](https://groups.io/g/corsa/join) and the CASS \#general and \#wg-foundations slack channels for zoom details.
 
 
-&#10148; [**Metrics Working Group**](https://corsa.center/meetings/metrics-wg.html)
+&#10148; [**Metrics Working Group**](https://cass.community/working-groups/metrics.html)
 
 * **Next Meeting: Feb 19, 2025 at 1pm PT, 3pm CT, 4pm ET**  
 * Aims to facilitate a coordinated effort to curate and develop metrics for measuring software sustainability from the perspective of scientific and research software.  
 * The meetings are held bi-weekly and are open to anyone to attend.  
 * Time: Every 2 weeks on Wednesday at 1pm PT, 3pm CT, 4pm ET  
 * See announcement via the [CORSA email list](https://groups.io/g/corsa/join) and the CASS \#general and \#wg-metrics slack channels for zoom details.
+
+&#10148; [**Other CASS Working Groups**](https://cass.community/working-groups/)
+
+* There are a number of other CASS working groups that are open to participation from the community.
+* See the individual [working group pages](https://cass.community/working-groups/) on the CASS website for information on joining
 
 ---
 
