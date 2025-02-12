@@ -13,23 +13,23 @@ Welcome to the CORSA newsletter! Each month, we'll provide information about wha
 **In This Issue:**
 
 * [**Recent News**](#1-recent-news)  
-* [**Upcoming: Connect with the Office of Science**](#2-upcoming-connect-with-the-office-of-science)  
-* [**New Funding Opportunities**](#3-funding-opportunities)  
+* [**Upcoming Events**](#2-upcoming-events)  
+* [**New Funding Opportunities**](#3-new-funding-opportunities)  
 * [**Get Involved: Working Groups**](#4-get-involved-working-groups)  
-* [**Tips & Resources**](#5-tips--resources)  
-* [**Additional Resources & Events**](#6-additional-resources--events)
+* [**Tips & Tricks**](#5-tips--tricks)  
+* [**Additional Resources**](#6-additional-resources)
 
 ---
 
 ### 1. Recent News
 
-&#10148; [**HPSF Conference Call For Proposals**](https://events.linuxfoundation.org/hpsf-conference/program/cfp/) 
-
-Submit your proposal by February 23, 2025 to speak at the High Performance Software Foundation (HPSF) inaugural conference slated for May 3-5, 2025 in Chicago, IL. Conference sessions will provide an update on HPSF activities, introduce new members and projects, foster collaboration in the working groups, and hear from members about their goals for the future of the foundation.
-
 &#10148; [**Open Source Software Foundations HPSF and NumFOCUS Featured In US-RSE Association February Community Call**](https://us-rse.org/events/repeated/community-call-fridays/)
 
 The Research Software Engineering Association (US-RSE) February Community Call features presentations from two Open Source Software Foundations on Friday, February 14, at 2pm ET/1pm CT/12pm MT/11am PT. Leah Silen for NumFOCUS and Christian Trott for HPSF will discuss how these foundations offer a neutral home for software projects. Project members part of such foundations (including Matt Thompson from Open Force Field and Andrew Fullard from TARDIS) will share thier experiences, followed by an open Q&A about foundations with attendees. US-RSE (free) membership required.
+
+&#10148; [**HPSF Conference Call For Proposals**](https://events.linuxfoundation.org/hpsf-conference/program/cfp/) 
+
+Submit your proposal by February 23, 2025 to speak at the High Performance Software Foundation (HPSF) inaugural conference slated for May 5-8, 2025 in Chicago, IL. Conference sessions will provide an update on HPSF activities, introduce new members and projects, foster collaboration in the working groups, and hear from members about their goals for the future of the foundation.
 
 &#10148; [**Insights and Impact From Five Cycles of Essential Open Source Software for Science**](https://zenodo.org/records/11201216)
 
@@ -43,6 +43,10 @@ foundations of science, and the urgent need to continue and expand support for t
 report, we set out to review the impact of the first five cycles of the EOSS program to date from
 multiple perspectives and a variety of data sources, highlighting the support required to sustain
 OSS as well as the successes of our community. 
+
+&#10148; [**NumFOCUS January 2025 Project Updates**](https://numfocus.medium.com/january-2025-project-updates-b5636a3d6645)
+
+See the latest updates from NumFOCUS fiscally sponsored projects, such as mlpack, scikit-learn, Julia and others!
 
 &#10148; **FAIR for Research Software (FAIR4RS) Principles 2-year review**
 
@@ -61,13 +65,43 @@ In addition to the release of the 2024 Public Access Policy, NIH is also releasi
 
 ---
 
-### 2. Upcoming: [Connect with the Office of Science\!](https://science.osti.gov/officehours)
+### 2. Upcoming Events
 
-The Office of Science (SC) is hosting monthly virtual Office Hours to share information about our programs and provide opportunities to ask questions. Researchers at all institutions are welcome to attend and learn more about our programs; no existing relationship with DOE or the DOE national laboratories is required to attend. Research administrators are also encouraged to join.
+&#10148; [**deRSE25**](https://events.hifis.net/event/1741/) **\- 5th conference for Research Software Engineering in Germany \- Feb 25-27, 2025, Karlsruhe Institute of Technology, Karlsruhe, Germany**
 
-Office Hours will take place on the first Tuesday of each month, 2:00-3:00 pm Eastern Time (ET), each office hour will begin with a brief presentation followed by questions and answers on a monthly topic. We will then move to breakout rooms by program office for general questions from the community. Click on the topic below to register for an upcoming Office Hour.
+* As a venue for the diverse community of people concerned with research software, deRSE25 values contributions from all levels of experience and across scientific disciplines, geographic locations, genders, and ethnicities.
 
-For more information on SC Office Hours, including registration and upcoming topics, and to view slides and recordings of past Office Hours, please visit [https://science.osti.gov/officehours](https://science.osti.gov/officehours).
+&#10148; [**OpenSSF Policy Summit DC**](https://events.linuxfoundation.org/openssf-policy-summit-dc/) **\- March 4, 2025, Washington DC**
+
+* The Open Source Security Foundation (OpenSSF) Policy Summit DC addresses the security challenges for the consumption of Open Source Software (OSS) in critical infrastructure sectors and beyond.
+
+&#10148; [**2025 Improving Scientific Software Conference**](https://sea.ucar.edu/iss/2025) **\- April 7-10, 2025 at NSF NCAR's Center Green Campus, Boulder, CO, and virtually**
+
+* The UCAR Software Engineering Assembly's Improving Scientific Software Conference is now accepting abstracts for the 2025 event which will take place April 7-10, 2025 at NSF NCAR's Center Green Campus and virtually. The theme of ISS 2025 is From Legacy to Leading-Edge: Transforming Software Design in Science to Meet Tomorrow’s Challenges. As always, it welcomes anyone with an interest in improving scientific software quality, development, and design.  
+  
+&#10148; [**HPSF Conference**](https://hpsf.io/event/hpsf-conference/) **\- May 5-8, 2025, Chicago, IL**
+
+* Join us for the inaugural HPSF Conference, where the brightest minds in high performance software come together. Hosted by the High Performance Software Foundation (HPSF), this event is dedicated to advancing community-driven solutions for performance, portability, and productivity in a rapidly evolving High Performance Computing (HPC) landscape. Conference sessions will provide an update on HPSF activities, introduce new members and projects, foster collaboration in the working groups, and hear from members about their goals for the future of the foundation.
+
+&#10148; [**Sustainable Scientific Software Conference (S3C)**](https://s3c.sandia.gov) **\- May 5-8, 2025, Denver, CO**
+
+* The Sustainable Scientific Software Conference (S3C) will help connect individuals and teams from the High Performance Computing (HPC) community that are working to deliver scientific software solutions in a sustainable manner. Sustainable software delivery spans the spectrum of software engineering, from design and development to DevOps, and software deployment platforms, from laptops to HPC systems.  
+
+&#10148; [**Open Source Summit North America**](https://events.linuxfoundation.org/open-source-summit-north-america/) **\- June 23-25, 2025, Denver, Colorado**
+
+* The premier conference for open source developers, technologists and community leaders to collaborate, share information and learn, furthering open source innovation and ensuring a sustainable open source ecosystem. 
+
+&#10148; [**IEEE eScience 2025 Conference**](https://www.escience-conference.org/2025/) **\- Sept 15-18, 2025, Chicago, IL**
+
+* eScience 2025 interprets eScience in its broadest meaning that enables and improves innovation in data- and compute-intensive research across all domain sciences ranging from traditional areas in physics and earth sciences to more recent fields such as social sciences, arts and humanities, and artificial intelligence for a wide variety of target architectures including HPC, cloud and IoT infrastructures.  
+* Workshop submission: March 10, 2025  
+* Tutorials & Paper submission: May 5, 2025  
+* Poster Submissions: July 28, 2025
+
+&#10148; [**US-RSE'25**](https://us-rse.org/usrse25/) **\- October 6-8 2025, Philadelphia, PA**
+
+* "Code, Practices, and People"
+* Save the date for US-RSE's third annual conference
 
 ---
 
@@ -201,54 +235,32 @@ Proposers are invited to submit proposals in several project classes, which are 
 
 ---
 
-### 5. Tips & Resources
+### 5. Tips & Tricks
 
 #### Free Communications Training
 
 Communication is essential for building and maintining a strong community for open source software projects. The Chan Zuckerberg Initiative (CZI) provides a range of free training courses to help improve communciation skills. A selection of these are listed below. 
 
-* **Design for Digital Communications:** Thursday, March 6 @ 9:30-11am PT / 12:30-2pm ET, [Registration link](https://czi.zoom.us/meeting/register/rnbrK9lgR4-FE_aYT7Hv1A)
+* **Design for Digital Communications**: Thursday, March 6 @ 9:30-11am PT / 12:30-2pm ET, [Registration link](https://czi.zoom.us/meeting/register/rnbrK9lgR4-FE_aYT7Hv1A)
 * **Website Design and Strategy 101**: Thursday, March 13 @ 9:30-11am PT / 12:30-2pm ET, [Registration link](https://czi.zoom.us/meeting/register/zmAAdrGKSviZhsdz6_MBGg)  
 * **Introduction to Social Media Strategy and Engagement**: Thursday, March 20 @ 9:30-11am PT / 12:30-2pm ET, [Registration link](https://czi.zoom.us/meeting/register/Gp3VZKEcQh-o1EGogOdDuQ)   
 * **Digital Rapid Response Tactics and Techniques**: Thursday, March 27 @ 9:30-11am PT / 12:30-2pm ET, [Registration link](https://czi.zoom.us/meeting/register/xH7VRC2cSwOG5IQSiFHh6g)  
 
 For the full list of courses offered by CZI, as will as recordings of past courses, please visit their [Capacity Building Opportunities](https://chanzuckerberg.com/capacity-building/training-sessions/) page.
 
----
+#### Free Artificial Intelligence Training
 
-### 6. Additional Resources & Events
+The LF AI & Data Foundation is offering a series of free training courses for developers of AI software. These include:
 
-&#10148; [**deRSE25**](https://events.hifis.net/event/1741/) **\- 5th conference for Research Software Engineering in Germany \- Feb 25-27, 2025, Karlsruhe Institute of Technology, Karlsruhe, Germany**
-
-* As a venue for the diverse community of people concerned with research software, deRSE25 values contributions from all levels of experience and across scientific disciplines, geographic locations, genders, and ethnicities.
-
-&#10148; [**2025 Improving Scientific Software Conference**](https://sea.ucar.edu/iss/2025) **\- April 7-10, 2025 at NSF NCAR's Center Green Campus, Boulder, CO, and virtually**
-
-* The UCAR Software Engineering Assembly's Improving Scientific Software Conference is now accepting abstracts for the 2025 event which will take place April 7-10, 2025 at NSF NCAR's Center Green Campus and virtually. The theme of ISS 2025 is From Legacy to Leading-Edge: Transforming Software Design in Science to Meet Tomorrow’s Challenges. As always, it welcomes anyone with an interest in improving scientific software quality, development, and design.  
-* Abstracts for talks, as well as tutorial and panel sessions are due by Friday, January 24, 2025\.  
-* You may submit an abstract [here](https://sea.ucar.edu/iss/2025/#submitting-an-abstract) and visit our [conference website](https://sea.ucar.edu/iss/2025) for more information.
-
-&#10148; [**Sustainable Scientific Software Conference (S3C)**](https://s3c.sandia.gov) **\- May 5-8, 2025, Denver, CO**
-
-* The Sustainable Scientific Software Conference (S3C) will help connect individuals and teams from the High Performance Computing (HPC) community that are working to deliver scientific software solutions in a sustainable manner. Sustainable software delivery spans the spectrum of software engineering, from design and development to DevOps, and software deployment platforms, from laptops to HPC systems.  
-* [Submit](https://www.fbcinc.com/e/nlit/submissions.aspx) your abstract by January 24, 2025
-
-&#10148; [**IEEE eScience 2025 Conference**](https://www.escience-conference.org/2025/) **\- Sept 15-18, 2025, Chicago, IL**
-
-* eScience 2025 interprets eScience in its broadest meaning that enables and improves innovation in data- and compute-intensive research across all domain sciences ranging from traditional areas in physics and earth sciences to more recent fields such as social sciences, arts and humanities, and artificial intelligence for a wide variety of target architectures including HPC, cloud and IoT infrastructures.  
-* Workshop submission: March 10, 2025  
-* Tutorials & Paper submission: May 5, 2025  
-* Poster Submissions: July 28, 2025
-
-&#10148; [**US-RSE'25**](https://us-rse.org/usrse25/) **\- October 6-8 2025, Philadelphia, PA**
-
-* "Code, Practices, and People"
-* Save the date for US-RSE's third annual conference
+* [**Conversational AI: Ensuring Compliance and Mitigating Risks**:](https://training.linuxfoundation.org/training/conversational-ai-ensuring-compliance-and-mitigating-risks-lfs120/) Learn to navigate the evolving landscape of conversational AI and gain expertise in risk mitigation, aligning with the latest standards and international guidelines.
+* [**Ethical Principles for Conversational AI**:](https://training.linuxfoundation.org/training/ethical-principles-in-conversational-ai-lfs118/) Conversational/voice AI technology is the ability to interact with devices and systems using natural language speech. Learn about the impact and ethical challenges of AI, especially conversational/voice AI, as well as the principles and frameworks to help avoid potential harm as humans interact with the technology.
+* [**Ethics in AI and Data Science**:](https://training.linuxfoundation.org/training/ethics-in-ai-and-data-science-lfs112/) Learn how to build and incorporate ethical principles and frameworks in your AI and Data Science technology and business initiatives to add transparency, build trust, drive adoption, and lead with responsibility.
+* [**Data and AI Fundamentals**:](https://training.linuxfoundation.org/training/data-and-ai-fundamentals-lfs115x/) This course is designed to give you an introduction to the amazing world of Artificial Intelligence. It offers a very pragmatic overview of AI fundamentals, accessible to both technical and non-technical audiences. This course provides an entrance to the amazing Linux Foundation AI & Data ecosystem, which will be very useful for people looking for relevant open source tools or areas to get involved to continue developing new data and AI skills.
 
 ---
 
-### 7. Contact Us
+### 6. Additional Resources
 
-If you have any questions or need assistance with your application, feel free to reach out to: :email: [info@corsa.center](mailto:info@corsa.center)
+If you have any questions or need assistance with grant applications, joining an open source software foundation, or any other questions about sustaining your project, feel free to reach out to: :email: [info@corsa.center](mailto:info@corsa.center)
 
-Stay updated with the latest funding opportunities and receive future newsletters by subscribing to our mailing list [here](https://corsa.center); you can also visit our [**Funding Opportunities Page**](https://corsa.center/#funding-opportunities).  
+Stay updated with the latest funding opportunities and receive future newsletters by subscribing to our mailing list [here](https://corsa.center).
