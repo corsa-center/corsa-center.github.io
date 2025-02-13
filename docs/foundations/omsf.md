@@ -3,11 +3,12 @@ layout: page
 title: Open Molecular Software Foundation - How to Join
 ---
 
-February 2025
+*February 2025*
 
-Zachary Baker
+*Zachary Baker*  
 
-**General Information about OMSF**
+  
+### **About OMSF**
 
 The Open Molecular Software Foundation (OMSF) is a nonprofit organization that provides governance, infrastructure, and financial support for open-source projects in molecular sciences. We help researchers, developers, and industry partners build sustainable, high-impact software by offering operational resources, community engagement, and long-term strategic guidance.
 
@@ -32,7 +33,7 @@ We are happy to work with you in structuring your proposal. If interested in hos
 
 ---
 
-**Benefits of Joining OMSF**
+### **Benefits of Joining OMSF**
 
 Projects that become part of OMSF gain access to a comprehensive suite of services designed to streamline operations and enhance impact. By joining, projects benefit from a flexible framework that supports long-term growth within the molecular science ecosystem. These benefits include:
 
@@ -44,7 +45,7 @@ Projects that become part of OMSF gain access to a comprehensive suite of servic
 
 ---
 
-**Ideal Characteristics of a Project**
+### **Ideal Characteristics of a Project**
 
 When considering alignment with OMSF, a project ideally should exhibit the following characteristics:
 
@@ -55,7 +56,7 @@ When considering alignment with OMSF, a project ideally should exhibit the follo
 
 ---
 
-**Structuring Your Proposal**
+### **Structuring Your Proposal**
 
 When preparing your project for consideration, include:
 
@@ -86,7 +87,7 @@ Do you not know the answer to some of these? That’s okay\! If you’d like gui
 
 ---
 
-**The Application Process**
+### **The Application Process**
 
 Interested in joining? The first step is easy: send your proposal to [info@omsf.io](mailto:info@omsf.io). 
 
@@ -100,7 +101,7 @@ Projects interested in joining OMSF go through an application and review process
 
 ---
 
-**What Happens in the Introductory Call?**
+### **What Happens in the Introductory Call?**
 
 The introductory call serves as an opportunity for both OMSF and the prospective project to evaluate mutual alignment. Key topics covered include:
 
