@@ -16,13 +16,16 @@ Meetings will be open to anyone who wants to join - so please feel free to share
 - Meetings will be announced via the [CORSA email list](https://groups.io/g/corsa/join) and the CASS #general and #wg-foundations slack channels
 
 
-## Next meeting: Jan 29, 2025 at 12:00 to 13:00, CDT
+## Next meeting: uncertain
 
-In this meeting, we will have formal talks (which we will record) from two software foundations, [HPSF](https://hpsf.io), represented by Todd Gamblin, and [NumFOCUS](https://numfocus.org), represented by Leah Silen, followed by Q&A with Todd and Leah. 
-
-See announcement for zoom details.
+There is not a next meeting planned at this time due to lack of attendance at the past meetings. We'll think a bit more about how to proceed, and announce next steps in the future.
 
 ## Past meetings
+
+### Next meeting: Jan 29, 2025 at 12:00 to 13:00, CDT
+
+In this meeting, had formal talks from two software foundations, [HPSF](https://hpsf.io), represented by Todd Gamblin, and [NumFOCUS](https://numfocus.org), represented by Leah Silen, followed by Q&A with Todd and Leah. The video recording of the  meeting is now available at https://youtu.be/PUEEntwY75o
+
 
 ### Dec 5, 2024
 
