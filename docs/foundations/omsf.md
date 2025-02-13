@@ -3,6 +3,9 @@ layout: page
 title: Open Molecular Software Foundation - How to Join
 ---
 
+February 2025
+
+Zachary Baker
 
 **General Information about OMSF**
 
