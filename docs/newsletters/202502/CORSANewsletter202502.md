@@ -14,17 +14,17 @@ If you would like to become more involved in CORSA activities, please contact us
 
 **In This Issue:**
 
-* [**CORSA Updates**](#1-corsa-updates)
-* [**Recent News**](#2-recent-news)  
-* [**Upcoming Events**](#3-upcoming-events)  
-* [**New Funding Opportunities**](#4-new-funding-opportunities)  
-* [**Get Involved: Working Groups**](#5-get-involved-working-groups)  
-* [**Tips & Tricks**](#6-tips--tricks)  
-* [**Additional Resources**](#7-additional-resources)
+* [**CORSA Updates**](#corsa-updates)
+* [**Recent News**](#recent-news)  
+* [**Upcoming Events**](#upcoming-events)  
+* [**New Funding Opportunities**](#new-funding-opportunities)  
+* [**Get Involved: Working Groups**](#get-involved)  
+* [**Tips & Tricks**](#tips-tricks)  
+* [**Additional Resources**](#additional-resources)
 
 ---
 
-### 1. CORSA Updates
+### 1. CORSA Updates {#corsa-updates}
 
 Recent activities undertaken by CORSA, include:
 
@@ -35,7 +35,7 @@ Recent activities undertaken by CORSA, include:
 * Talking about CORSA and CASS at [CHAOSSCon-EU-25](https://chaoss.community/chaosscon-2025-eu/)
 * Facilitiating engagement with open source software foundations, including helping facilitate Tokyo University joining the [High Performance Software Foundation](https://hpsf.io)
 
-### 2. Recent News
+### 2. Recent News {#recent-news}
 
 &#10148; [**Open Source Software Foundations HPSF and NumFOCUS Featured In US-RSE Association February Community Call**](https://us-rse.org/events/repeated/community-call-fridays/)
 
@@ -77,7 +77,7 @@ Do you think the FAIR principles for Research Software ([https://doi.org/10.1549
 
 ---
 
-### 3. Upcoming Events
+### 3. Upcoming Events {#upcoming-events}
 
 &#10148; [**deRSE25**](https://events.hifis.net/event/1741/) **\- 5th conference for Research Software Engineering in Germany \- Feb 25-27, 2025, Karlsruhe Institute of Technology, Karlsruhe, Germany**
 
@@ -117,7 +117,7 @@ Do you think the FAIR principles for Research Software ([https://doi.org/10.1549
 
 ---
 
-### 4. New Funding Opportunities
+### 4. New Funding Opportunities {#new-funding-opportunities}
 
 &#10148; [**EXPRESS:2025 Exploratory Research for Extreme-Scale Science**](https://science.osti.gov/-/media/grants/pdf/foas/2025/DE-FOA-0003545-000001.pdf)
 
@@ -223,7 +223,7 @@ Proposers are invited to submit proposals in several project classes, which are 
 
 ---
 
-### 5. Get Involved: Working Groups
+### 5. Get Involved: Working Groups {#get-involved}
 
 &#10148; [**Foundations Working Group (Foundations Forum)**](https://cass.community/working-groups/foundations.html)
 
@@ -247,7 +247,7 @@ Proposers are invited to submit proposals in several project classes, which are 
 
 ---
 
-### 6. Tips & Tricks
+### 6. Tips & Tricks {#tips-tricks}
 
 #### Free Communications Training
 
@@ -271,7 +271,7 @@ The LF AI & Data Foundation is offering a series of free training courses for de
 
 ---
 
-### 7. Additional Resources
+### 7. Additional Resources {#additional-resources}
 
 #### Grant-making Organizations for Scientific Software
 
