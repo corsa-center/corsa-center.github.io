@@ -8,6 +8,8 @@ Welcome to the CORSA newsletter! Each month, we'll provide information about wha
 
 **Please let us know what you think of this newsletter by taking this quick two question survey: [CLICK HERE](https://corsa.center/newsletters/survey.html)**
 
+If you would like to become more involved in CORSA activities, please contact us at: :email: [info@corsa.center](mailto:info@corsa.center)
+
 ---
 
 **In This Issue:**
@@ -24,14 +26,14 @@ Welcome to the CORSA newsletter! Each month, we'll provide information about wha
 
 ### 1. CORSA Updates
 
-Recent activities being undertaken by CORSA, include:
+Recent activities undertaken by CORSA, include:
 
 * Participating in CASS working groups tasked with identifying metrics that can be used to inform projects on their sustainability practices. In particular, CASS has identified the areas of impact, quality, and sustainability as key to this understanding.
 * Meeting with projects to discuss opportunities to leverage the resources of open source software foundations.
 * Organizing events, such as the CORSA Birds-of-a-feather at SC'24 and the Sustainable Project Pathways for HPC Software workshop at the IEEE eScience 2024 conference.
 * Engaging with other funding and community organizations to explore pathways for the funding of open source scientific software, such as in the CZI Strategic Planning Workshop for Sustaining Scientific Open Source Software.
-* Talked about CORSA and CASS at [CHAOSSCon-EU-25](https://chaoss.community/chaosscon-2025-eu/)
-* Facilitiating engagement with open source software foundations, including helping facilitate Tokyo University joining the High Performance Software Foundation
+* Talking about CORSA and CASS at [CHAOSSCon-EU-25](https://chaoss.community/chaosscon-2025-eu/)
+* Facilitiating engagement with open source software foundations, including helping facilitate Tokyo University joining the [High Performance Software Foundation](https://hpsf.io)
 
 ### 2. Recent News
 
@@ -56,11 +58,15 @@ report, we set out to review the impact of the first five cycles of the EOSS pro
 multiple perspectives and a variety of data sources, highlighting the support required to sustain
 OSS as well as the successes of our community. 
 
+&#10148; [**Charting a path towards a sustainable and resilient research software infrastructure ecosystem**](https://investinopen.org/blog/charting-a-path-towards-a-sustainable-and-resilient-research-software-infrastructure-ecosystem/)
+
+Over the past five months, the Invest in Open Infrastructure (IOI) team has been working on a study aimed at understanding the landscape of community infrastructure for research software and identifying the gaps, challenges, and opportunities for advancing its sustainability and resilience. After months of intensive research, the IOI team hosted a virtual open presentation on January 23, 2025. The aim of the presentation was to share the preliminary findings of the research study and also provide a platform to receive questions, feedback, and recommendations from the community.
+
 &#10148; [**NumFOCUS January 2025 Project Updates**](https://numfocus.medium.com/january-2025-project-updates-b5636a3d6645)
 
 See the latest updates from NumFOCUS fiscally sponsored projects, such as mlpack, scikit-learn, Julia and others!
 
-&#10148; **FAIR for Research Software (FAIR4RS) Principles 2-year review**
+&#10148; [**FAIR for Research Software (FAIR4RS) Principles 2-year review**](https://www.researchsoft.org/blog/2024-03/)
 
 Do you think the FAIR principles for Research Software ([https://doi.org/10.15497/RDA00068](https://doi.org/10.15497/RDA00068)) are working?
 
@@ -68,12 +74,6 @@ Do you think the FAIR principles for Research Software ([https://doi.org/10.1549
 
 * Survey: https://forms.gle/sRhRQD4gWBQWzcGS7  
 * Recorded webinars about the review process: [https://youtu.be/Ex691O5Koe0](https://youtu.be/Ex691O5Koe0) and [https://youtu.be/iBtDm8BP05g](https://youtu.be/iBtDm8BP05g)
-
-&#10148; [**New NIH public access policy**](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-047.html)
-
-The U.S. National Institutes of Health recently released a new public access policy which removes the previous twelve-month embargo period before manuscripts are made freely available to the public.
-
-In addition to the release of the 2024 Public Access Policy, NIH is also releasing its Plan on Metadata and Personal Identifiers (PIDs) for public comment. The plan outlines how researchers and institutions should be using metadata and PIDs, and also outlines proposed requirements for NIH-supported repositories to collect and make relevant metadata publicly available and searchable. To read more and comment, see [https://osp.od.nih.gov/comment-form-nih-plan-to-increase-findability-and-transparency-of-research-results-through-the-use-of-metadata-and-persistent-identifiers-pids/](https://osp.od.nih.gov/comment-form-nih-plan-to-increase-findability-and-transparency-of-research-results-through-the-use-of-metadata-and-persistent-identifiers-pids/)
 
 ---
 
@@ -272,6 +272,21 @@ The LF AI & Data Foundation is offering a series of free training courses for de
 ---
 
 ### 7. Additional Resources
+
+#### Grant-making Organizations for Scientific Software
+
+* [Alfred P. Sloan Foundation](https://sloan.org)
+* [Chan Zuckerberg Initiative](https://chanzuckerberg.com)
+* [Code for Science & Society](https://www.codeforsociety.org)
+* [Department of Energy, Office of Science](https://science.osti.gov)
+* [Invest in Open Infrastructure](https://investinopen.org)
+* [The Kavli Foundation](https://www.kavlifoundation.org)
+* [National Aeronautics and Space Administration](https://www.nasa.gov)
+* [National Science Foundation](https://www.nsf.gov)
+* [NumFOCUS](https://numfocus.org)
+* [Schmidt Sciences](https://www.schmidtsciences.org)
+
+#### Contact CORSA
 
 If you have any questions or need assistance with grant applications, joining an open source software foundation, any other questions about sustaining your project, or are interested in contributing to CORSA, feel free to reach out to: :email: [info@corsa.center](mailto:info@corsa.center)
 
