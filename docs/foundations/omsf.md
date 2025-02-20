@@ -20,7 +20,7 @@ We work with academics looking for new ways to make their work sustainable, indu
 
 The core of the Open Molecular Software Foundation is its hosted projects \- groups of talented people that drive innovation, foster collaboration, and contribute to our broader ecosystem.
 
-Hosting your project with OMSF means aligning with our commitment to open science and open-source principles while benefiting from an established infrastructure for funding management, governance, and community support.
+Hosting your project with OMSF means aligning with its commitment to open science and open-source principles while benefiting from an established infrastructure for funding management, governance, and community support.
 
 To begin, consider:
 
