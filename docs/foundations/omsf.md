@@ -110,7 +110,7 @@ The introductory call serves as an opportunity for both OMSF and the prospective
 * Expectations for governance, infrastructure, and sustainability  
 * The potential pathway for onboarding and next steps
 
-By the end, you will have a good idea if OMSF is the correct fit for you. Regardless, OMSF strives for an iterative process \- we want to see your project be the best that it can be\!
+By the end, you will have a good idea if OMSF is the correct fit for you. Regardless, OMSF strives for an iterative process \- it wants to see your project be the best that it can be\!
 
 Thanks for taking the time to read this guide. If you have any lingering questions, be sure to reach out to [info@omsf.io](mailto:info@omsf.io) \- we are more than happy to hear from you\!
 
