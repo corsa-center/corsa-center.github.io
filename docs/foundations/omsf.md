@@ -83,7 +83,7 @@ When preparing your project for consideration, include:
 * What is your anticipated timeline for achieving them?  
 * How will you measure progress and success over time?
 
-Do you not know the answer to some of these? That’s okay\! If you’d like guidance in how to answer these questions, reach out to [info@omsf.io](mailto:info@omsf.io), and we’d be happy to help.
+Do you not know the answer to some of these? That’s okay\! If you’d like guidance in how to answer these questions, reach out to [info@omsf.io](mailto:info@omsf.io), and OMSF will be happy to help.
 
 ---
 
