@@ -12,7 +12,7 @@ title: Open Molecular Software Foundation - How to Join
 
 The Open Molecular Software Foundation (OMSF) is a nonprofit organization that provides governance, infrastructure, and financial support for open-source projects in molecular sciences. We help researchers, developers, and industry partners build sustainable, high-impact software by offering operational resources, community engagement, and long-term strategic guidance.
 
-We work with academics looking for new ways to make their work sustainable, industries that want to promote open science, and community-based projects focused on events, education, and stewardship.
+We work with researchers looking for new ways to make their work sustainable, industries that want to promote open science, and community-based projects focused on events, education, and stewardship.
 
 ---
 
