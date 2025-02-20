@@ -112,5 +112,5 @@ The introductory call serves as an opportunity for both OMSF and the prospective
 
 By the end, you will have a good idea if OMSF is the correct fit for you. Regardless, OMSF strives for an iterative process \- it wants to see your project be the best that it can be\!
 
-Thanks for taking the time to read this guide. If you have any lingering questions, be sure to reach out to [info@omsf.io](mailto:info@omsf.io) \- we are more than happy to hear from you\!
+Thanks for taking the time to read this guide. If you have any lingering questions, be sure to reach out to [info@omsf.io](mailto:info@omsf.io) \- OMSF is more than happy to hear from you\!
 
