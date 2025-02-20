@@ -29,7 +29,7 @@ To begin, consider:
 * Your governance model and how decisions will be made within your project.  
 * Your plan for financial sustainability, including potential funding sources.
 
-We are happy to work with you in structuring your proposal. If interested in hosting your project at OMSF, reach us at [info@omsf.io](mailto:info@omsf.io)
+OMSF is happy to work with you in structuring your proposal. If interested in hosting your project at OMSF, reach them at [info@omsf.io](mailto:info@omsf.io)
 
 ---
 
