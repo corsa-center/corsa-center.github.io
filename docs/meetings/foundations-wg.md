@@ -24,7 +24,7 @@ There is not a next meeting planned at this time due to lack of attendance at th
 
 ### Jan 29, 2025
 
-In this meeting, we had formal talks from two software foundations, [HPSF](https://hpsf.io), represented by Todd Gamblin, and [NumFOCUS](https://numfocus.org), represented by Leah Silen, followed by Q&A with Todd and Leah. The video recording of the  meeting is now available at https://youtu.be/PUEEntwY75o
+In this meeting, we had formal talks from two software foundations, [HPSF](https://hpsf.io), represented by Todd Gamblin, and [NumFOCUS](https://numfocus.org), represented by Leah Silen, followed by Q&A with Todd and Leah. The video recording of the  meeting is now available at <https://youtu.be/PUEEntwY75o>
 
 
 ### Dec 5, 2024
