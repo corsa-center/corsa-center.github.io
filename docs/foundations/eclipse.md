@@ -5,8 +5,6 @@ title: Eclipse Foundation - How to Apply and Join
 
 30 October 2024
 
-Greg Watson
-
 # 1. Introduction
 
 This document, written as part of the work of the [Center for Open-Source Research Software Stewardship and Advancement (CORSA)](https://corsa.center), describes the information that a particular software project needs to collect/have in order to apply to and then join [Eclipse Foundation](https://eclipse.org/). Much of the content in this document comes from Eclipse Foundation documents.
