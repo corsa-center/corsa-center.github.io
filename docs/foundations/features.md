@@ -16,10 +16,10 @@ This document, which discusses many of the [foundations CORSA has examined](http
   </tr>
   <tr>
     <th style="border: 1px solid;  padding: 2px; text-align:left;">Characteristic</th>
-    <th style="border: 1px solid;  padding: 2px; text-align:center;"">ASF</th>
-    <th style="border: 1px solid;  padding: 2px; text-align:center;"">HPSF</th>
-    <th style="border: 1px solid;  padding: 2px; text-align:center;"">NumFOCUS</th>
-    <th style="border: 1px solid;  padding: 2px; text-align:center;"">OMSF</th>
+    <th style="border: 1px solid;  padding: 2px; text-align:center;">ASF</th>
+    <th style="border: 1px solid;  padding: 2px; text-align:center;">HPSF</th>
+    <th style="border: 1px solid;  padding: 2px; text-align:center;">NumFOCUS</th>
+    <th style="border: 1px solid;  padding: 2px; text-align:center;">OMSF</th>
   </tr>
   <tr>
     <td style="border: 1px solid;  padding: 2px;">Industry-focused</td>
