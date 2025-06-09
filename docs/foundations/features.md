@@ -9,7 +9,7 @@ Please [contact us](mailto:watsongr@ornl.gov) if you would like more information
 
 This document, which discusses many of the [foundations CORSA has examined](https://corsa.center/#foundations), includes contributions from Daniel S. Katz, Gregory R. Watson, Zachary Baker, Todd Gamblin, Leah Silen, and Suresh Marru.
 
-<table style="border: 1px solid;">
+<table style="border: 1px solid; border-spacing: 2px;">
   <tr>
     <th style="border: 1px solid;"></th>
     <th colspan="4">Foundations</th>
