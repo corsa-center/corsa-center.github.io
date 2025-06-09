@@ -12,7 +12,7 @@ This document, which discusses many of the [foundations CORSA has examined](http
 <table style="border: 1px solid;  padding: 2px;">
   <tr>
     <th style="border: 1px solid;  padding: 2px;"></th>
-    <th style="border: 1px solid;  padding: 2px; text-align:center;"colspan="4">Foundations</th>
+    <th style="border: 1px solid;  padding: 2px; text-align:center;" colspan="4">Foundations</th>
   </tr>
   <tr>
     <th style="border: 1px solid;  padding: 2px;">Characteristic</th>
