@@ -134,7 +134,7 @@ This document, which discusses many of the [foundations CORSA has examined](http
     <td style="border: 1px solid;  padding: 2px; text-align:center;">X</td>
   </tr>
   <tr>
-    <td style="border: 1px solid;  padding: 2px;">Trademark Enforcement</td>
+    <td style="border: 1px solid;  padding: 2px;">Trademark enforcement</td>
     <td style="border: 1px solid;  padding: 2px; text-align:center;">X</td>
     <td style="border: 1px solid;  padding: 2px; text-align:center;">X</td>
     <td style="border: 1px solid;  padding: 2px; text-align:center;">X</td>
