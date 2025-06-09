@@ -9,142 +9,142 @@ Please [contact us](mailto:watsongr@ornl.gov) if you would like more information
 
 This document, which discusses many of the [foundations CORSA has examined](https://corsa.center/#foundations), includes contributions from Daniel S. Katz, Gregory R. Watson, Zachary Baker, Todd Gamblin, Leah Silen, and Suresh Marru.
 
-<table style="border: 1px solid; border-spacing: 2px;">
+<table style="border: 1px solid;  border-spacing: 2px;">
   <tr>
-    <th style="border: 1px solid;"></th>
+    <th style="border: 1px solid;  border-spacing: 2px;"></th>
     <th colspan="4">Foundations</th>
   </tr>
   <tr>
-    <th style="border: 1px solid;">Characteristic</th>
-    <th style="border: 1px solid;">ASF</th>
-    <th style="border: 1px solid;">HPSF</th>
-    <th style="border: 1px solid;">NumFOCUS</th>
-    <th style="border: 1px solid;">OMSF</th>
+    <th style="border: 1px solid;  border-spacing: 2px;">Characteristic</th>
+    <th style="border: 1px solid;  border-spacing: 2px;">ASF</th>
+    <th style="border: 1px solid;  border-spacing: 2px;">HPSF</th>
+    <th style="border: 1px solid;  border-spacing: 2px;">NumFOCUS</th>
+    <th style="border: 1px solid;  border-spacing: 2px;">OMSF</th>
   </tr>
   <tr>
-    <td style="border: 1px solid;">Industry-focused</td>
-    <td style="border: 1px solid; text-align:center;"></td>
-    <td style="border: 1px solid; text-align:center;"></td>
-    <td style="border: 1px solid; text-align:center;"></td>
-    <td style="border: 1px solid; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px;">Industry-focused</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
   </tr>
   <tr>
-    <td style="border: 1px solid;">Science-focused</td>
-    <td style="border: 1px solid; text-align:center;"></td>
-    <td style="border: 1px solid; text-align:center;"></td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px;">Science-focused</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
   </tr>
   <tr>
-    <td style="border: 1px solid;">HPC-focused</td>
-    <td style="border: 1px solid; text-align:center;"></td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;"></td>
-    <td style="border: 1px solid; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px;">HPC-focused</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
   </tr>
   <tr>
-    <td style="border: 1px solid;">IP requirements - IP Transfer required (trademark, domains, etc.)</td>
-    <td style="border: 1px solid; text-align:center;"></td>
-    <td style="border: 1px solid; text-align:center;">X (TM assignment; OSS license)</td>
-    <td style="border: 1px solid; text-align:center;"></td>
-    <td style="border: 1px solid; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px;">IP requirements - IP Transfer required (trademark, domains, etc.)</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X (TM assignment; OSS license)</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
   </tr>
   <tr>
-    <td style="border: 1px solid;">Optional transfer, management and ownership of IP </td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;"></td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px;">Optional transfer, management and ownership of IP </td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
   </tr>
   <tr>
-    <td style="border: 1px solid;">Can contract/hire staff for projects</td>
-    <td style="border: 1px solid; text-align:center;"></td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px;">Can contract/hire staff for projects</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
   </tr>
   <tr>
-    <td style="border: 1px solid;">Project funding available</td>
-    <td style="border: 1px solid; text-align:center;"></td>
-    <td style="border: 1px solid; text-align:center;"></td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px;">Project funding available</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
   </tr>
   <tr>
-    <td style="border: 1px solid;">Provides marketing support</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px;">Provides marketing support</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
   </tr>
   <tr>
-    <td style="border: 1px solid;">Provides event support</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px;">Provides event support</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
   </tr>
     <tr>
-    <td style="border: 1px solid;">Provides project communication tools (e.g., Slack)</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;">Can</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px;">Provides project communication tools (e.g., Slack)</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">Can</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
   </tr>
   <tr>
-    <td style="border: 1px solid;">Provides project software engineering tools (e.g., CodeRabbit)</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;">X (LF offers DevOps/CICD services)</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px;">Provides project software engineering tools (e.g., CodeRabbit)</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X (LF offers DevOps/CICD services)</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
   </tr>
   <tr>
-    <td style="border: 1px solid;">Provides commercial project management tools (e.g., Jira, Confluence, Trello, IBM ELM, Lucid Chart, LFX)</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px;">Provides commercial project management tools (e.g., Jira, Confluence, Trello, IBM ELM, Lucid Chart, LFX)</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
   </tr>
   <tr>
-    <td style="border: 1px solid;">Will negotiate CRADAs</td>
-    <td style="border: 1px solid; text-align:center;"></td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px;">Will negotiate CRADAs</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
   </tr>
   <tr>
-    <td style="border: 1px solid;">Will accept federal grants on behalf of projects</td>
-    <td style="border: 1px solid; text-align:center;"></td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px;">Will accept federal grants on behalf of projects</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
   </tr>
   <tr>
-    <td style="border: 1px solid;">Can subcontract to universities and national labs for projects</td>
-    <td style="border: 1px solid; text-align:center;"></td>
-    <td style="border: 1px solid; text-align:center;"></td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px;">Can subcontract to universities and national labs for projects</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
   </tr>
   <tr>
-    <td style="border: 1px solid;">Provides support models to projects (PM, Operations,  Accounting, HR)</td>
-    <td style="border: 1px solid; text-align:center;"></td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px;">Provides support models to projects (PM, Operations,  Accounting, HR)</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
   </tr>
   <tr>
-    <td style="border: 1px solid;">Trademark Enforcement</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px;">Trademark Enforcement</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
   </tr>
   <tr>
-    <td style="border: 1px solid;">Has legal presence internationally</td>
-    <td style="border: 1px solid; text-align:center;"></td>
-    <td style="border: 1px solid; text-align:center;">X</td>
-    <td style="border: 1px solid; text-align:center;"></td>
-    <td style="border: 1px solid; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px;">Has legal presence internationally</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;">X</td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
+    <td style="border: 1px solid;  border-spacing: 2px; text-align:center;"></td>
   </tr>
 </table>
