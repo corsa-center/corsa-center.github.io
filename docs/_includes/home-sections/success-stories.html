@@ -11,13 +11,14 @@
         {% for story in page.success_stories %}
         <div class="p-6 relative flex space-x-6">
           {% assign n = n | plus:1 %}
-          <p class="text-7xl font-bold text-gray-200">{{ n }}</p>
-          <div>
+	  <div>
             <h3 class="text-xl font-semibold mb-2">{{ story.title }}</h3>
-            <p>{{ story.content }}</p>
+            <blockquote>
+              {{ story.content }}
+            </blockquote>
           </div>
         </div>
         {% endfor %}
   
     </div>
-  </section>
+</section>
